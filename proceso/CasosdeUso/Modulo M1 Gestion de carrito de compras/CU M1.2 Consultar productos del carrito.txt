@@ -1,0 +1,30 @@
+
+Caso de uso: Consultar productos del carrito
+
+Resumen: Consultar los productos que ya se encuentran registrados en el carrito.
+
+Trayectoria principal:
+    1. Actor: Selecciona el botón "Buscar" en la interfaz de compra.
+    2. Sistema: Muestra un cuadro de texto que se puede llenar a mano o usando el escaner.
+    3. Actor: Escanea el codigo de barras. [Trayectoria alternativa A]
+    4. Actor: Preciona "Enter" en su teclado o el boton "Aceptar".
+    5. Sistema: Busca dentro de la lista del carrito el codico escaneado. [Trayectoria alternativa B]
+    6. Sistema: Muestra el articulo solicitado.
+
+-----------------------------------------------------------------------------------------------------------
+Trayectorias alternativas.
+
+Trayectoria alternativa A: El Escaner no funciona.
+    1. Actor: Introducir el codigo del producto de forma manual.
+    2. Regresa al paso 4 de la TP.
+
+Trayectoria alternativa B: El producto no fue encontrado en la lista del carrito.
+    1. Sistema: Muestra el Mensaje 1: "Producto no encontrado".
+    2. Actor: Preciona el boton "Aceptar"
+    3. Regresa al paso 2 de la TP.
+
+
+    REGLAS DEL NEGOCIO:
+        1. Un codigo de producto (CdP) es una cadena de caracteres alfanumericos que sirve para identificar un producto en especifico.
+        2. Un producto es todo aquel que tenga un codigo de producto asociado.
+        3. 

@@ -1,0 +1,36 @@
+Manejo de productos en el inventario.
+
+Requerimiento: Consultar producto escaso.
+
+Resumen: El empleado hace una consulta al sistema que le muestra la tabla pero solo los productos escasos (definidos por la regla de negocio 1) actuales con sus respectivos datos.
+
+Precondición: Haber registrado al menos un producto en el inventario.
+
+Trayectoria
+
+1.- Actor: En el menú “Inventario”, el empleado hace clic en la opción “Productos en escasez”. [Trayectoria A]
+2.- Sistema: Accede a la base de datos. [Trayectoria B]
+2.- Sistema: Muestra la tabla con los productos escasos. [Trayectoria C]
+3.- Actor: Hace clic en el botón “Borrar filtros”.
+4.- Sistema: Muestra la tabla con todos los productos.
+
+Trayectoria alternativa A: "No hay productos escasos"
+
+1. Sistema: Envía el mensaje 1.- "No hay productos en escasez".
+2. Regresamos al paso 1 de la TP.
+
+Trayectoria alternativa B: "Base de Datos caída"
+ 
+1. Sistema: Envía el mensaje 2.- "Base de Datos no disponible, por favor intente más tarde".
+2. Sistema: Envía el mensaje 2 al administrador de la Base de Datos: "Base de datos caída". 
+3. Regresamos al paso 1 de la TP.
+
+Trayectoria alternativa C
+
+1.- Actor: Hace clic en el botón “Borrar filtros”.
+2.- Sistema: Muestra la tabla con todos los productos.
+3. Regresamos al paso 1 de la TP.
+
+Reglas de Negocio
+
+RN1.- Son llamados productos escasos aquellos que tienen 20 unidades o menos en el inventario.

@@ -1,0 +1,36 @@
+Requerimientos:
+
+Gestión del carrito de compras.
+	Agregar productos del carrito.
+	Consultar productos del carrito.	
+	Eliminar productos del carrito.
+	Modificar productos del carrito.
+	Generar ticket.
+
+Historial de ventas
+	Agregar venta.
+	Consultar venta.
+	Eliminar venta.
+
+Historial de compras
+	Agregar compra.
+	Consultar compra.
+	Eliminar compra.
+	
+Gestión de proveedores.
+	Agregar proveedor.
+	Consultar proveedor.
+	Eliminar proveedor.
+	Modificar proveedor.
+	
+Compras a proveedor.
+	Registrar producto comprado. //A discusión
+	Cancelar producto comprado.
+
+Manejo de productos del inventario.
+	Agregar producto en el inventario.
+	Consultar producto en el inventario.
+	Eliminar producto en el inventario.
+	Modificar producto en el inventario.
+	Generar alerta de producto escaso.
+	Consultar productos escasos.

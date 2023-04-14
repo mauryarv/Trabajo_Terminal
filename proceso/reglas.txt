@@ -1,0 +1,18 @@
+Reglas del negocio.
+
+Visión:
+
+Misión:
+
+Deducción:
+
+Definición:
+
+	Cliente: Es aquella persona que compra uno más productos.
+	Producto: Es un articulo que se vende en la farmacia.
+	Proveedor: Es aquella persona o empresa que nos vende el producto.
+	Empleado: Es quella persona que trabaja en la farmacia.
+
+Decisión:
+
+ No se aceptarán devoluciones de producto del cliente.

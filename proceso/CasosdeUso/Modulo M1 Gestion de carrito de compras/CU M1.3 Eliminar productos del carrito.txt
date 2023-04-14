@@ -1,0 +1,23 @@
+CU M1.3 Eliminar productos del carrito
+
+Resumen:El empleado eliminara los productos que el cliente ya no desee comprar o que no pueda comprar.
+
+Datos de los productos:
+•	Nombre
+•	Código de barras 	   
+•	Cantidad del mismo producto
+
+Preconcición:
+•	Hay un cambio en el pedido.
+•	El producto debe estar previamente ingresado en el sistema
+
+Trayectoria principal: 
+1. Actor:Se realiza un cambio en el pedido
+2. Actor:Selecciona la opción eliminar producto del carrito.
+3. Sistema:Despliega el menú con todos los porductos que se encuentran en el carro.
+4. Actor:Marca la cantidad de productos a eliminar del carro.
+5. Actor:Presiona el simbolo de eliminar para eliminar los productos.
+5. Sistema:Muestra en pantalla "Seguro que desea eliminar los productos?"
+6. Actor: Selecciona la opcción "SI"
+7. Sistema:Elimina el producto del carrito.
+8. Sistema:Regresa a la pagina deproductos del carro.

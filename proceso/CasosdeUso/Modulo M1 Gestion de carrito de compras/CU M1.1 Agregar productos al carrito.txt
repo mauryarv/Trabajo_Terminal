@@ -1,0 +1,66 @@
+CU M1.1 Agregar productos al carrito.
+
+Resumen: Empleado agregara los productos que el cliente desea comprar para generar un ticket de compra, saber el monto a pagar, el número de productos agregados al ticket.
+
+Datos de los productos:
+•	Nombre
+•	Código de barras 	   
+•	Descripción del producto
+•	Precio de venta
+•	Cantidad del mismo producto
+•	Existencia actual
+
+Precondición: 
+•	El producto debe tener existencias. 
+•	El producto debe estar previamente ingresado en el sistema
+
+Trayectoria Principal:
+
+
+1.	Actor: Selecciona opción agregar productos.
+2.	Sistema: Muestra una pantalla llamada “Productos en la venta actual” donde se ingresarán los productos uno a uno.
+3.	Sistema: Muestra en forma de lista: Código de barras, nombre, descripción del producto, cantidad, existencia actual e importe.
+4.	Actor: Escanea el producto uno a uno cuidando que se cumpla con la regla del negocio 1. [ Trayectoria A], [ Trayectoria B], [ Trayectoria D]
+5.	Sistema: Realiza la suma de la cantidad de productos agregados a la lista de productos del cliente y se registra en un campo llamado “Total de productos”. 
+6.	Sistema: Realiza la resta dentro del campo “existencia actual” [ Trayectoria C]
+7.	Sistema: Realiza la suma total de la cantidad a pagar de la lista de productos agregados y se muestran en un capo llamado “Total”.
+8.	 Actor: Selecciona el botón “Cobrar”.
+9.	Sistema: Muestra una pantalla con el ticket de compra con todos los artículos seleccionados.
+10.	Sistema: Muestra mensaje: “Pagar la cantidad: $$$”
+11.	Actor: Ingresa la cantidad que le pagaron.
+12.	Sistema: Muestra la cantidad del vuelto. 
+13.	Actor Selecciona la opción pagar.
+14.	Sistema: Guarda el ticket en el historial de compras y se imprime uno para el cliente.
+
+Trayectoria alternativa A:
+El vendedor no pudo escanear el código de barras
+1.	Sistema: Envía el mensaje 1: producto no encontrado.
+2.	Actor: Ingresa manualmente el código de barras o haciendo uso del CU: “Consultar producto en el inventario”. Se tendrá la opción de buscar los productos por nombre y desde ahí agregarlos al ticket de compra actual.
+3.	Regresamos al paso 4 de la TP.
+
+
+Trayectoria alternativa B:
+El cliente desea modificar productos dentro de su lista de productos
+1.	Actor: Selecciona el producto a modificar.
+2.	Actor: Selecciona el campo “cantidad”.
+3.	Actor: Modifica la cantidad de piezas.
+4.	Actor: Selecciona botón aceptar.
+5.	Sistema: Guarda los cambios.
+6.	Regresamos al paso 4 de la TP
+
+
+
+Trayectoria alternativa C
+Inventario con poca existencia.
+1.	Sistema: envía mensaje 2: Pocas existencias.
+2.	Regresa al paso 6 de la trayectoria principal.
+
+
+Trayectoria alternativa D
+Inventario sin existencias.
+1.	Sistema: envía mensaje 3: Producto sin existencias.
+2.	Regresa al paso 4 de la trayectoria principal.
+
+Reglas del negocio
+1.	Venta con receta médica.
+El medicamento antibiótico, medicamento controlado y algunos otros que necesiten previa autorización de un médico no podrán venderse sin receta médica valida.

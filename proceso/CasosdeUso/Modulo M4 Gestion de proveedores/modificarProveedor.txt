@@ -1,0 +1,40 @@
+CU M4.4 Modificar proveedor.
+-Modulo M4: Gestion de Proveedores.
+-Requerimiento 4: Modificar proveedor.
+
+Resumen: Modificar el proveedor seleccionado de la base de datos.
+
+Actores: Empleado y Sistema.
+
+Datos necesarios:
+-Nombre del proveedor.
+-Elemento a modificar.
+
+Precondicion:
+-El proveedor debe haber sido previamente registrado en el sistema.
+
+Trayectoria principal
+
+ 1 E: En la interfaz "Menu Proveedores", el empleado hace click en "Modificar proveedor". [Trayectoria A]
+ 2 S: Accede a la base de datos. [Trayectoria B]
+ 3 S: Muestra la interfaz "Modificar proveedor". 
+ 4 E: Realiza la modificación deseada del proveedor.
+ 5 E: Oprime el boton "Guardar cambios".
+ 6 S: Muestra el mensaje 1: "¿Seguro que de seas guardar los cambios?"
+ 7 E: Confirma guardar los cambios realizados. [Trayectoria C]
+ 8 S: Actualiza la información en la base de datos.
+ 9 S: Muestra el mensaje 2: "Modificaciones realizadas con éxito".
+10 S: Muestra el "Menu Proveedores". 
+
+---------------Trayectorias alternativas---------------
+Trayectoria alternativa A: "Sin proveedores previamente registrados"
+1.2 S: Muestra el mensaje 3: "No hay proveedores a eliminar".
+1.2 S: Muestra "Menu proveedores".
+
+Trayectoria alternativa B: "Error en la base de datos"
+2.1 S: Muestra el mensaje 4: "Error de conexion con la base de datos".
+2.2 S: Muestra "Menu proveedores".
+
+Trayectoria alternativa C: "Seleccion de opcion cancelar"
+7.1 E: Cancela la modificacion de los cambios realizados.
+7.2 S: Muestra "Menu proveedores".

@@ -1,0 +1,47 @@
+CU M5.2 Devolver Producto.
+-Modulo M5: Compras a proveedores. 
+-Requerimiento 2: Devolver producto comprado.
+
+Resumen: El empleado registra la salida de producto dañado.
+
+Reglas de Negocio:
+-El producto caducado será devuelto al proveedor para su correcto desecho.
+-El producto en mal estado por motivos del proveedor le será devuelto y se nos devolverá el monto del producto.
+
+Actores: Empleado, Sistema, Proveedor.
+
+Datos necesarios: 
+-Nombre del proveedor.
+-Producto a devolver.
+
+Precondición:
+-Debe existir previo registro de la compra.
+
+Trayectoria principal 
+
+1 E: En el "Menú compras a proveedores" selecciona la opción "Devolver producto"
+2 S: Muestra la interfaz "Devolver producto" 
+	- "Lista producto a devolver"
+	- Botón "Consultar producto" [Trateroria A]
+	- Botón "Registrar salida del producto"
+3 E: Selecciona la opción "Registrar salida del producto"
+4 S: Mensaje "¿Esta seguro? Se eliminará del inventario y registrará en el historial"
+5 E: Selecciona la opción "Si"
+6 S: INCLUDE "Eliminar compra"
+7 S: Mensaje "Producto eliminado del inventario y registrado en el historial, por favor preparé el producto para su devolución"
+8 S: Muestra el "Menú compras a proveedores"
+
+ Trayectoria A: "Consultar producto"
+
+1 E: Selecciona la opción "Consultar producto"
+2 S: INCLUDE "Consultar producto del inventario".
+3 S: INCLUDE "Consultar compra".
+4 S: Muestra la información: "Producto, Fecha de compra, Proveedor"
+5 S: Muestra el mensaje: "¿Es el producto que desea devolver?"
+6 E: Selecciona la opción "Si"
+7 S: Agregar a "Lista de productos para devolver"
+8 S: Mostrar mensaje "Producto registrado para devolución"
+9 S: Paso 2 de la TP
+
+ 
+

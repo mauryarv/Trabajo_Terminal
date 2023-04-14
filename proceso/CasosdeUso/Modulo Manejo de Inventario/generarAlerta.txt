@@ -1,0 +1,19 @@
+Manejo de productos del inventario.
+
+Requerimiento: Generar alerta de producto escaso.
+
+Resumen: El sistema genera una alerta cuando en la base de datos, el número de existencias de un producto ha sido reducido a un límite determinado por la regla de negocio 1.
+
+Precondición: Haber registrado al menos un producto en el inventario.
+
+Trayectoria
+
+1.- Actor (Base de Datos): La base de datos tiene un o más productos con existencias bajas (regla de negocio).
+2.- Sistema:  Manda mensaje 1 en pantalla que muestra el o los productos y la cantidad queda de cada uno.
+3.- Actor (Empleado): Da clic en el botón “Continuar”.
+4.- Sistema: Deja de mostrar el mensaje.
+
+Reglas de Negocio:
+
+RN1.- Son llamados productos escasos aquellos que tienen 20 unidades o menos en el inventario.
+

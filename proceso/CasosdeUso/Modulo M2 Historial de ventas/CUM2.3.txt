@@ -1,0 +1,33 @@
+Historial de ventas.
+Eliminar venta.
+Resumen: permitir que el empleado pueda eliminar una venta de la farmacia
+	 en el historial de ventas.
+Datos básicos:
+
+Precondición:
+		Debe existir La venta a eliminar en el historial de ventas.
+
+Trayectoria principal:
+	1.- Actor: En el módulo de historial de ventas, da click en la opción eliminar venta.
+	2.- Sistema: Mostrará la ventana1 que le permitirá realizar la busqueda de la venta.
+	3.- Sistema: se mostrará un formulario que le pedirá 2 fechas para realizar un filtrado entre ambas
+		     y facilitarle la búsqueda de ventas de manera más eficiente.
+	4.- Actor: Llena el formulario con las fechas que serán el intervalo de busqueda. [Trayectoria A]
+	5.- Sistema: Muestra los resultados de ventas realizadas en el intervalo de tiempo entre las dos fechas.
+	6.- Actor: Visualiza la venta a eliminar y le da click en la opcion eliminar. [Trayectoria B]
+	7.- Sistema: Muestra mensaje1: "Esta seguro de eliminar la venta".
+	8.- Actor: Selecciona la opción Aceptar. [Trayectoria C]
+	9.- Sistema: Cambia el estatus de la venta a cancelada y descuenta el monto de la venta al calculo de venta Mensual.
+	10.- Sistema: Muestra notificación con mensaje2: "Se elimino la venta del historial".
+
+Trayectoria Alternativa A: Empleado colocá una fecha invalida en el formulario según la RN017.
+	1.- Sistema: Notifica con mensaje3: "Fecha invalida para busqueda"
+	2.- Se Regresará a el paso 2 de la TP.
+
+Trayectoria Alternativa B: Empleado selecciona la opción ver detalles de la venta.
+	1.- Sistema: Emerge una ventana con todos los detalles de la venta.
+	2.- Se regresará a el paso 7 de la TP.
+
+Trayectoria Alternativa C: Empleado selecciona la opción Cancelar.
+	1.- Sistema: Notifica con mensaje4: "No se modifica el estatus de la venta".
+	2.- Se regresa a el paso 5 de la TP.     

@@ -1,0 +1,39 @@
+Manejo de productos en el inventario.
+
+Requerimiento: Eliminar producto del inventario
+
+Resumen: Elimina el producto seleccionado de la base de datos, como si nunca hubiera sido registrado.
+
+Datos básicos: 
+-Nombre del Producto
+
+Precondición:
+El producto debe tener un registro previo
+
+Trayectoria principal 
+
+1.- Actor: En el menú "Inventario", el empleado hace clic en "Eliminar producto del inventario". [Trayectoria A]
+2.- Sistema: Accede a la base de datos. [Trayectoria B]
+3.- Actor: Selecciona el producto que quiere eliminar.
+4.- Sistema: Muestra mensaje 1: "¿Seguro que quiere eliminar el producto? Todos sus datos se eliminarán."
+5.- Actor: Confirma producto a eliminar. [Trayectoria C}
+6.- Sistema: Elimina producto de la base de datos. [Trayectoria B]
+7.- Sistema: Elimina producto de la tabla de los productos de "Inventario".
+
+Trayectoria alternativa A: "Sin productos previamente registrados"
+
+1. Sistema: Envía el mensaje 2.- "No hay productos que eliminar".
+2. Regresamos al paso 1 de la TP.
+
+Trayectoria alternativa B: "Base de Datos caída"
+ 
+1. Sistema: Envía el mensaje 2.- "Base de Datos no disponible, por favor intente más tarde".
+2. Sistema: Envía el mensaje 2 al administrador de la Base de Datos: "Base de datos caída". 
+3. Regresamos al paso 1 de la TP.
+
+
+Trayectoria alternativa C: "Botón Cancelar"
+
+1. Actor: Hace clic en el botón "Cancelar".
+3.-Regresa al paso 1 de la TP.
+

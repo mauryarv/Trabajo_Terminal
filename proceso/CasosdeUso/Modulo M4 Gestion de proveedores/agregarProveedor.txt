@@ -1,0 +1,58 @@
+Gestión de proveedores.
+
+Requerimiento: Agregar proveedor.
+
+Resumen: El empleado agrega en el sistema un nuevo proveedor a través de un formulario que el sistema proporciona.
+
+Datos básicos: 
+
+- Nombre del proveedor.
+- Nombre de la empresa a donde pertenece.
+- Título de la empresa.
+- Telefono de contacto.
+- Correo electronico.
+
+Trayectoria Principal:
+
+1. Actor: En el menú "Proveedor", el empleado hace clic en "Agregar proveedor".
+2. Sistema: Muestra el formulario "Agregar proveedor".
+3. Actor: Llena el formulario con los datos básicos.
+4. Actor: Da clic en botón "Confirmar".
+5. Sistema: Verifica que todos los campos hayan sido llenados [Trayectoria A].
+6. Sistema: Verifica que el telefono ingresado sea válido de acuerdo con la regla de negocio RN1 [Trayectoria B].
+6. Sistema: Verifica que el correo ingresado sea válido de acuerdo con la regla de negocio RN2 [Trayectoria C].
+6. Sistema: Accede a la base de datos.  [Trayectoria E].
+7. Sistema: Verifica que no haya otro proveedor con los mismos datos [Trayectoria D].
+8. Sistema: Guarda los cambios en la base de datos.
+9. Sistema: Envía mensaje 6: "El proveedor ha sido registrado con éxito".
+10. Sistema: Vacía el formulario.
+
+Trayectoria alternativa A: "Campos incompletos".
+
+1. Sistema: Envía el mensaje 1: "Debes ingresar la información requerida en todos los campos."
+2. Regresamos al paso 3 de la TP.
+
+Trayectoria alternativa B: "El número telefonico ingresado no es válido"
+
+1. Sistema: Envía el mensaje 2: "Debes ingresar un número telefonico valido."
+2. Regresamos al paso 3 de la TP.
+
+Trayectoria alternativa C: "El correo ingresado no es valido"
+ 
+1. Sistema: Envía el mensaje 3: "Debes ingresar un correo valido".
+2. Regresamos al paso 3 de la TP.
+
+Trayectoria alternativa D: "Proveedor previamente registrado"
+
+1. Sistema: Envía el mensaje 4: "El proveedor que ingresó ya había sido registrado con anterioridad, por favor ingrese uno nuevo."
+2. Regresar al paso  3 de la TP.
+
+Trayectoria alternativa E: "Base de Datos caída"
+
+1. Sistema: Envía el mensaje 5: "Base de Datos no disponible, por favor intente más tarde".
+2. Regresamos al paso 3 de la TP.
+
+Reglas de negocio:
+
+RN1.- El espacio de número telefonico debe ser exactamente de 10 digitos para poder llenar.
+RN2.- El espacio de correo electronico debe contener la siguiente expresión regular: "^[a-zA-Z0-9.!#$%&'+/=?^_`{|}~-]+@[a-zA-Z0-9-]+(?:.[a-zA-Z0-9-]+)$".

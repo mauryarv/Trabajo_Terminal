@@ -1,0 +1,41 @@
+CU M4.3 Eliminar proveedor.
+-Modulo M4: Gestión de Proveedores. 
+-Requerimiento 3: Eliminar proveedor.
+
+Resumen: Elimina el proveedor seleccionado de la base de datos.
+
+Actores: Empleado y Sistema.
+
+Datos necesarios: 
+-Nombre del proveedor.
+
+Precondición:
+-El proveedor debe tener un registro previo.
+
+Trayectoria principal 
+
+1 E: En la interfaz "Menú Proveedores", el empleado hace clic en "Eliminar proveedor". [Trayectoria A]
+2 S: Accede a la base de datos. [Trayectoria B]
+3 S: Muestra la interfaz "Eliminar proveedor".
+4 E: Selecciona el proveedor que quiere eliminar.
+5 E: Muestra mensaje 1: "¿Seguro que quiere eliminar el proveedor? Todos sus datos se eliminarán."
+6 E: Confirma proveedor a eliminar. [Trayectoria C]
+7 S: Elimina proveedor de la tabla de los productos de "Proveedores". [Trayectoria B]
+8 S: Muestra mensaje 2: "Proveedor eliminado con éxito"
+9 S: Muestra el "Menú Proveedores"
+
+Trayectoria alternativa A: "Sin proveedores previamente registrados"
+
+1 S: Envía el mensaje 3.- "No hay proveedores que eliminar".
+2 S: Muestra el "Menú Proveedores"
+
+Trayectoria alternativa B: "Base de Datos no disponible"
+ 
+1 S: Envía el mensaje 4.- "Base de Datos no disponible, por favor intente más tarde".
+2 S: Muestra el "Menú Proveedores"
+
+Trayectoria alternativa C: "Botón Cancelar"
+
+1 Actor: Hace clic en el botón "Cancelar".
+2 S: Muestra el "Menú Proveedores"
+

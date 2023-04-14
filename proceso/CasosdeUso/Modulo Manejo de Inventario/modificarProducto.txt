@@ -1,0 +1,77 @@
+Manejo de productos en el inventario.
+
+Requerimiento: Modificar producto en el inventario.
+
+Resumen: Modificar los datos de un producto en el inventario, con el fin de mantenerlos
+actualizados.
+
+Datos básicos:
+-Nombre del Producto
+-Nombre del Proveedor
+-Tipo
+-Precio
+-Existencias
+
+Precondición: 
+El producto debe tener un registro previo
+
+Trayectoria Principal:
+
+1.  Actor: En el menú "Inventario", el empleado hace clic en "Modificar datos de un producto". [Trayectoria A]
+2.- Sistema: Accede a la base de datos. [Trayectoria B]
+3.- Actor: Selecciona el producto que quiere modificar.
+4.- Sistema: Asigna los datos del producto a los campos del formulario “Modificar datos”. [Trayectoria C] 
+5.- Sistema: Muestra el formulario “Modificar datos”.
+6.- Actor: Cambia el contenido de los campos del producto en el formulario.
+7.- Actor: Pulsa tecla de confirmar.
+8.- Sistema: Valida que los campos estén completos. [Trayectoria D]
+9.- Sistema: Verifica que el precio ingresado sea valido de acuerdo a la regla de negocio RN1. [Trayectoria E]
+10.- Sistema: Verifica que la cantidad de producto en existencia ingresado sea valido de acuerdo a la regla de negocio RN2. [Trayectoria F]
+11.- Sistema: Verifica que los datos del producto actualizados no sean iguales a los de otro producto en la base de datos. [Trayectoria G]
+12.- Sistema: Guarda los cambios en la base de datos. [Trayectoria B]
+13.- Sistema: Envía mensaje 5: "El producto ha sido modificado con éxito".
+
+Trayectoria alternativa A: "Sin productos previamente registrados"
+
+1. Sistema: Envía el mensaje 1.- "Ingresa primero un producto antes de modificarlo".
+2. Regresamos al paso 1 de la TP.
+
+Trayectoria alternativa B: "Base de Datos caída"
+ 
+1. Sistema: Envía el mensaje 2.- "Base de Datos no disponible, por favor intente más tarde".
+2. Sistema: Envía el mensaje 2 al administrador de la Base de Datos: "Base de datos caída". 
+3. Regresamos al paso 1 de la TP.
+
+
+Trayectoria alternativa C: "Botón Cancelar"
+
+1. Actor: Hace clic en el botón "Cancelar".
+2.-Sistema: No guarda el formulario.
+3.-Regresa al paso 1 de la TP.
+
+Trayectoria alternativa D: "Campos incompletos"
+
+1. Sistema: Envía el mensaje 3: "Debes ingresar la información requerida en todos los campos."
+2. Regresa al paso 6 de la TP.
+
+Trayectoria alternativa E: "El precio ingresado no es valido"
+
+1. Sistema: Envía el mensaje 4.- "Debes ingresar un precio valido".
+2. Regresa al paso 6 de la TP.
+
+
+Trayectoria alternativa F: "Cantidad en stock invalida"
+ 
+1. Sistema: Envía el mensaje 5.- "Debes ingresar un stock valido".
+2. Regresa al paso 6 de la TP.
+
+Trayectoria alternativa G: "Producto previamente registrado"
+
+1. Sistema: Envía el mensaje 6: "El producto que ingresó ya había sido registrado con anterioridad, por favor ingrese uno nuevo."
+2. Regresar al paso 6 de la TP.
+
+Reglas de Negocio
+
+RN1.- El precio de cada producto debe ser mayor a cero, con máximo dos números después del punto decimal y no mayor a 5 digitos.
+
+RN2.- La cantidad en stock debe ser mayor o igual a cero y no exceder los 2 dígitos.

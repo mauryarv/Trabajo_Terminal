@@ -1,0 +1,43 @@
+Manejo de productos en el inventario.
+
+Requerimiento: Consultar Producto del Inventario
+
+Resumen: Consultar los datos de un producto en el inventario, con el fin de obtener informacion de estos.
+
+Datos Basicos:
+- Nombre del producto
+- Clave del producto
+
+Precondicion: El producto debe tener un registro previo
+
+Trayectoria Principal:
+
+1.- Actor: En el menú "Inventario", selecciona la opcion "Consultar producto del inventario". [Trayectoria A]
+2.- Sistema: Muestra una ventana con un cuadro de busqueda y la leyenda: 'Buscar producto'
+3.- Actor: Ingresa el nombre del producto que desea buscar
+4.- Sistema: Accede a la base de datos. [Trayectoria B]
+4.- Sistema: Verifica que en la base de datos exista el producto a buscar [Trayectoria C]
+5.- Sistema: Muestra los productos asociados al nombre del producto ingresado [Trayectoria D]
+
+Trayectoria alternativa A: "No hay productos registrados"
+
+1. Sistema: Envía el mensaje 1.- "No hay productos registrados, favor de registrar uno antes de consultarlo".
+2. Regresamos al paso 1 de la TP.
+
+Trayectoria alternativa B: "Base de Datos caída"
+ 
+1. Sistema: Envía el mensaje 2.- "Base de Datos no disponible, por favor intente más tarde".
+2. Sistema: Envía el mensaje 2 al administrador de la Base de Datos: "Base de datos caída". 
+3. Regresamos al paso 1 de la TP.
+
+
+Trayectoria Alternativa C: "El producto no existe en la base de datos"
+
+1.- Sistema: Envia el mensaje "Error: El producto no existe en el inventario"
+2.- Regresamos al paso 3 de la TP
+
+Trayectoria alternativa C
+
+1.- Actor: Hace clic en el botón “Borrar filtros”.
+2.- Sistema: Muestra la tabla con todos los productos.
+3. Regresamos al paso 1 de la TP.

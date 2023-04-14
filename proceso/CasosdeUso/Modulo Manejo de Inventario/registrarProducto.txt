@@ -1,0 +1,61 @@
+Manejo de productos en el inventario
+
+Requerimiento: Registrar producto en el inventario
+
+Resumen: El empleado registra en el sistema un nuevo producto a través de un formulario que el sistema le provee. 
+
+Datos básicos:
+
+-Nombre del producto
+-Nombre del proveedor
+-Tipo
+-Precio
+-Existencias
+
+Trayectoria Principal
+
+1. Actor: En el menú “Inventario”, el empleado hace clic “Registrar producto en el inventario”.  
+2. Sistema: Muestra el formulario “Registrar producto en el inventario”.
+3. Actor: Llena el formulario.
+4. Actor: Da clic en botón “Confirmar”.
+5. Sistema: Verifica que todos los campos hayan sido llenados [Trayectoria A].
+6. Sistema: Verifica que el precio ingresado sea válido de acuerdo con la regla de negocio RN1 [Trayectoria B].
+7. Sistema: Verifica que la cantidad del producto sea válida de acuerdo con la regla de negocio RN2 [Trayectoria C].
+8. Sistema: Accede a la base de datos.  [Trayectoria E].
+9. Sistema: Verifica que no haya otro producto con los mismos datos [Trayectoria D].
+10. Sistema: Guarda los cambios en la base de datos.
+11. Sistema: Envía mensaje 6: "El producto ha sido modificado con éxito".
+12. Sistema: Vacía el formulario.
+
+Trayectoria alternativa A: "Campos incompletos"
+
+1. Sistema: Envía el mensaje 1: "Debes ingresar la información requerida en todos los campos."
+2. Regresamos al paso 3 de la TP.
+
+
+Trayectoria alternativa B: "El precio ingresado no es válido"
+
+1. Sistema: Envía el mensaje 2: "Debes ingresar un precio valido."
+2. Regresamos al paso 3 de la TP.
+
+
+Trayectoria alternativa C: "Cantidad invalida"
+ 
+1. Sistema: Envía el mensaje 3: "Debes ingresar un stock valido".
+2. Regresamos al paso 3 de la TP.
+
+Trayectoria alternativa E: "Producto previamente registrado"
+
+1. Sistema: Envía el mensaje 4: "El producto que ingresó ya había sido registrado con anterioridad, por favor ingrese uno nuevo."
+2. Regresar al paso  3 de la TP.
+
+Trayectoria alternativa E: "Base de Datos caída"
+
+1. Sistema: Envía el mensaje 5.- "Base de Datos no disponible, por favor intente más tarde".
+2. Regresamos al paso 3 de la TP.
+
+
+Reglas de Negocio
+
+RN1.- El precio de cada producto debe ser mayor a cero, con máximo dos números después del punto decimal y no mayor a 5 digitos.
+RN2.- La cantidad en stock debe ser mayor o igual a cero y no exceder los 2 dígitos
