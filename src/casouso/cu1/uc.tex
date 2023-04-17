@@ -1,21 +1,21 @@
-% Caso de uso 1.4.3 -------------------------------------------------------------------------------
-\begin{UseCase} {CU 1.4.3}{Eliminar proveedor}{
-	Elimina el proveedor seleccionado de la base de datos.
+% Caso de uso 1 -------------------------------------------------------------------------------
+\begin{UseCase} {CU 1}{Iniciar Sesión}{
+	El alumno debe iniciar sesión con una cuenta registrada y verificada para comenzar con el uso de la aplicación.
 }
 
 % Información del caso de uso ---------------------------------------------------------------------
 
 \UCitem{Versión}{1.0}
 \UCccsection{Administración}
-\UCccitem{Autor}{Gonzaga Aparicio Josue}
-\UCccitem{Evaluador}{}
-\UCccitem{Operación}{}
+\UCccitem{Autor}{Sevillano Mendoza Victor Manuel}
+\UCccitem{Evaluador}{Sevillano Mendoza Victor Manuel}
+\UCccitem{Operación}{Iniciar sesión}
 \UCccitem{Prioridad}{Alta}
 \UCccitem{Complejidad}{Baja}
-\UCccitem{Volatilidad}{}
+\UCccitem{Volatilidad}{Baja}
 \UCccitem{Madurez}{Baja}
 \UCccitem{Estatus}{Edición}
-\UCccitem{Fecha del último estatus}{22 noviembre}
+\UCccitem{Fecha del último estatus}{16 de abril}
 
 % Revisión ----------------------------------------------------------------------------------------
 % Copie y pegue este bloque tantas veces como revisiones tenga el caso de uso.
@@ -25,38 +25,34 @@
 \UCccsection{Revisión Versión 0.1 }
 
 % Fecha % Anote la fecha en que se terminó la revisión
-\UCccitem{Fecha}{} 
+\UCccitem{Fecha}{16 de abril} 
 
 % Evaluador % Coloque el nombre completo de quien realizó la revisión
-\UCccitem{Evaluador}{}
+\UCccitem{Evaluador}{Sevillano Mendoza Victor Manuel}
 
 % Resultado % Coloque la palabra que mas se apegue al tipo de acción que el analista debe realizar
-\UCccitem{Resultado}{}
+\UCccitem{Resultado}{Redacción y Ortografía}
 
 % Observaciones % Liste los cambios que debe realizar el Analista.
-\UCccitem{Observaciones}{}
+\UCccitem{Observaciones}{Ninguna}
 
 % Atributos ---------------------------------------------------------------------------------------
 	
 \UCsection{Atributos}
 
 	\UCitem{Actores}{
-		\cdtRef{Actor:Empleado}{Empleado} y \cdtRef{Actor:Sistema}{Sistema}.
+		\cdtRef{Actor: Alumno}{Alumno}.
 	}
 
 	\UCitem{Propósito}{
-		Actualizar la información de los proveedores cuando surjan cambios en sus datos.
+		Que solo personas registradas tengan acceso al uso de la aplicación.
 	}
 
 	\UCitem{Entradas}{
 		
 		\begin{UClist}			
-			Información básica del proveedor:
-
-			\UCli Nombre: (\cdtRef{proveedor:iapellido}{Primer apellido}, \cdtRef{proveedor:iiApellido}{Segundo apellido} y \cdtRef{proveedor:nombre}{Nombre}).
-			\UCli \cdtRef{proveedor:Empresa}{Empresa}.
-			\UCli \cdtRef{proveedor:Telefono}{Telefono}.
-			\UCli \cdtRef{proveedor:Correo}{Correo de contacto}.
+			\UCli Correo electronico o nombre de usuario.
+			\UCli Contraseña.
 		\end{UClist}
 	}
 
@@ -75,11 +71,16 @@
 	}
 
 	\UCitem{Reglas de negocio}{
-		Ninguna.
+		\begin{UClist}
+			\UCli La cuenta debe ser de un alumno inscrito en ESCOM.
+		\end{UClist}
 	}
 
 	\UCitem{Errores}{
-		Ninguna.
+		\begin{UClist}
+			\UCli La cuenta no ha sido registrada.
+			\UCli Nombre de usuario o contraseña incorrectos.
+		\end{UClist}
 	}
 
 	\UCitem{Tipo}{
@@ -91,40 +92,25 @@
 
 \begin{UCtrayectoria}
 	
-	\UCpaso [\UCactor]	En el la interfaz \cdtRef{UI}{Menú principal} selecciona \cdtButton{Menú proveedores}. 
-	\UCpaso [\UCsist]		Muestra la interfaz \cdtRef{UI}{Menú provedores}. \label{CU 4.3:P2}
-	\UCpaso [\UCactor]	Selecciona \cdtButton{Eliminar proveedor}.
-	\UCpaso [\UCsist]		Accede a la base de datos. \refTray{A} \refTray{B}
-	\UCpaso [\UCsist]		Muestra la interfaz \cdtRef{UI}{Eliminar proveedor}.
-	\UCpaso [\UCactor]	Selecciona el proveedor que quiere eliminar.
-	\UCpaso [\UCactor]	Muestra mensaje: \cdtRef{MSG}{¿Seguro que quiere eliminar el proveedor? Todos sus datos serán borrados}.
-	\UCpaso [\UCactor]	Selecciona \cdtButton{Confirmar}. \refTray{C}
-	\UCpaso [\UCsist]		Elimina proveedor de la base de datos.
-	\UCpaso [\UCsist]		Muestra mensaje: \cdtRef{MSG}{Proveedor eliminado con éxito}.
-	\UCpaso [\UCactor]	Selecciona \cdtButton{OK}
-	\UCpaso [\UCsist]		Muestra la interfaz \cdtRef{UI}{Menú Proveedores}.
-
+	\UCpaso [\UCactor]	Abre la aplicacion sin haber iniciado sesión con anterioridad. 
+	\UCpaso [\UCsist]Muestra la pantalla de inicio de sesión con dos espaciós ingresar su correo o nombre de usuario y contraseña.
+	\UCpaso [\UCactor]Debera escribir correo o nombre de usuario registrados con anterioridad y su respectiva contraseña y dar a \cdtButton{Iniciar Sesión}.\refTray{A} \refTray{B}
+	\UCpaso [\UCsist]Muestra la interfaz principal.
 \end{UCtrayectoria}
 
 
 % Trayectorias alternativas -----------------------------------------------------------------------
 
 % Trayectoria A
-\begin{UCtrayectoriaA}{A}{Sin proveedores previamente registrados}
-	\UCpaso [\UCsist]		Muestra mensaje: \cdtRef{MSG}{No hay proveedores que eliminar}.
-	\UCpaso [\UCactor]	Selecciona \cdtButton{OK}
-	\UCpaso Regresa al paso \ref{CU 4.3:P2} de la trayectoria principal.
+\begin{UCtrayectoriaA}{A}{Sin cuenta previamente registrada}
+	\UCpaso [\UCsist]Muestra mensaje: \cdtRef{MSG}{Esta cuenta no esta registrada}.
+	\UCpaso [\UCactor]	Selecciona \cdtButton{Registrarse}
+	\UCpaso Va al paso 1 del CU 2.
 \end{UCtrayectoriaA}
 
 % Trayectoria B
-\begin{UCtrayectoriaA}{B}{Base de datos no disponible}
-	\UCpaso [\UCsist]		Muestra mensaje: \cdtRef{MSG}{Base de Datos no disponible, por favor intente más tarde}.
-	\UCpaso [\UCactor]	Selecciona \cdtButton{OK}
-	\UCpaso Regresa al paso \ref{CU 4.3:P2} de la trayectoria principal.
-\end{UCtrayectoriaA}
-
-% Trayectoria C
-\begin{UCtrayectoriaA}{C}{Selecciona Cancelar}
-	\UCpaso [\UCactor]	Selecciona \cdtButton{Cancelar}
-	\UCpaso Regresa al paso \ref{CU 4.3:P2} de la trayectoria principal.
+\begin{UCtrayectoriaA}{B}{Contraseña incorrecta}
+	\UCpaso [\UCsist]Muestra mensaje: \cdtRef{MSG}{La contraseña es incorrecta}.
+	\UCpaso [\UCactor]	Vuelve a ingresar la contraseña o dar a \cdtButton{Recuperar contraseña}.
+	\UCpaso Regresa al paso 3 de la trayectoria principal.
 \end{UCtrayectoriaA}

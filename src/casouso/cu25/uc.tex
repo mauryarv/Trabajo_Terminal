@@ -1,6 +1,6 @@
-% Caso de uso 1 -------------------------------------------------------------------------------
-\begin{UseCase} {CU 8}{Autentificar inscripción}{
-	Para poder crear una cuenta el alumno debera autentificar que esta inscrito en ESCOM.
+% Caso de uso 25 -------------------------------------------------------------------------------
+\begin{UseCase} {CU 25}{Suspender Cuenta}{
+	El administrador puede suspender la cuenta de un alumno si este comete alguna falta.
 }
 
 % Información del caso de uso ---------------------------------------------------------------------
@@ -9,7 +9,7 @@
 \UCccsection{Administración}
 \UCccitem{Autor}{Sevillano Mendoza Victor Manuel}
 \UCccitem{Evaluador}{Sevillano Mendoza Victor Manuel}
-\UCccitem{Operación}{Registrar}
+\UCccitem{Operación}{Editar}
 \UCccitem{Prioridad}{Alta}
 \UCccitem{Complejidad}{Alta}
 \UCccitem{Volatilidad}{Baja}
@@ -41,50 +41,45 @@
 \UCsection{Atributos}
 
 	\UCitem{Actores}{
-		\cdtRef{Actor: Alumno}{Alumno}.
+		\cdtRef{Actor: Administrador}{Administrador}.
 	}
 
 	\UCitem{Propósito}{
-		Que el alumno autentifique que esta inscrito en ESCOM.
+		Sansionar las faltas cometidas por un alumno.
 	}
 
 	\UCitem{Entradas}{
-		
 		\begin{UClist}			
-			\UCli Nombre completo.
-			\UCli Numero de boleta.
-			\UCli Contraseña del SAES.
-			\UCli Captcha
+			\UCli Nombre de usuario.
+			\UCli Tiempo.
 		\end{UClist}
 	}
 
 	\UCitem{Salidas}{
 		\begin{UClist}			
-			\UCli Captcha a completar.
-			\UCli Autentificación.
+			\UCli Registro en el historial.
 		\end{UClist}
 	}
 
 	\UCitem{Precondiciones}{
-		\begin{UClist}
-			\UCli Que el alumno este inscrito en ESCOM.
-		\end{UClist}
+		Ninguna.
 	}
 
 	\UCitem{Postcondiciones}{		
 		\begin{UClist}
-			\UCli Completar el registro.
+			\UCli Guardar Registro en el historial del alumno.
 		\end{UClist}
 	}
 
 	\UCitem{Reglas de negocio}{
 		\begin{UClist}
 			\UCli El alumno debe estar inscrito en ESCOM.
+			\UCli Si el alumno hace una falta obtendra una sanción.
 		\end{UClist}
 	}
 
 	\UCitem{Errores}{
-		Ninguno
+		Ninguno.
 	}
 
 	\UCitem{Tipo}{
@@ -96,22 +91,25 @@
 
 \begin{UCtrayectoria}
 	
-	\UCpaso [\UCactor]	Selecciona \cdtButton{Autentificar inscripción} en la pantalla de registro. 
-	\UCpaso [\UCsist]Muestra la pantalla de autentificación de inscripción.
-	\UCpaso [\UCactor]Llena los campos que se piden y seleccionar \cdtButton{Autentificar inscripción}.\refTray{A}
-	\UCpaso [\UCsist]Muestra mensaje: \cdtRef{MSG}{Autentificación correcta}.
-	\UCpaso [\UCactor]Selecciona \cdtButton{Ok}.
-	\UCpaso Va al paso 4 del CU 2.
+	\UCpaso [\UCactor]	Selecciona \cdtButton{Suspender cuenta} en la pantalla del Perfil del alumno. 
+	\UCpaso [\UCsist]Muestra la pantalla de suspensión de cuentas.
+	\UCpaso [\UCactor]Llena los campos de falta cometida y tiempo de suspensión según el historial del alumno y selecciona \cdtButton{Suspender}.\refTray{A}
+	\UCpaso [\UCsist]Muestra mensaje: \cdtRef{MSG}{¿Desea suspender la cuenta por el tiempo?}.
+	\UCpaso [\UCactor]Selecciona \cdtButton{Si}.\refTray{B}
+	\UCpaso [\UCsist]Suspende la cuenta del alumno por el tiempo determinado, crea un nuevo registro en el historial del alumno y muestra la pantalla de Perfil del alumno actualizada.
 \end{UCtrayectoria}
 
 
 % Trayectorias alternativas -----------------------------------------------------------------------
 
 % Trayectoria A
-\begin{UCtrayectoriaA}{A}{La autentificación no es valida}
-	\UCpaso [\UCsist]Muestra mensaje: \cdtRef{MSG}{No se pudo autentificar}.
-	\UCpaso [\UCactor]	Selecciona \cdtButton{OK}
-	\UCpaso Vuelve al paso 3 del CU 2.
+\begin{UCtrayectoriaA}{A}{Historial limpio}
+	\UCpaso [\UCsist]Muestra la pantalla para mandar advertencia.
+	\UCpaso [\UCactor]	Escribe la advertencia correspondiente y selecciona \cdtButton{OK}.
+	\UCpaso Va al paso 6 de la trayectoria principal.
 \end{UCtrayectoriaA}
 
-
+% Trayectoria B
+\begin{UCtrayectoriaA}{B}{Selecciona no}
+	\UCpaso Regresa al paso 2 de la trayectoria principal.
+\end{UCtrayectoriaA}

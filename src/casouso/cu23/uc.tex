@@ -1,6 +1,6 @@
-% Caso de uso 1 -------------------------------------------------------------------------------
-\begin{UseCase} {CU 8}{Autentificar inscripción}{
-	Para poder crear una cuenta el alumno debera autentificar que esta inscrito en ESCOM.
+% Caso de uso 23 -------------------------------------------------------------------------------
+\begin{UseCase} {CU 23}{Editar Perfil}{
+	El alumno puede modificar su información dada a la aplicación.
 }
 
 % Información del caso de uso ---------------------------------------------------------------------
@@ -9,10 +9,10 @@
 \UCccsection{Administración}
 \UCccitem{Autor}{Sevillano Mendoza Victor Manuel}
 \UCccitem{Evaluador}{Sevillano Mendoza Victor Manuel}
-\UCccitem{Operación}{Registrar}
+\UCccitem{Operación}{Editar}
 \UCccitem{Prioridad}{Alta}
-\UCccitem{Complejidad}{Alta}
-\UCccitem{Volatilidad}{Baja}
+\UCccitem{Complejidad}{Media}
+\UCccitem{Volatilidad}{Alta}
 \UCccitem{Madurez}{Baja}
 \UCccitem{Estatus}{Edición}
 \UCccitem{Fecha del último estatus}{16 de abril}
@@ -45,36 +45,34 @@
 	}
 
 	\UCitem{Propósito}{
-		Que el alumno autentifique que esta inscrito en ESCOM.
+		Que el alumno pueda modificar la información de su perfil por si hay cambios que desee hacer.
 	}
 
 	\UCitem{Entradas}{
 		
 		\begin{UClist}			
+			\UCli Correo electronico.
+			\UCli Nombre de usuario.
+			\UCli Contraseña.
 			\UCli Nombre completo.
 			\UCli Numero de boleta.
-			\UCli Contraseña del SAES.
-			\UCli Captcha
 		\end{UClist}
 	}
 
 	\UCitem{Salidas}{
 		\begin{UClist}			
-			\UCli Captcha a completar.
-			\UCli Autentificación.
+			\UCli Perfil actualizado.
 		\end{UClist}
 	}
 
 	\UCitem{Precondiciones}{
 		\begin{UClist}
-			\UCli Que el alumno este inscrito en ESCOM.
+			\UCli Iniciar sesión.
 		\end{UClist}
 	}
 
 	\UCitem{Postcondiciones}{		
-		\begin{UClist}
-			\UCli Completar el registro.
-		\end{UClist}
+		Ninguna
 	}
 
 	\UCitem{Reglas de negocio}{
@@ -84,7 +82,9 @@
 	}
 
 	\UCitem{Errores}{
-		Ninguno
+		\begin{UClist}
+			\UCli Un campo no llenado.
+		\end{UClist}
 	}
 
 	\UCitem{Tipo}{
@@ -96,22 +96,28 @@
 
 \begin{UCtrayectoria}
 	
-	\UCpaso [\UCactor]	Selecciona \cdtButton{Autentificar inscripción} en la pantalla de registro. 
-	\UCpaso [\UCsist]Muestra la pantalla de autentificación de inscripción.
-	\UCpaso [\UCactor]Llena los campos que se piden y seleccionar \cdtButton{Autentificar inscripción}.\refTray{A}
+	\UCpaso [\UCactor]	Selecciona \cdtButton{Editar Perfil} en la pantalla del Perfil del alumno. 
+	\UCpaso [\UCsist]Muestra la pantalla de edición de perfil que permite modificar los campos.
+	\UCpaso [\UCactor]Modifica los campos que se desee y selecciona \cdtButton{Autentificar inscripción}.\refTray{A}
+	\UCpaso Va al paso 1 de CU 8.
 	\UCpaso [\UCsist]Muestra mensaje: \cdtRef{MSG}{Autentificación correcta}.
-	\UCpaso [\UCactor]Selecciona \cdtButton{Ok}.
-	\UCpaso Va al paso 4 del CU 2.
+	\UCpaso [\UCactor]Selecciona \cdtButton{Guardar Cambios}.\refTray{B}
+	\UCpaso [\UCsist]Muestra la pantalla de Perfil del alumno actualizada.
 \end{UCtrayectoria}
 
 
 % Trayectorias alternativas -----------------------------------------------------------------------
 
 % Trayectoria A
-\begin{UCtrayectoriaA}{A}{La autentificación no es valida}
+\begin{UCtrayectoriaA}{A}{La autentificación no valida}
 	\UCpaso [\UCsist]Muestra mensaje: \cdtRef{MSG}{No se pudo autentificar}.
 	\UCpaso [\UCactor]	Selecciona \cdtButton{OK}
-	\UCpaso Vuelve al paso 3 del CU 2.
+	\UCpaso Va al paso 3 de la trayectoria principal.
 \end{UCtrayectoriaA}
 
-
+% Trayectoria B
+\begin{UCtrayectoriaA}{B}{Algun campo no fue llenado}
+	\UCpaso [\UCsist]Muestra mensaje: \cdtRef{MSG}{Campo faltante}.
+	\UCpaso [\UCactor]	Ingresa el dato del campo marcado.
+	\UCpaso Regresa al paso 5 de la trayectoria principal.
+\end{UCtrayectoriaA}

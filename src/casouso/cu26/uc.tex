@@ -1,6 +1,6 @@
-% Caso de uso 1 -------------------------------------------------------------------------------
-\begin{UseCase} {CU 8}{Autentificar inscripción}{
-	Para poder crear una cuenta el alumno debera autentificar que esta inscrito en ESCOM.
+% Caso de uso 26 -------------------------------------------------------------------------------
+\begin{UseCase} {CU 26}{Crear historial de usuario}{
+	El administrador crea el historial del usuario a partir de las faltas que este comete.
 }
 
 % Información del caso de uso ---------------------------------------------------------------------
@@ -9,8 +9,8 @@
 \UCccsection{Administración}
 \UCccitem{Autor}{Sevillano Mendoza Victor Manuel}
 \UCccitem{Evaluador}{Sevillano Mendoza Victor Manuel}
-\UCccitem{Operación}{Registrar}
-\UCccitem{Prioridad}{Alta}
+\UCccitem{Operación}{Editar}
+\UCccitem{Prioridad}{Media}
 \UCccitem{Complejidad}{Alta}
 \UCccitem{Volatilidad}{Baja}
 \UCccitem{Madurez}{Baja}
@@ -41,50 +41,45 @@
 \UCsection{Atributos}
 
 	\UCitem{Actores}{
-		\cdtRef{Actor: Alumno}{Alumno}.
+		\cdtRef{Actor: Administrador}{Administrador}.
 	}
 
 	\UCitem{Propósito}{
-		Que el alumno autentifique que esta inscrito en ESCOM.
+		Tener registro de las faltas cometidos por los alumno en la aplicación y poder dar sansiones justas.
 	}
 
 	\UCitem{Entradas}{
-		
 		\begin{UClist}			
-			\UCli Nombre completo.
-			\UCli Numero de boleta.
-			\UCli Contraseña del SAES.
-			\UCli Captcha
+			\UCli Nombre de usuario.
+			\UCli Registro.
 		\end{UClist}
 	}
 
 	\UCitem{Salidas}{
 		\begin{UClist}			
-			\UCli Captcha a completar.
-			\UCli Autentificación.
+			\UCli Historial del alumno.
 		\end{UClist}
 	}
 
 	\UCitem{Precondiciones}{
-		\begin{UClist}
-			\UCli Que el alumno este inscrito en ESCOM.
+		\begin{UClist}			
+			\UCli El alumno comete una falta.
 		\end{UClist}
 	}
 
 	\UCitem{Postcondiciones}{		
-		\begin{UClist}
-			\UCli Completar el registro.
-		\end{UClist}
+		Ninguna
 	}
 
 	\UCitem{Reglas de negocio}{
 		\begin{UClist}
 			\UCli El alumno debe estar inscrito en ESCOM.
+			\UCli Si el alumno hace una falta obtendra una sanción.
 		\end{UClist}
 	}
 
 	\UCitem{Errores}{
-		Ninguno
+		Ninguno.
 	}
 
 	\UCitem{Tipo}{
@@ -94,24 +89,18 @@
 
 %Trayectoria principal ----------------------------------------------------------------------------
 
-\begin{UCtrayectoria}
-	
-	\UCpaso [\UCactor]	Selecciona \cdtButton{Autentificar inscripción} en la pantalla de registro. 
-	\UCpaso [\UCsist]Muestra la pantalla de autentificación de inscripción.
-	\UCpaso [\UCactor]Llena los campos que se piden y seleccionar \cdtButton{Autentificar inscripción}.\refTray{A}
-	\UCpaso [\UCsist]Muestra mensaje: \cdtRef{MSG}{Autentificación correcta}.
-	\UCpaso [\UCactor]Selecciona \cdtButton{Ok}.
-	\UCpaso Va al paso 4 del CU 2.
+\begin{UCtrayectoria}	
+	\UCpaso [\UCactor]	Selecciona \cdtButton{Suspender} en la pantalla de Suspender Cuenta. 
+	\UCpaso [\UCsist]Crea el historial del alumno colocando el registro de la suspensión.\refTray{A}
+	\UCpaso Va al paso 6 del CU 25.
 \end{UCtrayectoria}
 
 
 % Trayectorias alternativas -----------------------------------------------------------------------
 
 % Trayectoria A
-\begin{UCtrayectoriaA}{A}{La autentificación no es valida}
-	\UCpaso [\UCsist]Muestra mensaje: \cdtRef{MSG}{No se pudo autentificar}.
-	\UCpaso [\UCactor]	Selecciona \cdtButton{OK}
-	\UCpaso Vuelve al paso 3 del CU 2.
+\begin{UCtrayectoriaA}{A}{El historial ya existe}
+	\UCpaso [\UCsist]Actualiza el historial con el nuevo registro hecho.
+	\UCpaso Va al paso 3 de la trayectoria principal.
 \end{UCtrayectoriaA}
-
 

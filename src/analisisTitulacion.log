@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.10) (preloaded format=pdflatex 2023.4.13)  14 APR 2023 19:48
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.10) (preloaded format=pdflatex 2023.4.13)  16 APR 2023 21:33
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -662,50 +662,53 @@ File: md-frame-0.mdf 2013/07/01\ 1.9b: md-frame-0
 \c@mdf@env@ii=\count300
 \c@mdf@zref@counter=\count301
 Package zref Info: New property: mdf@pagevalue on input line 895.
+) (C:\Users\reyes\AppData\Local\Programs\MiKTeX\tex/latex/preprint\authblk.sty
+Package: authblk 2001/02/27 1.3 (PWD)
+\affilsep=\skip159
+\@affilsep=\skip160
+\c@Maxaffil=\count302
+\c@authors=\count303
+\c@affil=\count304
 ) (analisisTitulacion.aux
 LaTeX Info: Redefining \. on input line 23.
 LaTeX Info: Redefining \% on input line 23.
-
-
-LaTeX Warning: Label `UI: carrito agregar' multiply defined.
-
 )
 \openout1 = `analisisTitulacion.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 80.
-LaTeX Font Info:    ... okay on input line 80.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 80.
-LaTeX Font Info:    ... okay on input line 80.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 80.
-LaTeX Font Info:    ... okay on input line 80.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 80.
-LaTeX Font Info:    ... okay on input line 80.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 80.
-LaTeX Font Info:    ... okay on input line 80.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 80.
-LaTeX Font Info:    ... okay on input line 80.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 80.
-LaTeX Font Info:    ... okay on input line 80.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 80.
-LaTeX Font Info:    ... okay on input line 80.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 80.
-LaTeX Font Info:    ... okay on input line 80.
-LaTeX Info: Redefining \. on input line 80.
-LaTeX Info: Redefining \% on input line 80.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 79.
+LaTeX Font Info:    ... okay on input line 79.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 79.
+LaTeX Font Info:    ... okay on input line 79.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 79.
+LaTeX Font Info:    ... okay on input line 79.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 79.
+LaTeX Font Info:    ... okay on input line 79.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 79.
+LaTeX Font Info:    ... okay on input line 79.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 79.
+LaTeX Font Info:    ... okay on input line 79.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 79.
+LaTeX Font Info:    ... okay on input line 79.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 79.
+LaTeX Font Info:    ... okay on input line 79.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 79.
+LaTeX Font Info:    ... okay on input line 79.
+LaTeX Info: Redefining \. on input line 79.
+LaTeX Info: Redefining \% on input line 79.
 
 (C:\Users\reyes\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mk
 ii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count302
+\scratchcounter=\count305
 \scratchdimen=\dimen166
 \scratchbox=\box68
-\nofMPsegments=\count303
-\nofMParguments=\count304
+\nofMPsegments=\count306
+\nofMParguments=\count307
 \everyMPshowfont=\toks26
-\MPscratchCnt=\count305
+\MPscratchCnt=\count308
 \MPscratchDim=\dimen167
-\MPnumerator=\count306
-\makeMPintoPDFobject=\count307
+\MPnumerator=\count309
+\makeMPintoPDFobject=\count310
 \everyMPtoPDFconversion=\toks27
 )
 (C:\Users\reyes\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-b
@@ -752,55 +755,55 @@ File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-Package hyperref Info: Link coloring ON on input line 80.
+Package hyperref Info: Link coloring ON on input line 79.
 (analisisTitulacion.out) (analisisTitulacion.out)
 \@outlinefile=\write3
 \openout3 = `analisisTitulacion.out'.
 
 LaTeX Font Info:    Trying to load font information for OML+cmbrm on input line
- 88.
+ 86.
 
 (C:\Users\reyes\AppData\Local\Programs\MiKTeX\tex/latex/cmbright\omlcmbrm.fd
 File: omlcmbrm.fd 2005/04/13 v8.1 (WaS)
 )
 LaTeX Font Info:    Trying to load font information for OMS+cmbrs on input line
- 88.
+ 86.
 
 (C:\Users\reyes\AppData\Local\Programs\MiKTeX\tex/latex/cmbright\omscmbrs.fd
 File: omscmbrs.fd 2005/04/13 v8.1 (WaS)
 )
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <12> on input line 88.
+(Font)              <12> on input line 86.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 88.
+(Font)              <8> on input line 86.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 88.
-LaTeX Font Info:    Trying to load font information for U+wasy on input line 88
+(Font)              <6> on input line 86.
+LaTeX Font Info:    Trying to load font information for U+wasy on input line 86
 .
 
 (C:\Users\reyes\AppData\Local\Programs\MiKTeX\tex/latex/wasysym\uwasy.fd
 File: uwasy.fd 2020/01/19 v2.4 Wasy-2 symbol font definitions
 )
-<cdt/theme/agua.jpeg, id=346, 1927.2pt x 1084.05pt>
+<cdt/theme/agua.jpeg, id=202, 3886.52pt x 2429.075pt>
 File: cdt/theme/agua.jpeg Graphic file (type jpg)
 <use cdt/theme/agua.jpeg>
-Package pdftex.def Info: cdt/theme/agua.jpeg  used on input line 88.
-(pdftex.def)             Requested size: 614.27586pt x 345.53017pt.
+Package pdftex.def Info: cdt/theme/agua.jpeg  used on input line 86.
+(pdftex.def)             Requested size: 614.26508pt x 383.91566pt.
 
 [1
 
 
 {C:/Users/reyes/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map} <./cdt/theme/
 agua.jpeg>]
-<cdt/theme/headerPar.png, id=357, 1228.59pt x 1228.59pt>
+<cdt/theme/headerPar.png, id=214, 1228.59pt x 1228.59pt>
 File: cdt/theme/headerPar.png Graphic file (type png)
 <use cdt/theme/headerPar.png>
-Package pdftex.def Info: cdt/theme/headerPar.png  used on input line 91.
+Package pdftex.def Info: cdt/theme/headerPar.png  used on input line 90.
 (pdftex.def)             Requested size: 34.98143pt x 35.0pt.
-<cdt/theme/logoPar.png, id=359, 217.81375pt x 232.87pt>
+<cdt/theme/logoPar.png, id=216, 217.81375pt x 232.87pt>
 File: cdt/theme/logoPar.png Graphic file (type png)
 <use cdt/theme/logoPar.png>
-Package pdftex.def Info: cdt/theme/logoPar.png  used on input line 91.
+Package pdftex.def Info: cdt/theme/logoPar.png  used on input line 90.
 (pdftex.def)             Requested size: 32.73712pt x 35.0pt.
 
 
@@ -812,73 +815,70 @@ Package fancyhdr Warning: \headheight is too small (32.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-6.75003pt}.
 
 LaTeX Font Info:    Font shape `OT1/cmbr/m/it' in size <5> not available
-(Font)              Font shape `OT1/cmbr/m/sl' tried instead on input line 91.
-LaTeX Font Info:    Trying to load font information for U+mvs on input line 91.
-
-(C:\Users\reyes\AppData\Local\Programs\MiKTeX\tex/latex/marvosym\umvs.fd)
+(Font)              Font shape `OT1/cmbr/m/sl' tried instead on input line 90.
 [2
 
  <./cdt/theme/headerPar.png> <./cdt/theme/logoPar.png>]
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 91.
+(Font)              <7> on input line 90.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 91.
+(Font)              <5> on input line 90.
 LaTeX Font Info:    Font shape `OT1/cmbr/b/n' in size <10> not available
-(Font)              Font shape `OT1/cmbr/bx/n' tried instead on input line 91.
+(Font)              Font shape `OT1/cmbr/bx/n' tried instead on input line 90.
 
-Overfull \hbox (2.11287pt too wide) in paragraph at lines 91--93
+Overfull \hbox (2.11287pt too wide) in paragraph at lines 90--92
 [] 
  []
 
 
-Overfull \hbox (2.11287pt too wide) in paragraph at lines 91--93
+Overfull \hbox (2.11287pt too wide) in paragraph at lines 90--92
 []
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 91--93
+Underfull \hbox (badness 10000) in paragraph at lines 90--92
 
  []
 
 
-Overfull \hbox (5.63939pt too wide) in alignment at lines 93--93
+Overfull \hbox (5.63939pt too wide) in alignment at lines 92--92
  [] [] [] [] 
  []
 
 
-Overfull \hbox (5.63939pt too wide) in alignment at lines 93--93
+Overfull \hbox (5.63939pt too wide) in alignment at lines 92--92
  [] [] [] [] 
  []
 
 
-Overfull \hbox (6.55298pt too wide) in alignment at lines 94--94
+Overfull \hbox (6.55298pt too wide) in alignment at lines 93--93
  [] [] [] 
  []
 
 
-Overfull \hbox (3.92651pt too wide) in alignment at lines 95--95
+Overfull \hbox (3.92651pt too wide) in alignment at lines 94--94
  [] 
  []
 
 
-Overfull \hbox (3.92651pt too wide) in alignment at lines 95--95
+Overfull \hbox (3.92651pt too wide) in alignment at lines 94--94
  [] 
  []
 
 
-Overfull \hbox (5.36551pt too wide) in paragraph at lines 97--98
+Overfull \hbox (5.36551pt too wide) in paragraph at lines 96--97
 [] 
  []
 
-<cdt/theme/logoInp.png, id=369, 217.81375pt x 232.87pt>
+<cdt/theme/logoInp.png, id=224, 217.81375pt x 232.87pt>
 File: cdt/theme/logoInp.png Graphic file (type png)
 <use cdt/theme/logoInp.png>
-Package pdftex.def Info: cdt/theme/logoInp.png  used on input line 101.
+Package pdftex.def Info: cdt/theme/logoInp.png  used on input line 100.
 (pdftex.def)             Requested size: 32.73712pt x 35.0pt.
-<cdt/theme/headerInp.png, id=370, 217.81375pt x 232.87pt>
+<cdt/theme/headerInp.png, id=225, 217.81375pt x 232.87pt>
 File: cdt/theme/headerInp.png Graphic file (type png)
 <use cdt/theme/headerInp.png>
-Package pdftex.def Info: cdt/theme/headerInp.png  used on input line 101.
+Package pdftex.def Info: cdt/theme/headerInp.png  used on input line 100.
 (pdftex.def)             Requested size: 32.73712pt x 35.0pt.
 
 Package fancyhdr Warning: \headheight is too small (32.0pt): 
@@ -891,11 +891,11 @@ Package fancyhdr Warning: \headheight is too small (32.0pt):
 [3 <./cdt/theme/logoInp.png> <./cdt/theme/headerInp.png>]
 File: cdt/theme/headerPar.png Graphic file (type png)
 <use cdt/theme/headerPar.png>
-Package pdftex.def Info: cdt/theme/headerPar.png  used on input line 101.
+Package pdftex.def Info: cdt/theme/headerPar.png  used on input line 100.
 (pdftex.def)             Requested size: 34.98143pt x 35.0pt.
 File: cdt/theme/logoPar.png Graphic file (type png)
 <use cdt/theme/logoPar.png>
-Package pdftex.def Info: cdt/theme/logoPar.png  used on input line 101.
+Package pdftex.def Info: cdt/theme/logoPar.png  used on input line 100.
 (pdftex.def)             Requested size: 32.73712pt x 35.0pt.
 
 
@@ -914,82 +914,30 @@ LaTeX Info: Redefining \% on input line 1.
 
 
 LaTeX Font Warning: Font shape `OT1/cmbr/m/sc' undefined
-(Font)              using `OT1/cmbr/m/n' instead on input line 53.
+(Font)              using `OT1/cmbr/m/n' instead on input line 30.
 
 
 Package spanish Warning: Replacing `OT1/cmbr/m/sc' by 
-(spanish)                faked small caps on input line 53.
+(spanish)                faked small caps on input line 30.
 
-<cdt/theme/pleca.jpg, id=416, 1706.375pt x 371.3875pt>
+<cdt/theme/pleca.jpg, id=269, 1706.375pt x 371.3875pt>
 File: cdt/theme/pleca.jpg Graphic file (type jpg)
 <use cdt/theme/pleca.jpg>
-Package pdftex.def Info: cdt/theme/pleca.jpg  used on input line 53.
+Package pdftex.def Info: cdt/theme/pleca.jpg  used on input line 30.
 (pdftex.def)             Requested size: 614.29454pt x 133.69939pt.
 [1
 
- <./cdt/theme/pleca.jpg>]
-File: cdt/theme/headerPar.png Graphic file (type png)
-<use cdt/theme/headerPar.png>
-Package pdftex.def Info: cdt/theme/headerPar.png  used on input line 99.
-(pdftex.def)             Requested size: 34.98143pt x 35.0pt.
-File: cdt/theme/logoPar.png Graphic file (type png)
-<use cdt/theme/logoPar.png>
-Package pdftex.def Info: cdt/theme/logoPar.png  used on input line 99.
-(pdftex.def)             Requested size: 32.73712pt x 35.0pt.
-
-
-Package fancyhdr Warning: \headheight is too small (32.0pt): 
-(fancyhdr)                Make it at least 38.75003pt, for example:
-(fancyhdr)                \setlength{\headheight}{38.75003pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-
-(fancyhdr)                \addtolength{\topmargin}{-6.75003pt}.
-
-
-Package spanish Warning: Replacing `OT1/cmbr/m/sc' by 
-(spanish)                faked small caps on input line 99.
-
-File: cdt/theme/pleca.jpg Graphic file (type jpg)
-<use cdt/theme/pleca.jpg>
-Package pdftex.def Info: cdt/theme/pleca.jpg  used on input line 99.
-(pdftex.def)             Requested size: 614.29454pt x 133.69939pt.
-[2])
+ <./cdt/theme/pleca.jpg>])
 \tf@toc=\write4
 \openout4 = `analisisTitulacion.toc'.
 
-File: cdt/theme/logoInp.png Graphic file (type png)
-<use cdt/theme/logoInp.png>
-Package pdftex.def Info: cdt/theme/logoInp.png  used on input line 106.
-(pdftex.def)             Requested size: 32.73712pt x 35.0pt.
-File: cdt/theme/headerInp.png Graphic file (type png)
-<use cdt/theme/headerInp.png>
-Package pdftex.def Info: cdt/theme/headerInp.png  used on input line 106.
-(pdftex.def)             Requested size: 32.73712pt x 35.0pt.
-
-
-Package fancyhdr Warning: \headheight is too small (32.0pt): 
-(fancyhdr)                Make it at least 38.75003pt, for example:
-(fancyhdr)                \setlength{\headheight}{38.75003pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-
-(fancyhdr)                \addtolength{\topmargin}{-6.75003pt}.
-
-
-Package spanish Warning: Replacing `OT1/cmbr/m/sc' by 
-(spanish)                faked small caps on input line 106.
-
-File: cdt/theme/pleca.jpg Graphic file (type jpg)
-<use cdt/theme/pleca.jpg>
-Package pdftex.def Info: cdt/theme/pleca.jpg  used on input line 106.
-(pdftex.def)             Requested size: 614.29454pt x 133.69939pt.
-[3]
 File: cdt/theme/headerPar.png Graphic file (type png)
 <use cdt/theme/headerPar.png>
-Package pdftex.def Info: cdt/theme/headerPar.png  used on input line 106.
+Package pdftex.def Info: cdt/theme/headerPar.png  used on input line 105.
 (pdftex.def)             Requested size: 34.98143pt x 35.0pt.
 File: cdt/theme/logoPar.png Graphic file (type png)
 <use cdt/theme/logoPar.png>
-Package pdftex.def Info: cdt/theme/logoPar.png  used on input line 106.
+Package pdftex.def Info: cdt/theme/logoPar.png  used on input line 105.
 (pdftex.def)             Requested size: 32.73712pt x 35.0pt.
 
 
@@ -1002,15 +950,13 @@ Package fancyhdr Warning: \headheight is too small (32.0pt):
 
 
 Package spanish Warning: Replacing `OT1/cmbr/m/sc' by 
-(spanish)                faked small caps on input line 106.
+(spanish)                faked small caps on input line 105.
 
 File: cdt/theme/pleca.jpg Graphic file (type jpg)
 <use cdt/theme/pleca.jpg>
-Package pdftex.def Info: cdt/theme/pleca.jpg  used on input line 106.
+Package pdftex.def Info: cdt/theme/pleca.jpg  used on input line 105.
 (pdftex.def)             Requested size: 614.29454pt x 133.69939pt.
-[4
-
-]
+[2]
 Cap\'{\i }tulo 1.
 (introduccion/introduccion.tex
 LaTeX Font Info:    Font shape `OT1/cmbr/b/n' in size <14.4> not available
@@ -1029,22 +975,23 @@ pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has
 been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.120 	\chapter
+l.119 	\chapter
                {Modelo de negocio}\label{chp:modeloNegocios}
 File: cdt/theme/pleca.jpg Graphic file (type jpg)
 <use cdt/theme/pleca.jpg>
-Package pdftex.def Info: cdt/theme/pleca.jpg  used on input line 120.
+Package pdftex.def Info: cdt/theme/pleca.jpg  used on input line 119.
 (pdftex.def)             Requested size: 614.29454pt x 133.69939pt.
  [1
+
 
 ]
 File: cdt/theme/headerPar.png Graphic file (type png)
 <use cdt/theme/headerPar.png>
-Package pdftex.def Info: cdt/theme/headerPar.png  used on input line 120.
+Package pdftex.def Info: cdt/theme/headerPar.png  used on input line 119.
 (pdftex.def)             Requested size: 34.98143pt x 35.0pt.
 File: cdt/theme/logoPar.png Graphic file (type png)
 <use cdt/theme/logoPar.png>
-Package pdftex.def Info: cdt/theme/logoPar.png  used on input line 120.
+Package pdftex.def Info: cdt/theme/logoPar.png  used on input line 119.
 (pdftex.def)             Requested size: 32.73712pt x 35.0pt.
 
 
@@ -1060,11 +1007,11 @@ pdfTeX warning (ext4): destination with the same identifier (name{page.2}) has
 been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.120 	\chapter
+l.119 	\chapter
                {Modelo de negocio}\label{chp:modeloNegocios}
 File: cdt/theme/pleca.jpg Graphic file (type jpg)
 <use cdt/theme/pleca.jpg>
-Package pdftex.def Info: cdt/theme/pleca.jpg  used on input line 120.
+Package pdftex.def Info: cdt/theme/pleca.jpg  used on input line 119.
 (pdftex.def)             Requested size: 614.29454pt x 133.69939pt.
  [2
 
@@ -1072,51 +1019,26 @@ Package pdftex.def Info: cdt/theme/pleca.jpg  used on input line 120.
 Cap\'{\i }tulo 2.
 (ModeloNegocios/modelo.tex) (ModeloNegocios/reglas.tex
 LaTeX Font Info:    Font shape `OT1/cmbr/b/n' in size <12> not available
-(Font)              Font shape `OT1/cmbr/bx/n' tried instead on input line 31.
-<cdt/uc/rules/BRRule.png, id=501, 890.32625pt x 55.20625pt>
-File: cdt/uc/rules/BRRule.png Graphic file (type png)
-<use cdt/uc/rules/BRRule.png>
-Package pdftex.def Info: cdt/uc/rules/BRRule.png  used on input line 35.
-(pdftex.def)             Requested size: 443.57848pt x 27.50449pt.
-File: cdt/uc/rules/BRRule.png Graphic file (type png)
-<use cdt/uc/rules/BRRule.png>
-Package pdftex.def Info: cdt/uc/rules/BRRule.png  used on input line 46.
-(pdftex.def)             Requested size: 443.57848pt x 27.50449pt.
-
+(Font)              Font shape `OT1/cmbr/bx/n' tried instead on input line 30.
+)
 pdfTeX warning (ext4): destination with the same identifier (name{page.3}) has 
 been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.48 	\BRitem{Autor}{Oscar Apolonio Tierrablanca}
-                                                 
+l.124 	\chapter
+               {Pantallas}\label{chp:pantallas}
 File: cdt/theme/pleca.jpg Graphic file (type jpg)
 <use cdt/theme/pleca.jpg>
-Package pdftex.def Info: cdt/theme/pleca.jpg  used on input line 48.
+Package pdftex.def Info: cdt/theme/pleca.jpg  used on input line 124.
 (pdftex.def)             Requested size: 614.29454pt x 133.69939pt.
- [3 <./cdt/uc/rules/BRRule.png>]
-File: cdt/uc/rules/BRRule.png Graphic file (type png)
-<use cdt/uc/rules/BRRule.png>
-Package pdftex.def Info: cdt/uc/rules/BRRule.png  used on input line 57.
-(pdftex.def)             Requested size: 443.57848pt x 27.50449pt.
-File: cdt/uc/rules/BRRule.png Graphic file (type png)
-<use cdt/uc/rules/BRRule.png>
-Package pdftex.def Info: cdt/uc/rules/BRRule.png  used on input line 69.
-(pdftex.def)             Requested size: 443.57848pt x 27.50449pt.
-File: cdt/uc/rules/BRRule.png Graphic file (type png)
-<use cdt/uc/rules/BRRule.png>
-Package pdftex.def Info: cdt/uc/rules/BRRule.png  used on input line 81.
-(pdftex.def)             Requested size: 443.57848pt x 27.50449pt.
-File: cdt/uc/rules/BRRule.png Graphic file (type png)
-<use cdt/uc/rules/BRRule.png>
-Package pdftex.def Info: cdt/uc/rules/BRRule.png  used on input line 93.
-(pdftex.def)             Requested size: 443.57848pt x 27.50449pt.
+ [3]
 File: cdt/theme/headerPar.png Graphic file (type png)
 <use cdt/theme/headerPar.png>
-Package pdftex.def Info: cdt/theme/headerPar.png  used on input line 103.
+Package pdftex.def Info: cdt/theme/headerPar.png  used on input line 124.
 (pdftex.def)             Requested size: 34.98143pt x 35.0pt.
 File: cdt/theme/logoPar.png Graphic file (type png)
 <use cdt/theme/logoPar.png>
-Package pdftex.def Info: cdt/theme/logoPar.png  used on input line 103.
+Package pdftex.def Info: cdt/theme/logoPar.png  used on input line 124.
 (pdftex.def)             Requested size: 32.73712pt x 35.0pt.
 
 
@@ -1132,189 +1054,29 @@ pdfTeX warning (ext4): destination with the same identifier (name{page.4}) has
 been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.103 	{Controla la operación}
-                               
+l.124 	\chapter
+               {Pantallas}\label{chp:pantallas}
 File: cdt/theme/pleca.jpg Graphic file (type jpg)
 <use cdt/theme/pleca.jpg>
-Package pdftex.def Info: cdt/theme/pleca.jpg  used on input line 103.
+Package pdftex.def Info: cdt/theme/pleca.jpg  used on input line 124.
 (pdftex.def)             Requested size: 614.29454pt x 133.69939pt.
- [4]
-File: cdt/uc/rules/BRRule.png Graphic file (type png)
-<use cdt/uc/rules/BRRule.png>
-Package pdftex.def Info: cdt/uc/rules/BRRule.png  used on input line 103.
-(pdftex.def)             Requested size: 443.57848pt x 27.50449pt.
-File: cdt/uc/rules/BRRule.png Graphic file (type png)
-<use cdt/uc/rules/BRRule.png>
-Package pdftex.def Info: cdt/uc/rules/BRRule.png  used on input line 113.
-(pdftex.def)             Requested size: 443.57848pt x 27.50449pt.
-File: cdt/uc/rules/BRRule.png Graphic file (type png)
-<use cdt/uc/rules/BRRule.png>
-Package pdftex.def Info: cdt/uc/rules/BRRule.png  used on input line 123.
-(pdftex.def)             Requested size: 443.57848pt x 27.50449pt.
-File: cdt/uc/rules/BRRule.png Graphic file (type png)
-<use cdt/uc/rules/BRRule.png>
-Package pdftex.def Info: cdt/uc/rules/BRRule.png  used on input line 133.
-(pdftex.def)             Requested size: 443.57848pt x 27.50449pt.
-File: cdt/theme/logoInp.png Graphic file (type png)
-<use cdt/theme/logoInp.png>
-Package pdftex.def Info: cdt/theme/logoInp.png  used on input line 139.
-(pdftex.def)             Requested size: 32.73712pt x 35.0pt.
-File: cdt/theme/headerInp.png Graphic file (type png)
-<use cdt/theme/headerInp.png>
-Package pdftex.def Info: cdt/theme/headerInp.png  used on input line 139.
-(pdftex.def)             Requested size: 32.73712pt x 35.0pt.
+ [4
 
-
-Package fancyhdr Warning: \headheight is too small (32.0pt): 
-(fancyhdr)                Make it at least 38.75003pt, for example:
-(fancyhdr)                \setlength{\headheight}{38.75003pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-
-(fancyhdr)                \addtolength{\topmargin}{-6.75003pt}.
-
-File: cdt/theme/pleca.jpg Graphic file (type jpg)
-<use cdt/theme/pleca.jpg>
-Package pdftex.def Info: cdt/theme/pleca.jpg  used on input line 139.
-(pdftex.def)             Requested size: 614.29454pt x 133.69939pt.
-[5]
-File: cdt/uc/rules/BRRule.png Graphic file (type png)
-<use cdt/uc/rules/BRRule.png>
-Package pdftex.def Info: cdt/uc/rules/BRRule.png  used on input line 143.
-(pdftex.def)             Requested size: 443.57848pt x 27.50449pt.
-File: cdt/uc/rules/BRRule.png Graphic file (type png)
-<use cdt/uc/rules/BRRule.png>
-Package pdftex.def Info: cdt/uc/rules/BRRule.png  used on input line 152.
-(pdftex.def)             Requested size: 443.57848pt x 27.50449pt.
-File: cdt/uc/rules/BRRule.png Graphic file (type png)
-<use cdt/uc/rules/BRRule.png>
-Package pdftex.def Info: cdt/uc/rules/BRRule.png  used on input line 162.
-(pdftex.def)             Requested size: 443.57848pt x 27.50449pt.
-File: cdt/uc/rules/BRRule.png Graphic file (type png)
-<use cdt/uc/rules/BRRule.png>
-Package pdftex.def Info: cdt/uc/rules/BRRule.png  used on input line 172.
-(pdftex.def)             Requested size: 443.57848pt x 27.50449pt.
-File: cdt/theme/headerPar.png Graphic file (type png)
-<use cdt/theme/headerPar.png>
-Package pdftex.def Info: cdt/theme/headerPar.png  used on input line 173.
-(pdftex.def)             Requested size: 34.98143pt x 35.0pt.
-File: cdt/theme/logoPar.png Graphic file (type png)
-<use cdt/theme/logoPar.png>
-Package pdftex.def Info: cdt/theme/logoPar.png  used on input line 173.
-(pdftex.def)             Requested size: 32.73712pt x 35.0pt.
-
-
-Package fancyhdr Warning: \headheight is too small (32.0pt): 
-(fancyhdr)                Make it at least 38.75003pt, for example:
-(fancyhdr)                \setlength{\headheight}{38.75003pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-
-(fancyhdr)                \addtolength{\topmargin}{-6.75003pt}.
-
-File: cdt/theme/pleca.jpg Graphic file (type jpg)
-<use cdt/theme/pleca.jpg>
-Package pdftex.def Info: cdt/theme/pleca.jpg  used on input line 173.
-(pdftex.def)             Requested size: 614.29454pt x 133.69939pt.
-[6]
-File: cdt/uc/rules/BRRule.png Graphic file (type png)
-<use cdt/uc/rules/BRRule.png>
-Package pdftex.def Info: cdt/uc/rules/BRRule.png  used on input line 183.
-(pdftex.def)             Requested size: 443.57848pt x 27.50449pt.
-File: cdt/uc/rules/BRRule.png Graphic file (type png)
-<use cdt/uc/rules/BRRule.png>
-Package pdftex.def Info: cdt/uc/rules/BRRule.png  used on input line 193.
-(pdftex.def)             Requested size: 443.57848pt x 27.50449pt.
-File: cdt/uc/rules/BRRule.png Graphic file (type png)
-<use cdt/uc/rules/BRRule.png>
-Package pdftex.def Info: cdt/uc/rules/BRRule.png  used on input line 202.
-(pdftex.def)             Requested size: 443.57848pt x 27.50449pt.
-File: cdt/uc/rules/BRRule.png Graphic file (type png)
-<use cdt/uc/rules/BRRule.png>
-Package pdftex.def Info: cdt/uc/rules/BRRule.png  used on input line 212.
-(pdftex.def)             Requested size: 443.57848pt x 27.50449pt.
-File: cdt/theme/logoInp.png Graphic file (type png)
-<use cdt/theme/logoInp.png>
-Package pdftex.def Info: cdt/theme/logoInp.png  used on input line 212.
-(pdftex.def)             Requested size: 32.73712pt x 35.0pt.
-File: cdt/theme/headerInp.png Graphic file (type png)
-<use cdt/theme/headerInp.png>
-Package pdftex.def Info: cdt/theme/headerInp.png  used on input line 212.
-(pdftex.def)             Requested size: 32.73712pt x 35.0pt.
-
-
-Package fancyhdr Warning: \headheight is too small (32.0pt): 
-(fancyhdr)                Make it at least 38.75003pt, for example:
-(fancyhdr)                \setlength{\headheight}{38.75003pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-
-(fancyhdr)                \addtolength{\topmargin}{-6.75003pt}.
-
-File: cdt/theme/pleca.jpg Graphic file (type jpg)
-<use cdt/theme/pleca.jpg>
-Package pdftex.def Info: cdt/theme/pleca.jpg  used on input line 212.
-(pdftex.def)             Requested size: 614.29454pt x 133.69939pt.
-[7
-pdfTeX warning (ext4): destination with the same identifier (name{RN-025}) has 
-been already used, duplicate ignored
-<argument> ...shipout:D \box_use:N \l_shipout_box 
-                                                  \__shipout_drop_firstpage_...
-l.212 	{Controla la operación}
-                               ]
-File: cdt/uc/rules/BRRule.png Graphic file (type png)
-<use cdt/uc/rules/BRRule.png>
-Package pdftex.def Info: cdt/uc/rules/BRRule.png  used on input line 222.
-(pdftex.def)             Requested size: 443.57848pt x 27.50449pt.
-File: cdt/uc/rules/BRRule.png Graphic file (type png)
-<use cdt/uc/rules/BRRule.png>
-Package pdftex.def Info: cdt/uc/rules/BRRule.png  used on input line 232.
-(pdftex.def)             Requested size: 443.57848pt x 27.50449pt.
-File: cdt/uc/rules/BRRule.png Graphic file (type png)
-<use cdt/uc/rules/BRRule.png>
-Package pdftex.def Info: cdt/uc/rules/BRRule.png  used on input line 241.
-(pdftex.def)             Requested size: 443.57848pt x 27.50449pt.
-)
-File: cdt/theme/headerPar.png Graphic file (type png)
-<use cdt/theme/headerPar.png>
-Package pdftex.def Info: cdt/theme/headerPar.png  used on input line 125.
-(pdftex.def)             Requested size: 34.98143pt x 35.0pt.
-File: cdt/theme/logoPar.png Graphic file (type png)
-<use cdt/theme/logoPar.png>
-Package pdftex.def Info: cdt/theme/logoPar.png  used on input line 125.
-(pdftex.def)             Requested size: 32.73712pt x 35.0pt.
-
-
-Package fancyhdr Warning: \headheight is too small (32.0pt): 
-(fancyhdr)                Make it at least 38.75003pt, for example:
-(fancyhdr)                \setlength{\headheight}{38.75003pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-
-(fancyhdr)                \addtolength{\topmargin}{-6.75003pt}.
-
-File: cdt/theme/pleca.jpg Graphic file (type jpg)
-<use cdt/theme/pleca.jpg>
-Package pdftex.def Info: cdt/theme/pleca.jpg  used on input line 125.
-(pdftex.def)             Requested size: 614.29454pt x 133.69939pt.
-[8]
+]
 Cap\'{\i }tulo 3.
 (pantallas/pantallas.tex
 File: cdt/theme/pleca.jpg Graphic file (type jpg)
 <use cdt/theme/pleca.jpg>
 Package pdftex.def Info: cdt/theme/pleca.jpg  used on input line 1.
 (pdftex.def)             Requested size: 614.29454pt x 133.69939pt.
- [9
-
-]
-<pantallas/images/1menu.png, id=572, 484.05844pt x 276.28218pt>
-File: pantallas/images/1menu.png Graphic file (type png)
-<use pantallas/images/1menu.png>
-Package pdftex.def Info: pantallas/images/1menu.png  used on input line 7.
-(pdftex.def)             Requested size: 284.52756pt x 162.4022pt.
+ [5])
 File: cdt/theme/headerPar.png Graphic file (type png)
 <use cdt/theme/headerPar.png>
-Package pdftex.def Info: cdt/theme/headerPar.png  used on input line 13.
+Package pdftex.def Info: cdt/theme/headerPar.png  used on input line 128.
 (pdftex.def)             Requested size: 34.98143pt x 35.0pt.
 File: cdt/theme/logoPar.png Graphic file (type png)
 <use cdt/theme/logoPar.png>
-Package pdftex.def Info: cdt/theme/logoPar.png  used on input line 13.
+Package pdftex.def Info: cdt/theme/logoPar.png  used on input line 128.
 (pdftex.def)             Requested size: 32.73712pt x 35.0pt.
 
 
@@ -1327,571 +1089,25 @@ Package fancyhdr Warning: \headheight is too small (32.0pt):
 
 File: cdt/theme/pleca.jpg Graphic file (type jpg)
 <use cdt/theme/pleca.jpg>
-Package pdftex.def Info: cdt/theme/pleca.jpg  used on input line 13.
+Package pdftex.def Info: cdt/theme/pleca.jpg  used on input line 128.
 (pdftex.def)             Requested size: 614.29454pt x 133.69939pt.
-[10 <./pantallas/images/1menu.png>]
-<pantallas/images/2carrito.png, id=578, 2569.6pt x 1445.4pt>
-File: pantallas/images/2carrito.png Graphic file (type png)
-<use pantallas/images/2carrito.png>
-Package pdftex.def Info: pantallas/images/2carrito.png  used on input line 17.
-(pdftex.def)             Requested size: 284.52756pt x 160.03107pt.
-<pantallas/images/3carritovacio.png, id=579, 2569.6pt x 1445.4pt>
-File: pantallas/images/3carritovacio.png Graphic file (type png)
-<use pantallas/images/3carritovacio.png>
-Package pdftex.def Info: pantallas/images/3carritovacio.png  used on input line
- 24.
-(pdftex.def)             Requested size: 284.52756pt x 160.03107pt.
-<pantallas/images/4carritobuscar.png, id=580, 2569.6pt x 1445.4pt>
-File: pantallas/images/4carritobuscar.png Graphic file (type png)
-<use pantallas/images/4carritobuscar.png>
-Package pdftex.def Info: pantallas/images/4carritobuscar.png  used on input lin
-e 31.
-(pdftex.def)             Requested size: 284.52756pt x 160.03107pt.
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-File: cdt/theme/logoInp.png Graphic file (type png)
-<use cdt/theme/logoInp.png>
-Package pdftex.def Info: cdt/theme/logoInp.png  used on input line 32.
-(pdftex.def)             Requested size: 32.73712pt x 35.0pt.
-File: cdt/theme/headerInp.png Graphic file (type png)
-<use cdt/theme/headerInp.png>
-Package pdftex.def Info: cdt/theme/headerInp.png  used on input line 32.
-(pdftex.def)             Requested size: 32.73712pt x 35.0pt.
-
-
-Package fancyhdr Warning: \headheight is too small (32.0pt): 
-(fancyhdr)                Make it at least 38.75003pt, for example:
-(fancyhdr)                \setlength{\headheight}{38.75003pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-
-(fancyhdr)                \addtolength{\topmargin}{-6.75003pt}.
-
-File: cdt/theme/pleca.jpg Graphic file (type jpg)
-<use cdt/theme/pleca.jpg>
-Package pdftex.def Info: cdt/theme/pleca.jpg  used on input line 32.
-(pdftex.def)             Requested size: 614.29454pt x 133.69939pt.
-[11 <./pantallas/images/2carrito.png> <./pantallas/images/3carritovacio.png>]
-<pantallas/images/5carritoalertavacia.png, id=588, 2569.6pt x 1445.4pt>
-File: pantallas/images/5carritoalertavacia.png Graphic file (type png)
-<use pantallas/images/5carritoalertavacia.png>
-Package pdftex.def Info: pantallas/images/5carritoalertavacia.png  used on inpu
-t line 38.
-(pdftex.def)             Requested size: 284.52756pt x 160.03107pt.
-<pantallas/images/6carritoagregar.png, id=589, 2569.6pt x 1445.4pt>
-File: pantallas/images/6carritoagregar.png Graphic file (type png)
-<use pantallas/images/6carritoagregar.png>
-Package pdftex.def Info: pantallas/images/6carritoagregar.png  used on input li
-ne 45.
-(pdftex.def)             Requested size: 284.52756pt x 160.03107pt.
-<pantallas/images/7carritolleno.png, id=590, 2569.6pt x 1445.4pt>
-File: pantallas/images/7carritolleno.png Graphic file (type png)
-<use pantallas/images/7carritolleno.png>
-Package pdftex.def Info: pantallas/images/7carritolleno.png  used on input line
- 52.
-(pdftex.def)             Requested size: 284.52756pt x 160.03107pt.
-File: cdt/theme/headerPar.png Graphic file (type png)
-<use cdt/theme/headerPar.png>
-Package pdftex.def Info: cdt/theme/headerPar.png  used on input line 53.
-(pdftex.def)             Requested size: 34.98143pt x 35.0pt.
-File: cdt/theme/logoPar.png Graphic file (type png)
-<use cdt/theme/logoPar.png>
-Package pdftex.def Info: cdt/theme/logoPar.png  used on input line 53.
-(pdftex.def)             Requested size: 32.73712pt x 35.0pt.
-
-
-Package fancyhdr Warning: \headheight is too small (32.0pt): 
-(fancyhdr)                Make it at least 38.75003pt, for example:
-(fancyhdr)                \setlength{\headheight}{38.75003pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-
-(fancyhdr)                \addtolength{\topmargin}{-6.75003pt}.
-
-File: cdt/theme/pleca.jpg Graphic file (type jpg)
-<use cdt/theme/pleca.jpg>
-Package pdftex.def Info: cdt/theme/pleca.jpg  used on input line 53.
-(pdftex.def)             Requested size: 614.29454pt x 133.69939pt.
-[12 <./pantallas/images/4carritobuscar.png> <./pantallas/images/5carritoalertav
-acia.png> <./pantallas/images/6carritoagregar.png>]
-<pantallas/images/8carritocobrar.png, id=598, 2569.6pt x 1445.4pt>
-File: pantallas/images/8carritocobrar.png Graphic file (type png)
-<use pantallas/images/8carritocobrar.png>
-Package pdftex.def Info: pantallas/images/8carritocobrar.png  used on input lin
-e 59.
-(pdftex.def)             Requested size: 284.52756pt x 160.03107pt.
-<pantallas/images/9carritoticket.png, id=599, 2569.6pt x 1445.4pt>
-File: pantallas/images/9carritoticket.png Graphic file (type png)
-<use pantallas/images/9carritoticket.png>
-Package pdftex.def Info: pantallas/images/9carritoticket.png  used on input lin
-e 66.
-(pdftex.def)             Requested size: 284.52756pt x 160.03107pt.
-<pantallas/images/33ErrorBD.png, id=600, 665.48625pt x 377.91188pt>
-File: pantallas/images/33ErrorBD.png Graphic file (type png)
-<use pantallas/images/33ErrorBD.png>
-Package pdftex.def Info: pantallas/images/33ErrorBD.png  used on input line 73.
-
-(pdftex.def)             Requested size: 284.52756pt x 161.5763pt.
-File: cdt/theme/logoInp.png Graphic file (type png)
-<use cdt/theme/logoInp.png>
-Package pdftex.def Info: cdt/theme/logoInp.png  used on input line 74.
-(pdftex.def)             Requested size: 32.73712pt x 35.0pt.
-File: cdt/theme/headerInp.png Graphic file (type png)
-<use cdt/theme/headerInp.png>
-Package pdftex.def Info: cdt/theme/headerInp.png  used on input line 74.
-(pdftex.def)             Requested size: 32.73712pt x 35.0pt.
-
-
-Package fancyhdr Warning: \headheight is too small (32.0pt): 
-(fancyhdr)                Make it at least 38.75003pt, for example:
-(fancyhdr)                \setlength{\headheight}{38.75003pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-
-(fancyhdr)                \addtolength{\topmargin}{-6.75003pt}.
-
-File: cdt/theme/pleca.jpg Graphic file (type jpg)
-<use cdt/theme/pleca.jpg>
-Package pdftex.def Info: cdt/theme/pleca.jpg  used on input line 74.
-(pdftex.def)             Requested size: 614.29454pt x 133.69939pt.
-[13 <./pantallas/images/7carritolleno.png> <./pantallas/images/8carritocobrar.p
-ng> <./pantallas/images/9carritoticket.png>]
-<pantallas/images/34Escacez.png, id=608, 650.43pt x 368.1253pt>
-File: pantallas/images/34Escacez.png Graphic file (type png)
-<use pantallas/images/34Escacez.png>
-Package pdftex.def Info: pantallas/images/34Escacez.png  used on input line 80.
-
-(pdftex.def)             Requested size: 284.52756pt x 161.03757pt.
-File: cdt/theme/headerPar.png Graphic file (type png)
-<use cdt/theme/headerPar.png>
-Package pdftex.def Info: cdt/theme/headerPar.png  used on input line 86.
-(pdftex.def)             Requested size: 34.98143pt x 35.0pt.
-File: cdt/theme/logoPar.png Graphic file (type png)
-<use cdt/theme/logoPar.png>
-Package pdftex.def Info: cdt/theme/logoPar.png  used on input line 86.
-(pdftex.def)             Requested size: 32.73712pt x 35.0pt.
-
-
-Package fancyhdr Warning: \headheight is too small (32.0pt): 
-(fancyhdr)                Make it at least 38.75003pt, for example:
-(fancyhdr)                \setlength{\headheight}{38.75003pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-
-(fancyhdr)                \addtolength{\topmargin}{-6.75003pt}.
-
-File: cdt/theme/pleca.jpg Graphic file (type jpg)
-<use cdt/theme/pleca.jpg>
-Package pdftex.def Info: cdt/theme/pleca.jpg  used on input line 86.
-(pdftex.def)             Requested size: 614.29454pt x 133.69939pt.
-[14 <./pantallas/images/33ErrorBD.png> <./pantallas/images/34Escacez.png>]
-<pantallas/images/10resurtir.png, id=615, 481.04718pt x 269.50688pt>
-File: pantallas/images/10resurtir.png Graphic file (type png)
-<use pantallas/images/10resurtir.png>
-Package pdftex.def Info: pantallas/images/10resurtir.png  used on input line 90
-.
-(pdftex.def)             Requested size: 284.52756pt x 159.41068pt.
-<pantallas/images/11resurtirvacio.png, id=616, 483.30562pt x 274.02374pt>
-File: pantallas/images/11resurtirvacio.png Graphic file (type png)
-<use pantallas/images/11resurtirvacio.png>
-Package pdftex.def Info: pantallas/images/11resurtirvacio.png  used on input li
-ne 97.
-(pdftex.def)             Requested size: 284.52756pt x 161.32556pt.
-<pantallas/images/12resurtirbuscar.png, id=617, 486.31688pt x 276.28218pt>
-File: pantallas/images/12resurtirbuscar.png Graphic file (type png)
-<use pantallas/images/12resurtirbuscar.png>
-Package pdftex.def Info: pantallas/images/12resurtirbuscar.png  used on input l
-ine 104.
-(pdftex.def)             Requested size: 284.52756pt x 161.64339pt.
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-File: cdt/theme/logoInp.png Graphic file (type png)
-<use cdt/theme/logoInp.png>
-Package pdftex.def Info: cdt/theme/logoInp.png  used on input line 105.
-(pdftex.def)             Requested size: 32.73712pt x 35.0pt.
-File: cdt/theme/headerInp.png Graphic file (type png)
-<use cdt/theme/headerInp.png>
-Package pdftex.def Info: cdt/theme/headerInp.png  used on input line 105.
-(pdftex.def)             Requested size: 32.73712pt x 35.0pt.
-
-
-Package fancyhdr Warning: \headheight is too small (32.0pt): 
-(fancyhdr)                Make it at least 38.75003pt, for example:
-(fancyhdr)                \setlength{\headheight}{38.75003pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-
-(fancyhdr)                \addtolength{\topmargin}{-6.75003pt}.
-
-File: cdt/theme/pleca.jpg Graphic file (type jpg)
-<use cdt/theme/pleca.jpg>
-Package pdftex.def Info: cdt/theme/pleca.jpg  used on input line 105.
-(pdftex.def)             Requested size: 614.29454pt x 133.69939pt.
-[15 <./pantallas/images/10resurtir.png> <./pantallas/images/11resurtirvacio.png
->]
-<pantallas/images/13resurtirbusquedavacia.png, id=624, 485.56406pt x 278.54062p
-t>
-File: pantallas/images/13resurtirbusquedavacia.png Graphic file (type png)
-<use pantallas/images/13resurtirbusquedavacia.png>
-Package pdftex.def Info: pantallas/images/13resurtirbusquedavacia.png  used on 
-input line 111.
-(pdftex.def)             Requested size: 284.52756pt x 163.21548pt.
-<pantallas/images/14resurtiragregar.png, id=625, 487.06969pt x 276.28218pt>
-File: pantallas/images/14resurtiragregar.png Graphic file (type png)
-<use pantallas/images/14resurtiragregar.png>
-Package pdftex.def Info: pantallas/images/14resurtiragregar.png  used on input 
-line 118.
-(pdftex.def)             Requested size: 284.52756pt x 161.39465pt.
-File: cdt/theme/headerPar.png Graphic file (type png)
-<use cdt/theme/headerPar.png>
-Package pdftex.def Info: cdt/theme/headerPar.png  used on input line 123.
-(pdftex.def)             Requested size: 34.98143pt x 35.0pt.
-File: cdt/theme/logoPar.png Graphic file (type png)
-<use cdt/theme/logoPar.png>
-Package pdftex.def Info: cdt/theme/logoPar.png  used on input line 123.
-(pdftex.def)             Requested size: 32.73712pt x 35.0pt.
-
-
-Package fancyhdr Warning: \headheight is too small (32.0pt): 
-(fancyhdr)                Make it at least 38.75003pt, for example:
-(fancyhdr)                \setlength{\headheight}{38.75003pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-
-(fancyhdr)                \addtolength{\topmargin}{-6.75003pt}.
-
-File: cdt/theme/pleca.jpg Graphic file (type jpg)
-<use cdt/theme/pleca.jpg>
-Package pdftex.def Info: cdt/theme/pleca.jpg  used on input line 123.
-(pdftex.def)             Requested size: 614.29454pt x 133.69939pt.
-[16 <./pantallas/images/12resurtirbuscar.png> <./pantallas/images/13resurtirbus
-quedavacia.png> <./pantallas/images/14resurtiragregar.png>]
-<pantallas/images/15resurtirlleno.png, id=633, 484.05844pt x 276.28218pt>
-File: pantallas/images/15resurtirlleno.png Graphic file (type png)
-<use pantallas/images/15resurtirlleno.png>
-Package pdftex.def Info: pantallas/images/15resurtirlleno.png  used on input li
-ne 125.
-(pdftex.def)             Requested size: 284.52756pt x 162.4022pt.
-<pantallas/images/16resurtirconfirmacion.png, id=634, 484.81125pt x 275.52937pt
->
-File: pantallas/images/16resurtirconfirmacion.png Graphic file (type png)
-<use pantallas/images/16resurtirconfirmacion.png>
-Package pdftex.def Info: pantallas/images/16resurtirconfirmacion.png  used on i
-nput line 132.
-(pdftex.def)             Requested size: 284.52756pt x 161.71165pt.
-<pantallas/images/17resurtirok.png, id=635, 483.30562pt x 271.76532pt>
-File: pantallas/images/17resurtirok.png Graphic file (type png)
-<use pantallas/images/17resurtirok.png>
-Package pdftex.def Info: pantallas/images/17resurtirok.png  used on input line 
-139.
-(pdftex.def)             Requested size: 284.52756pt x 159.99596pt.
-<pantallas/images/18resurtirregistrarproducto.png, id=636, 2569.6pt x 1445.4pt>
-
-File: pantallas/images/18resurtirregistrarproducto.png Graphic file (type png)
-<use pantallas/images/18resurtirregistrarproducto.png>
-Package pdftex.def Info: pantallas/images/18resurtirregistrarproducto.png  used
- on input line 146.
-(pdftex.def)             Requested size: 284.52756pt x 160.03107pt.
-File: cdt/theme/logoInp.png Graphic file (type png)
-<use cdt/theme/logoInp.png>
-Package pdftex.def Info: cdt/theme/logoInp.png  used on input line 147.
-(pdftex.def)             Requested size: 32.73712pt x 35.0pt.
-File: cdt/theme/headerInp.png Graphic file (type png)
-<use cdt/theme/headerInp.png>
-Package pdftex.def Info: cdt/theme/headerInp.png  used on input line 147.
-(pdftex.def)             Requested size: 32.73712pt x 35.0pt.
-
-
-Package fancyhdr Warning: \headheight is too small (32.0pt): 
-(fancyhdr)                Make it at least 38.75003pt, for example:
-(fancyhdr)                \setlength{\headheight}{38.75003pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-
-(fancyhdr)                \addtolength{\topmargin}{-6.75003pt}.
-
-File: cdt/theme/pleca.jpg Graphic file (type jpg)
-<use cdt/theme/pleca.jpg>
-Package pdftex.def Info: cdt/theme/pleca.jpg  used on input line 147.
-(pdftex.def)             Requested size: 614.29454pt x 133.69939pt.
-[17 <./pantallas/images/15resurtirlleno.png> <./pantallas/images/16resurtirconf
-irmacion.png> <./pantallas/images/17resurtirok.png>]
-File: cdt/theme/headerPar.png Graphic file (type png)
-<use cdt/theme/headerPar.png>
-Package pdftex.def Info: cdt/theme/headerPar.png  used on input line 152.
-(pdftex.def)             Requested size: 34.98143pt x 35.0pt.
-File: cdt/theme/logoPar.png Graphic file (type png)
-<use cdt/theme/logoPar.png>
-Package pdftex.def Info: cdt/theme/logoPar.png  used on input line 152.
-(pdftex.def)             Requested size: 32.73712pt x 35.0pt.
-
-
-Package fancyhdr Warning: \headheight is too small (32.0pt): 
-(fancyhdr)                Make it at least 38.75003pt, for example:
-(fancyhdr)                \setlength{\headheight}{38.75003pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-
-(fancyhdr)                \addtolength{\topmargin}{-6.75003pt}.
-
-File: cdt/theme/pleca.jpg Graphic file (type jpg)
-<use cdt/theme/pleca.jpg>
-Package pdftex.def Info: cdt/theme/pleca.jpg  used on input line 152.
-(pdftex.def)             Requested size: 614.29454pt x 133.69939pt.
-[18 <./pantallas/images/18resurtirregistrarproducto.png>]
-<pantallas/images/19devolucionbusqueda.png, id=650, 2569.6pt x 1445.4pt>
-File: pantallas/images/19devolucionbusqueda.png Graphic file (type png)
-<use pantallas/images/19devolucionbusqueda.png>
-Package pdftex.def Info: pantallas/images/19devolucionbusqueda.png  used on inp
-ut line 156.
-(pdftex.def)             Requested size: 284.52756pt x 160.03107pt.
-<pantallas/images/20devolucionerror.png, id=651, 2569.6pt x 1445.4pt>
-File: pantallas/images/20devolucionerror.png Graphic file (type png)
-<use pantallas/images/20devolucionerror.png>
-Package pdftex.def Info: pantallas/images/20devolucionerror.png  used on input 
-line 163.
-(pdftex.def)             Requested size: 284.52756pt x 160.03107pt.
-<pantallas/images/21devolucionlista.png, id=652, 2569.6pt x 1445.4pt>
-File: pantallas/images/21devolucionlista.png Graphic file (type png)
-<use pantallas/images/21devolucionlista.png>
-Package pdftex.def Info: pantallas/images/21devolucionlista.png  used on input 
-line 170.
-(pdftex.def)             Requested size: 284.52756pt x 160.03107pt.
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-File: cdt/theme/logoInp.png Graphic file (type png)
-<use cdt/theme/logoInp.png>
-Package pdftex.def Info: cdt/theme/logoInp.png  used on input line 171.
-(pdftex.def)             Requested size: 32.73712pt x 35.0pt.
-File: cdt/theme/headerInp.png Graphic file (type png)
-<use cdt/theme/headerInp.png>
-Package pdftex.def Info: cdt/theme/headerInp.png  used on input line 171.
-(pdftex.def)             Requested size: 32.73712pt x 35.0pt.
-
-
-Package fancyhdr Warning: \headheight is too small (32.0pt): 
-(fancyhdr)                Make it at least 38.75003pt, for example:
-(fancyhdr)                \setlength{\headheight}{38.75003pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-
-(fancyhdr)                \addtolength{\topmargin}{-6.75003pt}.
-
-File: cdt/theme/pleca.jpg Graphic file (type jpg)
-<use cdt/theme/pleca.jpg>
-Package pdftex.def Info: cdt/theme/pleca.jpg  used on input line 171.
-(pdftex.def)             Requested size: 614.29454pt x 133.69939pt.
-[19 <./pantallas/images/19devolucionbusqueda.png> <./pantallas/images/20devoluc
-ionerror.png>]
-<pantallas/images/22devolucionbusquedaerror.png, id=659, 2569.6pt x 1445.4pt>
-File: pantallas/images/22devolucionbusquedaerror.png Graphic file (type png)
-<use pantallas/images/22devolucionbusquedaerror.png>
-Package pdftex.def Info: pantallas/images/22devolucionbusquedaerror.png  used o
-n input line 177.
-(pdftex.def)             Requested size: 284.52756pt x 160.03107pt.
-<pantallas/images/23devolucionconfirmacion.png, id=660, 2569.6pt x 1445.4pt>
-File: pantallas/images/23devolucionconfirmacion.png Graphic file (type png)
-<use pantallas/images/23devolucionconfirmacion.png>
-Package pdftex.def Info: pantallas/images/23devolucionconfirmacion.png  used on
- input line 184.
-(pdftex.def)             Requested size: 284.52756pt x 160.03107pt.
-<pantallas/images/24devolucioncompleta.png, id=661, 2573.615pt x 1445.4pt>
-File: pantallas/images/24devolucioncompleta.png Graphic file (type png)
-<use pantallas/images/24devolucioncompleta.png>
-Package pdftex.def Info: pantallas/images/24devolucioncompleta.png  used on inp
-ut line 191.
-(pdftex.def)             Requested size: 284.52756pt x 159.78847pt.
-File: cdt/theme/headerPar.png Graphic file (type png)
-<use cdt/theme/headerPar.png>
-Package pdftex.def Info: cdt/theme/headerPar.png  used on input line 192.
-(pdftex.def)             Requested size: 34.98143pt x 35.0pt.
-File: cdt/theme/logoPar.png Graphic file (type png)
-<use cdt/theme/logoPar.png>
-Package pdftex.def Info: cdt/theme/logoPar.png  used on input line 192.
-(pdftex.def)             Requested size: 32.73712pt x 35.0pt.
-
-
-Package fancyhdr Warning: \headheight is too small (32.0pt): 
-(fancyhdr)                Make it at least 38.75003pt, for example:
-(fancyhdr)                \setlength{\headheight}{38.75003pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-
-(fancyhdr)                \addtolength{\topmargin}{-6.75003pt}.
-
-File: cdt/theme/pleca.jpg Graphic file (type jpg)
-<use cdt/theme/pleca.jpg>
-Package pdftex.def Info: cdt/theme/pleca.jpg  used on input line 192.
-(pdftex.def)             Requested size: 614.29454pt x 133.69939pt.
-[20 <./pantallas/images/21devolucionlista.png> <./pantallas/images/22devolucion
-busquedaerror.png> <./pantallas/images/23devolucionconfirmacion.png>]
-<pantallas/images/25devolucioncancelada.png, id=669, 2569.6pt x 1445.4pt>
-File: pantallas/images/25devolucioncancelada.png Graphic file (type png)
-<use pantallas/images/25devolucioncancelada.png>
-Package pdftex.def Info: pantallas/images/25devolucioncancelada.png  used on in
-put line 198.
-(pdftex.def)             Requested size: 284.52756pt x 160.03107pt.
-File: cdt/theme/logoInp.png Graphic file (type png)
-<use cdt/theme/logoInp.png>
-Package pdftex.def Info: cdt/theme/logoInp.png  used on input line 205.
-(pdftex.def)             Requested size: 32.73712pt x 35.0pt.
-File: cdt/theme/headerInp.png Graphic file (type png)
-<use cdt/theme/headerInp.png>
-Package pdftex.def Info: cdt/theme/headerInp.png  used on input line 205.
-(pdftex.def)             Requested size: 32.73712pt x 35.0pt.
-
-
-Package fancyhdr Warning: \headheight is too small (32.0pt): 
-(fancyhdr)                Make it at least 38.75003pt, for example:
-(fancyhdr)                \setlength{\headheight}{38.75003pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-
-(fancyhdr)                \addtolength{\topmargin}{-6.75003pt}.
-
-File: cdt/theme/pleca.jpg Graphic file (type jpg)
-<use cdt/theme/pleca.jpg>
-Package pdftex.def Info: cdt/theme/pleca.jpg  used on input line 205.
-(pdftex.def)             Requested size: 614.29454pt x 133.69939pt.
-[21 <./pantallas/images/24devolucioncompleta.png> <./pantallas/images/25devoluc
-ioncancelada.png>]
-<pantallas/images/26gestionarinventario.PNG, id=676, 725.71124pt x 411.03563pt>
-
-File: pantallas/images/26gestionarinventario.PNG Graphic file (type png)
-<use pantallas/images/26gestionarinventario.PNG>
-Package pdftex.def Info: pantallas/images/26gestionarinventario.PNG  used on in
-put line 209.
-(pdftex.def)             Requested size: 284.52756pt x 161.15622pt.
-<pantallas/images/27registrarproducto.PNG, id=677, 725.71124pt x 413.29407pt>
-File: pantallas/images/27registrarproducto.PNG Graphic file (type png)
-<use pantallas/images/27registrarproducto.PNG>
-Package pdftex.def Info: pantallas/images/27registrarproducto.PNG  used on inpu
-t line 216.
-(pdftex.def)             Requested size: 284.52756pt x 162.04169pt.
-<pantallas/images/28sinproveedores.PNG, id=678, 727.96968pt x 414.04688pt>
-File: pantallas/images/28sinproveedores.PNG Graphic file (type png)
-<use pantallas/images/28sinproveedores.PNG>
-Package pdftex.def Info: pantallas/images/28sinproveedores.PNG  used on input l
-ine 223.
-(pdftex.def)             Requested size: 284.52756pt x 161.83142pt.
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-File: cdt/theme/headerPar.png Graphic file (type png)
-<use cdt/theme/headerPar.png>
-Package pdftex.def Info: cdt/theme/headerPar.png  used on input line 224.
-(pdftex.def)             Requested size: 34.98143pt x 35.0pt.
-File: cdt/theme/logoPar.png Graphic file (type png)
-<use cdt/theme/logoPar.png>
-Package pdftex.def Info: cdt/theme/logoPar.png  used on input line 224.
-(pdftex.def)             Requested size: 32.73712pt x 35.0pt.
-
-
-Package fancyhdr Warning: \headheight is too small (32.0pt): 
-(fancyhdr)                Make it at least 38.75003pt, for example:
-(fancyhdr)                \setlength{\headheight}{38.75003pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-
-(fancyhdr)                \addtolength{\topmargin}{-6.75003pt}.
-
-File: cdt/theme/pleca.jpg Graphic file (type jpg)
-<use cdt/theme/pleca.jpg>
-Package pdftex.def Info: cdt/theme/pleca.jpg  used on input line 224.
-(pdftex.def)             Requested size: 614.29454pt x 133.69939pt.
-[22 <./pantallas/images/26gestionarinventario.PNG> <./pantallas/images/27regist
-rarproducto.PNG>]
-<pantallas/images/29camposvacios.PNG, id=685, 727.96968pt x 411.78844pt>
-File: pantallas/images/29camposvacios.PNG Graphic file (type png)
-<use pantallas/images/29camposvacios.PNG>
-Package pdftex.def Info: pantallas/images/29camposvacios.PNG  used on input lin
-e 230.
-(pdftex.def)             Requested size: 284.52756pt x 160.9487pt.
-<pantallas/images/30errores.PNG, id=686, 725.71124pt x 411.03563pt>
-File: pantallas/images/30errores.PNG Graphic file (type png)
-<use pantallas/images/30errores.PNG>
-Package pdftex.def Info: pantallas/images/30errores.PNG  used on input line 237
-.
-(pdftex.def)             Requested size: 284.52756pt x 161.15622pt.
-File: cdt/theme/logoInp.png Graphic file (type png)
-<use cdt/theme/logoInp.png>
-Package pdftex.def Info: cdt/theme/logoInp.png  used on input line 242.
-(pdftex.def)             Requested size: 32.73712pt x 35.0pt.
-File: cdt/theme/headerInp.png Graphic file (type png)
-<use cdt/theme/headerInp.png>
-Package pdftex.def Info: cdt/theme/headerInp.png  used on input line 242.
-(pdftex.def)             Requested size: 32.73712pt x 35.0pt.
-
-
-Package fancyhdr Warning: \headheight is too small (32.0pt): 
-(fancyhdr)                Make it at least 38.75003pt, for example:
-(fancyhdr)                \setlength{\headheight}{38.75003pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-
-(fancyhdr)                \addtolength{\topmargin}{-6.75003pt}.
-
-File: cdt/theme/pleca.jpg Graphic file (type jpg)
-<use cdt/theme/pleca.jpg>
-Package pdftex.def Info: cdt/theme/pleca.jpg  used on input line 242.
-(pdftex.def)             Requested size: 614.29454pt x 133.69939pt.
-[23 <./pantallas/images/28sinproveedores.PNG> <./pantallas/images/29camposvacio
-s.PNG> <./pantallas/images/30errores.PNG>]
-<pantallas/images/31mismocodigo.PNG, id=695, 724.95844pt x 413.29407pt>
-File: pantallas/images/31mismocodigo.PNG Graphic file (type png)
-<use pantallas/images/31mismocodigo.PNG>
-Package pdftex.def Info: pantallas/images/31mismocodigo.PNG  used on input line
- 244.
-(pdftex.def)             Requested size: 284.52756pt x 162.20566pt.
-<pantallas/images/32exito.PNG, id=696, 726.46407pt x 410.2828pt>
-File: pantallas/images/32exito.PNG Graphic file (type png)
-<use pantallas/images/32exito.PNG>
-Package pdftex.def Info: pantallas/images/32exito.PNG  used on input line 251.
-(pdftex.def)             Requested size: 284.52756pt x 160.69203pt.
-)
-File: cdt/theme/headerPar.png Graphic file (type png)
-<use cdt/theme/headerPar.png>
-Package pdftex.def Info: cdt/theme/headerPar.png  used on input line 129.
-(pdftex.def)             Requested size: 34.98143pt x 35.0pt.
-File: cdt/theme/logoPar.png Graphic file (type png)
-<use cdt/theme/logoPar.png>
-Package pdftex.def Info: cdt/theme/logoPar.png  used on input line 129.
-(pdftex.def)             Requested size: 32.73712pt x 35.0pt.
-
-
-Package fancyhdr Warning: \headheight is too small (32.0pt): 
-(fancyhdr)                Make it at least 38.75003pt, for example:
-(fancyhdr)                \setlength{\headheight}{38.75003pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-
-(fancyhdr)                \addtolength{\topmargin}{-6.75003pt}.
-
-File: cdt/theme/pleca.jpg Graphic file (type jpg)
-<use cdt/theme/pleca.jpg>
-Package pdftex.def Info: cdt/theme/pleca.jpg  used on input line 129.
-(pdftex.def)             Requested size: 614.29454pt x 133.69939pt.
-[24 <./pantallas/images/31mismocodigo.PNG> <./pantallas/images/32exito.PNG>]
+[6]
 Cap\'{\i }tulo 4.
 (proceso/proceso.tex
 File: cdt/theme/pleca.jpg Graphic file (type jpg)
 <use cdt/theme/pleca.jpg>
 Package pdftex.def Info: cdt/theme/pleca.jpg  used on input line 1.
 (pdftex.def)             Requested size: 614.29454pt x 133.69939pt.
- [25
+ [7
 
-]
-<proceso/images/a.main.png, id=707, 740.7675pt x 659.46375pt>
-File: proceso/images/a.main.png Graphic file (type png)
-<use proceso/images/a.main.png>
-Package pdftex.def Info: proceso/images/a.main.png  used on input line 10.
-(pdftex.def)             Requested size: 227.62204pt x 202.63043pt.
-<proceso/images/a.pools.png, id=708, 716.6775pt x 757.83125pt>
-File: proceso/images/a.pools.png Graphic file (type png)
-<use proceso/images/a.pools.png>
-Package pdftex.def Info: proceso/images/a.pools.png  used on input line 23.
-(pdftex.def)             Requested size: 227.62204pt x 240.68391pt.
-<proceso/images/a.a.venta.png, id=709, 1572.87625pt x 317.185pt>
-File: proceso/images/a.a.venta.png Graphic file (type png)
-<use proceso/images/a.a.venta.png>
-Package pdftex.def Info: proceso/images/a.a.venta.png  used on input line 36.
-(pdftex.def)             Requested size: 398.33858pt x 80.32693pt.
+])
 File: cdt/theme/headerPar.png Graphic file (type png)
 <use cdt/theme/headerPar.png>
-Package pdftex.def Info: cdt/theme/headerPar.png  used on input line 37.
+Package pdftex.def Info: cdt/theme/headerPar.png  used on input line 132.
 (pdftex.def)             Requested size: 34.98143pt x 35.0pt.
 File: cdt/theme/logoPar.png Graphic file (type png)
 <use cdt/theme/logoPar.png>
-Package pdftex.def Info: cdt/theme/logoPar.png  used on input line 37.
+Package pdftex.def Info: cdt/theme/logoPar.png  used on input line 132.
 (pdftex.def)             Requested size: 32.73712pt x 35.0pt.
 
 
@@ -1904,147 +1120,30 @@ Package fancyhdr Warning: \headheight is too small (32.0pt):
 
 File: cdt/theme/pleca.jpg Graphic file (type jpg)
 <use cdt/theme/pleca.jpg>
-Package pdftex.def Info: cdt/theme/pleca.jpg  used on input line 37.
+Package pdftex.def Info: cdt/theme/pleca.jpg  used on input line 132.
 (pdftex.def)             Requested size: 614.29454pt x 133.69939pt.
-[26 <./proceso/images/a.main.png> <./proceso/images/a.pools.png>]
-<proceso/images/a.b.compra.png, id=716, 1622.06pt x 386.44376pt>
-File: proceso/images/a.b.compra.png Graphic file (type png)
-<use proceso/images/a.b.compra.png>
-Package pdftex.def Info: proceso/images/a.b.compra.png  used on input line 49.
-(pdftex.def)             Requested size: 398.33858pt x 94.90067pt.
-<proceso/images/a.d.proveedores.png, id=717, 1100.11pt x 489.83pt>
-File: proceso/images/a.d.proveedores.png Graphic file (type png)
-<use proceso/images/a.d.proveedores.png>
-Package pdftex.def Info: proceso/images/a.d.proveedores.png  used on input line
- 62.
-(pdftex.def)             Requested size: 398.33858pt x 177.36263pt.
-<proceso/images/a.e.inventario.png, id=718, 711.65875pt x 457.71pt>
-File: proceso/images/a.e.inventario.png Graphic file (type png)
-<use proceso/images/a.e.inventario.png>
-Package pdftex.def Info: proceso/images/a.e.inventario.png  used on input line 
-75.
-(pdftex.def)             Requested size: 398.33858pt x 256.19014pt.
-
-Underfull \vbox (badness 7238) has occurred while \output is active []
-
-File: cdt/theme/logoInp.png Graphic file (type png)
-<use cdt/theme/logoInp.png>
-Package pdftex.def Info: cdt/theme/logoInp.png  used on input line 76.
-(pdftex.def)             Requested size: 32.73712pt x 35.0pt.
-File: cdt/theme/headerInp.png Graphic file (type png)
-<use cdt/theme/headerInp.png>
-Package pdftex.def Info: cdt/theme/headerInp.png  used on input line 76.
-(pdftex.def)             Requested size: 32.73712pt x 35.0pt.
-
-
-Package fancyhdr Warning: \headheight is too small (32.0pt): 
-(fancyhdr)                Make it at least 38.75003pt, for example:
-(fancyhdr)                \setlength{\headheight}{38.75003pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-
-(fancyhdr)                \addtolength{\topmargin}{-6.75003pt}.
-
-File: cdt/theme/pleca.jpg Graphic file (type jpg)
-<use cdt/theme/pleca.jpg>
-Package pdftex.def Info: cdt/theme/pleca.jpg  used on input line 76.
-(pdftex.def)             Requested size: 614.29454pt x 133.69939pt.
-[27 <./proceso/images/a.a.venta.png> <./proceso/images/a.b.compra.png> <./proce
-so/images/a.d.proveedores.png>]
-File: cdt/theme/headerPar.png Graphic file (type png)
-<use cdt/theme/headerPar.png>
-Package pdftex.def Info: cdt/theme/headerPar.png  used on input line 82.
-(pdftex.def)             Requested size: 34.98143pt x 35.0pt.
-File: cdt/theme/logoPar.png Graphic file (type png)
-<use cdt/theme/logoPar.png>
-Package pdftex.def Info: cdt/theme/logoPar.png  used on input line 82.
-(pdftex.def)             Requested size: 32.73712pt x 35.0pt.
-
-
-Package fancyhdr Warning: \headheight is too small (32.0pt): 
-(fancyhdr)                Make it at least 38.75003pt, for example:
-(fancyhdr)                \setlength{\headheight}{38.75003pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-
-(fancyhdr)                \addtolength{\topmargin}{-6.75003pt}.
-
-File: cdt/theme/pleca.jpg Graphic file (type jpg)
-<use cdt/theme/pleca.jpg>
-Package pdftex.def Info: cdt/theme/pleca.jpg  used on input line 82.
-(pdftex.def)             Requested size: 614.29454pt x 133.69939pt.
-[28 <./proceso/images/a.e.inventario.png>]
-<proceso/images/x.casosuso.png, id=731, 1199.48125pt x 899.36pt>
-File: proceso/images/x.casosuso.png Graphic file (type png)
-<use proceso/images/x.casosuso.png>
-Package pdftex.def Info: proceso/images/x.casosuso.png  used on input line 89.
-(pdftex.def)             Requested size: 455.24408pt x 341.33493pt.
-
-Overfull \hbox (11.6656pt too wide) in paragraph at lines 89--89
- [] 
- []
-
-)
-File: cdt/theme/logoInp.png Graphic file (type png)
-<use cdt/theme/logoInp.png>
-Package pdftex.def Info: cdt/theme/logoInp.png  used on input line 133.
-(pdftex.def)             Requested size: 32.73712pt x 35.0pt.
-File: cdt/theme/headerInp.png Graphic file (type png)
-<use cdt/theme/headerInp.png>
-Package pdftex.def Info: cdt/theme/headerInp.png  used on input line 133.
-(pdftex.def)             Requested size: 32.73712pt x 35.0pt.
-
-
-Package fancyhdr Warning: \headheight is too small (32.0pt): 
-(fancyhdr)                Make it at least 38.75003pt, for example:
-(fancyhdr)                \setlength{\headheight}{38.75003pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-
-(fancyhdr)                \addtolength{\topmargin}{-6.75003pt}.
-
-File: cdt/theme/pleca.jpg Graphic file (type jpg)
-<use cdt/theme/pleca.jpg>
-Package pdftex.def Info: cdt/theme/pleca.jpg  used on input line 133.
-(pdftex.def)             Requested size: 614.29454pt x 133.69939pt.
-[29 <./proceso/images/x.casosuso.png>]
-File: cdt/theme/headerPar.png Graphic file (type png)
-<use cdt/theme/headerPar.png>
-Package pdftex.def Info: cdt/theme/headerPar.png  used on input line 133.
-(pdftex.def)             Requested size: 34.98143pt x 35.0pt.
-File: cdt/theme/logoPar.png Graphic file (type png)
-<use cdt/theme/logoPar.png>
-Package pdftex.def Info: cdt/theme/logoPar.png  used on input line 133.
-(pdftex.def)             Requested size: 32.73712pt x 35.0pt.
-
-
-Package fancyhdr Warning: \headheight is too small (32.0pt): 
-(fancyhdr)                Make it at least 38.75003pt, for example:
-(fancyhdr)                \setlength{\headheight}{38.75003pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-
-(fancyhdr)                \addtolength{\topmargin}{-6.75003pt}.
-
-File: cdt/theme/pleca.jpg Graphic file (type jpg)
-<use cdt/theme/pleca.jpg>
-Package pdftex.def Info: cdt/theme/pleca.jpg  used on input line 133.
-(pdftex.def)             Requested size: 614.29454pt x 133.69939pt.
-[30
-
-]
+[8]
 Cap\'{\i }tulo 5.
-(casouso/cu1.1.2/uc.tex
+(casouso/cu1/uc.tex
 File: cdt/theme/pleca.jpg Graphic file (type jpg)
 <use cdt/theme/pleca.jpg>
 Package pdftex.def Info: cdt/theme/pleca.jpg  used on input line 4.
 (pdftex.def)             Requested size: 614.29454pt x 133.69939pt.
- [31]
+ [9
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 93--93
+
+ []
+
 File: cdt/theme/headerPar.png Graphic file (type png)
 <use cdt/theme/headerPar.png>
-Package pdftex.def Info: cdt/theme/headerPar.png  used on input line 87.
+Package pdftex.def Info: cdt/theme/headerPar.png  used on input line 95.
 (pdftex.def)             Requested size: 34.98143pt x 35.0pt.
 File: cdt/theme/logoPar.png Graphic file (type png)
 <use cdt/theme/logoPar.png>
-Package pdftex.def Info: cdt/theme/logoPar.png  used on input line 87.
+Package pdftex.def Info: cdt/theme/logoPar.png  used on input line 95.
 (pdftex.def)             Requested size: 32.73712pt x 35.0pt.
-
 
 Package fancyhdr Warning: \headheight is too small (32.0pt): 
 (fancyhdr)                Make it at least 38.75003pt, for example:
@@ -2055,140 +1154,65 @@ Package fancyhdr Warning: \headheight is too small (32.0pt):
 
 File: cdt/theme/pleca.jpg Graphic file (type jpg)
 <use cdt/theme/pleca.jpg>
-Package pdftex.def Info: cdt/theme/pleca.jpg  used on input line 87.
+Package pdftex.def Info: cdt/theme/pleca.jpg  used on input line 95.
 (pdftex.def)             Requested size: 614.29454pt x 133.69939pt.
-<cdt/uc/rules/UCRule.png, id=749, 931.48pt x 973.6375pt>
+<cdt/uc/rules/UCRule.png, id=341, 931.48pt x 973.6375pt>
 File: cdt/uc/rules/UCRule.png Graphic file (type png)
 <use cdt/uc/rules/UCRule.png>
-Package pdftex.def Info: cdt/uc/rules/UCRule.png  used on input line 87.
+Package pdftex.def Info: cdt/uc/rules/UCRule.png  used on input line 95.
 (pdftex.def)             Requested size: 522.16534pt x 545.79782pt.
-[32 <./cdt/uc/rules/UCRule.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 91--91
-
- []
-
-<cdt/uc/actor.png, id=759, 96.36pt x 74.2775pt>
-File: cdt/uc/actor.png Graphic file (type png)
-<use cdt/uc/actor.png>
-Package pdftex.def Info: cdt/uc/actor.png  used on input line 93.
-(pdftex.def)             Requested size: 14.26958pt x 11.0pt.
-<cdt/uc/usecase.png, id=761, 91.34125pt x 61.22874pt>
-File: cdt/uc/usecase.png Graphic file (type png)
-<use cdt/uc/usecase.png>
-Package pdftex.def Info: cdt/uc/usecase.png  used on input line 94.
-(pdftex.def)             Requested size: 16.40865pt x 11.0pt.
+[10 <./cdt/uc/rules/UCRule.png>]
+<cdt/uc/actor.png, id=350, 96.36pt x 74.2775pt>
 File: cdt/uc/actor.png Graphic file (type png)
 <use cdt/uc/actor.png>
 Package pdftex.def Info: cdt/uc/actor.png  used on input line 95.
 (pdftex.def)             Requested size: 14.26958pt x 11.0pt.
+<cdt/uc/usecase.png, id=351, 91.34125pt x 61.22874pt>
 File: cdt/uc/usecase.png Graphic file (type png)
 <use cdt/uc/usecase.png>
 Package pdftex.def Info: cdt/uc/usecase.png  used on input line 96.
 (pdftex.def)             Requested size: 16.40865pt x 11.0pt.
-File: cdt/uc/usecase.png Graphic file (type png)
-<use cdt/uc/usecase.png>
-Package pdftex.def Info: cdt/uc/usecase.png  used on input line 97.
-(pdftex.def)             Requested size: 16.40865pt x 11.0pt.
+File: cdt/uc/actor.png Graphic file (type png)
+<use cdt/uc/actor.png>
+Package pdftex.def Info: cdt/uc/actor.png  used on input line 97.
+(pdftex.def)             Requested size: 14.26958pt x 11.0pt.
 File: cdt/uc/usecase.png Graphic file (type png)
 <use cdt/uc/usecase.png>
 Package pdftex.def Info: cdt/uc/usecase.png  used on input line 98.
 (pdftex.def)             Requested size: 16.40865pt x 11.0pt.
 LaTeX Font Info:    Font shape `OT1/cmbr/m/it' in size <10> not available
-(Font)              Font shape `OT1/cmbr/m/sl' tried instead on input line 101.
-
+(Font)              Font shape `OT1/cmbr/m/sl' tried instead on input line 99.
 LaTeX Font Info:    Font shape `OT1/cmbr/m/it' in size <9> not available
-(Font)              Font shape `OT1/cmbr/m/sl' tried instead on input line 107.
+(Font)              Font shape `OT1/cmbr/m/sl' tried instead on input line 105.
 
 LaTeX Font Info:    Font shape `OT1/cmbr/b/n' in size <9> not available
-(Font)              Font shape `OT1/cmbr/bx/n' tried instead on input line 107.
+(Font)              Font shape `OT1/cmbr/bx/n' tried instead on input line 105.
 
-File: cdt/uc/actor.png Graphic file (type png)
-<use cdt/uc/actor.png>
-Package pdftex.def Info: cdt/uc/actor.png  used on input line 109.
-(pdftex.def)             Requested size: 14.26958pt x 11.0pt.
 File: cdt/uc/usecase.png Graphic file (type png)
 <use cdt/uc/usecase.png>
-Package pdftex.def Info: cdt/uc/usecase.png  used on input line 110.
-(pdftex.def)             Requested size: 16.40865pt x 11.0pt.
-File: cdt/uc/usecase.png Graphic file (type png)
-<use cdt/uc/usecase.png>
-Package pdftex.def Info: cdt/uc/usecase.png  used on input line 118.
-(pdftex.def)             Requested size: 16.40865pt x 11.0pt.
-File: cdt/uc/usecase.png Graphic file (type png)
-<use cdt/uc/usecase.png>
-Package pdftex.def Info: cdt/uc/usecase.png  used on input line 119.
-(pdftex.def)             Requested size: 16.40865pt x 11.0pt.
-File: cdt/uc/usecase.png Graphic file (type png)
-<use cdt/uc/usecase.png>
-Package pdftex.def Info: cdt/uc/usecase.png  used on input line 127.
+Package pdftex.def Info: cdt/uc/usecase.png  used on input line 106.
 (pdftex.def)             Requested size: 16.40865pt x 11.0pt.
 File: cdt/uc/actor.png Graphic file (type png)
 <use cdt/uc/actor.png>
-Package pdftex.def Info: cdt/uc/actor.png  used on input line 128.
+Package pdftex.def Info: cdt/uc/actor.png  used on input line 107.
 (pdftex.def)             Requested size: 14.26958pt x 11.0pt.
 File: cdt/uc/usecase.png Graphic file (type png)
 <use cdt/uc/usecase.png>
-Package pdftex.def Info: cdt/uc/usecase.png  used on input line 129.
+Package pdftex.def Info: cdt/uc/usecase.png  used on input line 108.
 (pdftex.def)             Requested size: 16.40865pt x 11.0pt.
-File: cdt/theme/logoInp.png Graphic file (type png)
-<use cdt/theme/logoInp.png>
-Package pdftex.def Info: cdt/theme/logoInp.png  used on input line 136.
-(pdftex.def)             Requested size: 32.73712pt x 35.0pt.
-File: cdt/theme/headerInp.png Graphic file (type png)
-<use cdt/theme/headerInp.png>
-Package pdftex.def Info: cdt/theme/headerInp.png  used on input line 136.
-(pdftex.def)             Requested size: 32.73712pt x 35.0pt.
-
-Package fancyhdr Warning: \headheight is too small (32.0pt): 
-(fancyhdr)                Make it at least 38.75003pt, for example:
-(fancyhdr)                \setlength{\headheight}{38.75003pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-
-(fancyhdr)                \addtolength{\topmargin}{-6.75003pt}.
-
-File: cdt/theme/pleca.jpg Graphic file (type jpg)
-<use cdt/theme/pleca.jpg>
-Package pdftex.def Info: cdt/theme/pleca.jpg  used on input line 136.
-(pdftex.def)             Requested size: 614.29454pt x 133.69939pt.
-[33 <./cdt/uc/actor.png> <C:/Users/reyes/AppData/Local/Programs/MiKTeX/tex/late
-x/keystroke/keystroke_left.pdf> <C:/Users/reyes/AppData/Local/Programs/MiKTeX/t
-ex/latex/keystroke/keystroke_middle.pdf> <C:/Users/reyes/AppData/Local/Programs
-/MiKTeX/tex/latex/keystroke/keystroke_right.pdf> <./cdt/uc/usecase.png>]
-<casouso/cu1.1.2/images/clases.jpg, id=796, 734.745pt x 294.09875pt>
-File: casouso/cu1.1.2/images/clases.jpg Graphic file (type jpg)
-<use casouso/cu1.1.2/images/clases.jpg>
-Package pdftex.def Info: casouso/cu1.1.2/images/clases.jpg  used on input line 
-140.
-(pdftex.def)             Requested size: 398.33858pt x 159.44818pt.
-File: cdt/theme/headerPar.png Graphic file (type png)
-<use cdt/theme/headerPar.png>
-Package pdftex.def Info: cdt/theme/headerPar.png  used on input line 143.
-(pdftex.def)             Requested size: 34.98143pt x 35.0pt.
-File: cdt/theme/logoPar.png Graphic file (type png)
-<use cdt/theme/logoPar.png>
-Package pdftex.def Info: cdt/theme/logoPar.png  used on input line 143.
-(pdftex.def)             Requested size: 32.73712pt x 35.0pt.
-
-
-Package fancyhdr Warning: \headheight is too small (32.0pt): 
-(fancyhdr)                Make it at least 38.75003pt, for example:
-(fancyhdr)                \setlength{\headheight}{38.75003pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-
-(fancyhdr)                \addtolength{\topmargin}{-6.75003pt}.
-
-File: cdt/theme/pleca.jpg Graphic file (type jpg)
-<use cdt/theme/pleca.jpg>
-Package pdftex.def Info: cdt/theme/pleca.jpg  used on input line 143.
-(pdftex.def)             Requested size: 614.29454pt x 133.69939pt.
-[34 <./casouso/cu1.1.2/images/clases.jpg>]
-<casouso/cu1.1.2/images/secuencia.jpg, id=801, 581.17125pt x 459.7175pt>
-File: casouso/cu1.1.2/images/secuencia.jpg Graphic file (type jpg)
-<use casouso/cu1.1.2/images/secuencia.jpg>
-Package pdftex.def Info: casouso/cu1.1.2/images/secuencia.jpg  used on input li
-ne 147.
-(pdftex.def)             Requested size: 398.33858pt x 315.09398pt.
-) (casouso/cu1.1.2.1/uc.tex
+File: cdt/uc/usecase.png Graphic file (type png)
+<use cdt/uc/usecase.png>
+Package pdftex.def Info: cdt/uc/usecase.png  used on input line 113.
+(pdftex.def)             Requested size: 16.40865pt x 11.0pt.
+File: cdt/uc/actor.png Graphic file (type png)
+<use cdt/uc/actor.png>
+Package pdftex.def Info: cdt/uc/actor.png  used on input line 114.
+(pdftex.def)             Requested size: 14.26958pt x 11.0pt.
+File: cdt/uc/usecase.png Graphic file (type png)
+<use cdt/uc/usecase.png>
+Package pdftex.def Info: cdt/uc/usecase.png  used on input line 115.
+(pdftex.def)             Requested size: 16.40865pt x 11.0pt.
+) (casouso/cu2/uc.tex
 File: cdt/theme/logoInp.png Graphic file (type png)
 <use cdt/theme/logoInp.png>
 Package pdftex.def Info: cdt/theme/logoInp.png  used on input line 4.
@@ -2210,14 +1234,17 @@ File: cdt/theme/pleca.jpg Graphic file (type jpg)
 <use cdt/theme/pleca.jpg>
 Package pdftex.def Info: cdt/theme/pleca.jpg  used on input line 4.
 (pdftex.def)             Requested size: 614.29454pt x 133.69939pt.
-[35 <./casouso/cu1.1.2/images/secuencia.jpg>]
+[11 <./cdt/uc/actor.png> <./cdt/uc/usecase.png> <C:/Users/reyes/AppData/Local/P
+rograms/MiKTeX/tex/latex/keystroke/keystroke_left.pdf> <C:/Users/reyes/AppData/
+Local/Programs/MiKTeX/tex/latex/keystroke/keystroke_middle.pdf> <C:/Users/reyes
+/AppData/Local/Programs/MiKTeX/tex/latex/keystroke/keystroke_right.pdf>]
 File: cdt/theme/headerPar.png Graphic file (type png)
 <use cdt/theme/headerPar.png>
-Package pdftex.def Info: cdt/theme/headerPar.png  used on input line 87.
+Package pdftex.def Info: cdt/theme/headerPar.png  used on input line 96.
 (pdftex.def)             Requested size: 34.98143pt x 35.0pt.
 File: cdt/theme/logoPar.png Graphic file (type png)
 <use cdt/theme/logoPar.png>
-Package pdftex.def Info: cdt/theme/logoPar.png  used on input line 87.
+Package pdftex.def Info: cdt/theme/logoPar.png  used on input line 96.
 (pdftex.def)             Requested size: 32.73712pt x 35.0pt.
 
 
@@ -2230,25 +1257,385 @@ Package fancyhdr Warning: \headheight is too small (32.0pt):
 
 File: cdt/theme/pleca.jpg Graphic file (type jpg)
 <use cdt/theme/pleca.jpg>
-Package pdftex.def Info: cdt/theme/pleca.jpg  used on input line 87.
+Package pdftex.def Info: cdt/theme/pleca.jpg  used on input line 96.
 (pdftex.def)             Requested size: 614.29454pt x 133.69939pt.
 File: cdt/uc/rules/UCRule.png Graphic file (type png)
 <use cdt/uc/rules/UCRule.png>
-Package pdftex.def Info: cdt/uc/rules/UCRule.png  used on input line 87.
+Package pdftex.def Info: cdt/uc/rules/UCRule.png  used on input line 96.
 (pdftex.def)             Requested size: 522.16534pt x 545.79782pt.
-[36]
-Underfull \hbox (badness 10000) in paragraph at lines 91--91
+[12]
+Underfull \hbox (badness 10000) in paragraph at lines 100--100
 
  []
 
 File: cdt/uc/actor.png Graphic file (type png)
 <use cdt/uc/actor.png>
-Package pdftex.def Info: cdt/uc/actor.png  used on input line 93.
+Package pdftex.def Info: cdt/uc/actor.png  used on input line 102.
 (pdftex.def)             Requested size: 14.26958pt x 11.0pt.
 File: cdt/uc/usecase.png Graphic file (type png)
 <use cdt/uc/usecase.png>
-Package pdftex.def Info: cdt/uc/usecase.png  used on input line 94.
+Package pdftex.def Info: cdt/uc/usecase.png  used on input line 103.
 (pdftex.def)             Requested size: 16.40865pt x 11.0pt.
+File: cdt/uc/actor.png Graphic file (type png)
+<use cdt/uc/actor.png>
+Package pdftex.def Info: cdt/uc/actor.png  used on input line 104.
+(pdftex.def)             Requested size: 14.26958pt x 11.0pt.
+File: cdt/uc/usecase.png Graphic file (type png)
+<use cdt/uc/usecase.png>
+Package pdftex.def Info: cdt/uc/usecase.png  used on input line 105.
+(pdftex.def)             Requested size: 16.40865pt x 11.0pt.
+File: cdt/uc/usecase.png Graphic file (type png)
+<use cdt/uc/usecase.png>
+Package pdftex.def Info: cdt/uc/usecase.png  used on input line 106.
+(pdftex.def)             Requested size: 16.40865pt x 11.0pt.
+File: cdt/uc/actor.png Graphic file (type png)
+<use cdt/uc/actor.png>
+Package pdftex.def Info: cdt/uc/actor.png  used on input line 107.
+(pdftex.def)             Requested size: 14.26958pt x 11.0pt.
+File: cdt/uc/usecase.png Graphic file (type png)
+<use cdt/uc/usecase.png>
+Package pdftex.def Info: cdt/uc/usecase.png  used on input line 108.
+(pdftex.def)             Requested size: 16.40865pt x 11.0pt.
+File: cdt/uc/usecase.png Graphic file (type png)
+<use cdt/uc/usecase.png>
+Package pdftex.def Info: cdt/uc/usecase.png  used on input line 116.
+(pdftex.def)             Requested size: 16.40865pt x 11.0pt.
+File: cdt/uc/actor.png Graphic file (type png)
+<use cdt/uc/actor.png>
+Package pdftex.def Info: cdt/uc/actor.png  used on input line 117.
+(pdftex.def)             Requested size: 14.26958pt x 11.0pt.
+File: cdt/uc/usecase.png Graphic file (type png)
+<use cdt/uc/usecase.png>
+Package pdftex.def Info: cdt/uc/usecase.png  used on input line 118.
+(pdftex.def)             Requested size: 16.40865pt x 11.0pt.
+File: cdt/uc/usecase.png Graphic file (type png)
+<use cdt/uc/usecase.png>
+Package pdftex.def Info: cdt/uc/usecase.png  used on input line 123.
+(pdftex.def)             Requested size: 16.40865pt x 11.0pt.
+File: cdt/uc/actor.png Graphic file (type png)
+<use cdt/uc/actor.png>
+Package pdftex.def Info: cdt/uc/actor.png  used on input line 124.
+(pdftex.def)             Requested size: 14.26958pt x 11.0pt.
+File: cdt/uc/usecase.png Graphic file (type png)
+<use cdt/uc/usecase.png>
+Package pdftex.def Info: cdt/uc/usecase.png  used on input line 125.
+(pdftex.def)             Requested size: 16.40865pt x 11.0pt.
+) (casouso/cu5/uc.tex
+File: cdt/theme/logoInp.png Graphic file (type png)
+<use cdt/theme/logoInp.png>
+Package pdftex.def Info: cdt/theme/logoInp.png  used on input line 4.
+(pdftex.def)             Requested size: 32.73712pt x 35.0pt.
+File: cdt/theme/headerInp.png Graphic file (type png)
+<use cdt/theme/headerInp.png>
+Package pdftex.def Info: cdt/theme/headerInp.png  used on input line 4.
+(pdftex.def)             Requested size: 32.73712pt x 35.0pt.
+
+
+Package fancyhdr Warning: \headheight is too small (32.0pt): 
+(fancyhdr)                Make it at least 38.75003pt, for example:
+(fancyhdr)                \setlength{\headheight}{38.75003pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-6.75003pt}.
+
+File: cdt/theme/pleca.jpg Graphic file (type jpg)
+<use cdt/theme/pleca.jpg>
+Package pdftex.def Info: cdt/theme/pleca.jpg  used on input line 4.
+(pdftex.def)             Requested size: 614.29454pt x 133.69939pt.
+[13]
+Underfull \hbox (badness 10000) in paragraph at lines 92--92
+
+ []
+
+File: cdt/theme/headerPar.png Graphic file (type png)
+<use cdt/theme/headerPar.png>
+Package pdftex.def Info: cdt/theme/headerPar.png  used on input line 92.
+(pdftex.def)             Requested size: 34.98143pt x 35.0pt.
+File: cdt/theme/logoPar.png Graphic file (type png)
+<use cdt/theme/logoPar.png>
+Package pdftex.def Info: cdt/theme/logoPar.png  used on input line 92.
+(pdftex.def)             Requested size: 32.73712pt x 35.0pt.
+
+Package fancyhdr Warning: \headheight is too small (32.0pt): 
+(fancyhdr)                Make it at least 38.75003pt, for example:
+(fancyhdr)                \setlength{\headheight}{38.75003pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-6.75003pt}.
+
+File: cdt/theme/pleca.jpg Graphic file (type jpg)
+<use cdt/theme/pleca.jpg>
+Package pdftex.def Info: cdt/theme/pleca.jpg  used on input line 92.
+(pdftex.def)             Requested size: 614.29454pt x 133.69939pt.
+File: cdt/uc/rules/UCRule.png Graphic file (type png)
+<use cdt/uc/rules/UCRule.png>
+Package pdftex.def Info: cdt/uc/rules/UCRule.png  used on input line 92.
+(pdftex.def)             Requested size: 522.16534pt x 545.79782pt.
+[14]
+File: cdt/uc/actor.png Graphic file (type png)
+<use cdt/uc/actor.png>
+Package pdftex.def Info: cdt/uc/actor.png  used on input line 94.
+(pdftex.def)             Requested size: 14.26958pt x 11.0pt.
+File: cdt/uc/usecase.png Graphic file (type png)
+<use cdt/uc/usecase.png>
+Package pdftex.def Info: cdt/uc/usecase.png  used on input line 95.
+(pdftex.def)             Requested size: 16.40865pt x 11.0pt.
+File: cdt/uc/usecase.png Graphic file (type png)
+<use cdt/uc/usecase.png>
+Package pdftex.def Info: cdt/uc/usecase.png  used on input line 96.
+(pdftex.def)             Requested size: 16.40865pt x 11.0pt.
+File: cdt/uc/actor.png Graphic file (type png)
+<use cdt/uc/actor.png>
+Package pdftex.def Info: cdt/uc/actor.png  used on input line 97.
+(pdftex.def)             Requested size: 14.26958pt x 11.0pt.
+File: cdt/uc/usecase.png Graphic file (type png)
+<use cdt/uc/usecase.png>
+Package pdftex.def Info: cdt/uc/usecase.png  used on input line 98.
+(pdftex.def)             Requested size: 16.40865pt x 11.0pt.
+File: cdt/uc/usecase.png Graphic file (type png)
+<use cdt/uc/usecase.png>
+Package pdftex.def Info: cdt/uc/usecase.png  used on input line 106.
+(pdftex.def)             Requested size: 16.40865pt x 11.0pt.
+File: cdt/uc/actor.png Graphic file (type png)
+<use cdt/uc/actor.png>
+Package pdftex.def Info: cdt/uc/actor.png  used on input line 107.
+(pdftex.def)             Requested size: 14.26958pt x 11.0pt.
+File: cdt/uc/usecase.png Graphic file (type png)
+<use cdt/uc/usecase.png>
+Package pdftex.def Info: cdt/uc/usecase.png  used on input line 108.
+(pdftex.def)             Requested size: 16.40865pt x 11.0pt.
+) (casouso/cu6/uc.tex
+File: cdt/theme/logoInp.png Graphic file (type png)
+<use cdt/theme/logoInp.png>
+Package pdftex.def Info: cdt/theme/logoInp.png  used on input line 4.
+(pdftex.def)             Requested size: 32.73712pt x 35.0pt.
+File: cdt/theme/headerInp.png Graphic file (type png)
+<use cdt/theme/headerInp.png>
+Package pdftex.def Info: cdt/theme/headerInp.png  used on input line 4.
+(pdftex.def)             Requested size: 32.73712pt x 35.0pt.
+
+
+Package fancyhdr Warning: \headheight is too small (32.0pt): 
+(fancyhdr)                Make it at least 38.75003pt, for example:
+(fancyhdr)                \setlength{\headheight}{38.75003pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-6.75003pt}.
+
+File: cdt/theme/pleca.jpg Graphic file (type jpg)
+<use cdt/theme/pleca.jpg>
+Package pdftex.def Info: cdt/theme/pleca.jpg  used on input line 4.
+(pdftex.def)             Requested size: 614.29454pt x 133.69939pt.
+[15]
+Underfull \hbox (badness 10000) in paragraph at lines 92--92
+
+ []
+
+File: cdt/theme/headerPar.png Graphic file (type png)
+<use cdt/theme/headerPar.png>
+Package pdftex.def Info: cdt/theme/headerPar.png  used on input line 92.
+(pdftex.def)             Requested size: 34.98143pt x 35.0pt.
+File: cdt/theme/logoPar.png Graphic file (type png)
+<use cdt/theme/logoPar.png>
+Package pdftex.def Info: cdt/theme/logoPar.png  used on input line 92.
+(pdftex.def)             Requested size: 32.73712pt x 35.0pt.
+
+Package fancyhdr Warning: \headheight is too small (32.0pt): 
+(fancyhdr)                Make it at least 38.75003pt, for example:
+(fancyhdr)                \setlength{\headheight}{38.75003pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-6.75003pt}.
+
+File: cdt/theme/pleca.jpg Graphic file (type jpg)
+<use cdt/theme/pleca.jpg>
+Package pdftex.def Info: cdt/theme/pleca.jpg  used on input line 92.
+(pdftex.def)             Requested size: 614.29454pt x 133.69939pt.
+File: cdt/uc/rules/UCRule.png Graphic file (type png)
+<use cdt/uc/rules/UCRule.png>
+Package pdftex.def Info: cdt/uc/rules/UCRule.png  used on input line 92.
+(pdftex.def)             Requested size: 522.16534pt x 545.79782pt.
+[16]
+File: cdt/uc/usecase.png Graphic file (type png)
+<use cdt/uc/usecase.png>
+Package pdftex.def Info: cdt/uc/usecase.png  used on input line 93.
+(pdftex.def)             Requested size: 16.40865pt x 11.0pt.
+File: cdt/uc/actor.png Graphic file (type png)
+<use cdt/uc/actor.png>
+Package pdftex.def Info: cdt/uc/actor.png  used on input line 94.
+(pdftex.def)             Requested size: 14.26958pt x 11.0pt.
+File: cdt/uc/usecase.png Graphic file (type png)
+<use cdt/uc/usecase.png>
+Package pdftex.def Info: cdt/uc/usecase.png  used on input line 95.
+(pdftex.def)             Requested size: 16.40865pt x 11.0pt.
+File: cdt/uc/actor.png Graphic file (type png)
+<use cdt/uc/actor.png>
+Package pdftex.def Info: cdt/uc/actor.png  used on input line 96.
+(pdftex.def)             Requested size: 14.26958pt x 11.0pt.
+File: cdt/uc/usecase.png Graphic file (type png)
+<use cdt/uc/usecase.png>
+Package pdftex.def Info: cdt/uc/usecase.png  used on input line 97.
+(pdftex.def)             Requested size: 16.40865pt x 11.0pt.
+File: cdt/uc/usecase.png Graphic file (type png)
+<use cdt/uc/usecase.png>
+Package pdftex.def Info: cdt/uc/usecase.png  used on input line 105.
+(pdftex.def)             Requested size: 16.40865pt x 11.0pt.
+File: cdt/uc/actor.png Graphic file (type png)
+<use cdt/uc/actor.png>
+Package pdftex.def Info: cdt/uc/actor.png  used on input line 106.
+(pdftex.def)             Requested size: 14.26958pt x 11.0pt.
+File: cdt/uc/usecase.png Graphic file (type png)
+<use cdt/uc/usecase.png>
+Package pdftex.def Info: cdt/uc/usecase.png  used on input line 107.
+(pdftex.def)             Requested size: 16.40865pt x 11.0pt.
+File: cdt/uc/actor.png Graphic file (type png)
+<use cdt/uc/actor.png>
+Package pdftex.def Info: cdt/uc/actor.png  used on input line 108.
+(pdftex.def)             Requested size: 14.26958pt x 11.0pt.
+File: cdt/uc/usecase.png Graphic file (type png)
+<use cdt/uc/usecase.png>
+Package pdftex.def Info: cdt/uc/usecase.png  used on input line 109.
+(pdftex.def)             Requested size: 16.40865pt x 11.0pt.
+) (casouso/cu8/uc.tex
+File: cdt/theme/logoInp.png Graphic file (type png)
+<use cdt/theme/logoInp.png>
+Package pdftex.def Info: cdt/theme/logoInp.png  used on input line 4.
+(pdftex.def)             Requested size: 32.73712pt x 35.0pt.
+File: cdt/theme/headerInp.png Graphic file (type png)
+<use cdt/theme/headerInp.png>
+Package pdftex.def Info: cdt/theme/headerInp.png  used on input line 4.
+(pdftex.def)             Requested size: 32.73712pt x 35.0pt.
+
+
+Package fancyhdr Warning: \headheight is too small (32.0pt): 
+(fancyhdr)                Make it at least 38.75003pt, for example:
+(fancyhdr)                \setlength{\headheight}{38.75003pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-6.75003pt}.
+
+File: cdt/theme/pleca.jpg Graphic file (type jpg)
+<use cdt/theme/pleca.jpg>
+Package pdftex.def Info: cdt/theme/pleca.jpg  used on input line 4.
+(pdftex.def)             Requested size: 614.29454pt x 133.69939pt.
+[17]
+Underfull \hbox (badness 10000) in paragraph at lines 97--97
+
+ []
+
+File: cdt/theme/headerPar.png Graphic file (type png)
+<use cdt/theme/headerPar.png>
+Package pdftex.def Info: cdt/theme/headerPar.png  used on input line 97.
+(pdftex.def)             Requested size: 34.98143pt x 35.0pt.
+File: cdt/theme/logoPar.png Graphic file (type png)
+<use cdt/theme/logoPar.png>
+Package pdftex.def Info: cdt/theme/logoPar.png  used on input line 97.
+(pdftex.def)             Requested size: 32.73712pt x 35.0pt.
+
+Package fancyhdr Warning: \headheight is too small (32.0pt): 
+(fancyhdr)                Make it at least 38.75003pt, for example:
+(fancyhdr)                \setlength{\headheight}{38.75003pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-6.75003pt}.
+
+File: cdt/theme/pleca.jpg Graphic file (type jpg)
+<use cdt/theme/pleca.jpg>
+Package pdftex.def Info: cdt/theme/pleca.jpg  used on input line 97.
+(pdftex.def)             Requested size: 614.29454pt x 133.69939pt.
+File: cdt/uc/rules/UCRule.png Graphic file (type png)
+<use cdt/uc/rules/UCRule.png>
+Package pdftex.def Info: cdt/uc/rules/UCRule.png  used on input line 97.
+(pdftex.def)             Requested size: 522.16534pt x 545.79782pt.
+[18]
+File: cdt/uc/actor.png Graphic file (type png)
+<use cdt/uc/actor.png>
+Package pdftex.def Info: cdt/uc/actor.png  used on input line 99.
+(pdftex.def)             Requested size: 14.26958pt x 11.0pt.
+File: cdt/uc/usecase.png Graphic file (type png)
+<use cdt/uc/usecase.png>
+Package pdftex.def Info: cdt/uc/usecase.png  used on input line 100.
+(pdftex.def)             Requested size: 16.40865pt x 11.0pt.
+File: cdt/uc/actor.png Graphic file (type png)
+<use cdt/uc/actor.png>
+Package pdftex.def Info: cdt/uc/actor.png  used on input line 101.
+(pdftex.def)             Requested size: 14.26958pt x 11.0pt.
+File: cdt/uc/usecase.png Graphic file (type png)
+<use cdt/uc/usecase.png>
+Package pdftex.def Info: cdt/uc/usecase.png  used on input line 102.
+(pdftex.def)             Requested size: 16.40865pt x 11.0pt.
+File: cdt/uc/actor.png Graphic file (type png)
+<use cdt/uc/actor.png>
+Package pdftex.def Info: cdt/uc/actor.png  used on input line 103.
+(pdftex.def)             Requested size: 14.26958pt x 11.0pt.
+File: cdt/uc/usecase.png Graphic file (type png)
+<use cdt/uc/usecase.png>
+Package pdftex.def Info: cdt/uc/usecase.png  used on input line 104.
+(pdftex.def)             Requested size: 16.40865pt x 11.0pt.
+File: cdt/uc/usecase.png Graphic file (type png)
+<use cdt/uc/usecase.png>
+Package pdftex.def Info: cdt/uc/usecase.png  used on input line 112.
+(pdftex.def)             Requested size: 16.40865pt x 11.0pt.
+File: cdt/uc/actor.png Graphic file (type png)
+<use cdt/uc/actor.png>
+Package pdftex.def Info: cdt/uc/actor.png  used on input line 113.
+(pdftex.def)             Requested size: 14.26958pt x 11.0pt.
+File: cdt/uc/usecase.png Graphic file (type png)
+<use cdt/uc/usecase.png>
+Package pdftex.def Info: cdt/uc/usecase.png  used on input line 114.
+(pdftex.def)             Requested size: 16.40865pt x 11.0pt.
+) (casouso/cu10/uc.tex
+File: cdt/theme/logoInp.png Graphic file (type png)
+<use cdt/theme/logoInp.png>
+Package pdftex.def Info: cdt/theme/logoInp.png  used on input line 4.
+(pdftex.def)             Requested size: 32.73712pt x 35.0pt.
+File: cdt/theme/headerInp.png Graphic file (type png)
+<use cdt/theme/headerInp.png>
+Package pdftex.def Info: cdt/theme/headerInp.png  used on input line 4.
+(pdftex.def)             Requested size: 32.73712pt x 35.0pt.
+
+
+Package fancyhdr Warning: \headheight is too small (32.0pt): 
+(fancyhdr)                Make it at least 38.75003pt, for example:
+(fancyhdr)                \setlength{\headheight}{38.75003pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-6.75003pt}.
+
+File: cdt/theme/pleca.jpg Graphic file (type jpg)
+<use cdt/theme/pleca.jpg>
+Package pdftex.def Info: cdt/theme/pleca.jpg  used on input line 4.
+(pdftex.def)             Requested size: 614.29454pt x 133.69939pt.
+[19]
+Underfull \hbox (badness 10000) in paragraph at lines 93--93
+
+ []
+
+File: cdt/theme/headerPar.png Graphic file (type png)
+<use cdt/theme/headerPar.png>
+Package pdftex.def Info: cdt/theme/headerPar.png  used on input line 93.
+(pdftex.def)             Requested size: 34.98143pt x 35.0pt.
+File: cdt/theme/logoPar.png Graphic file (type png)
+<use cdt/theme/logoPar.png>
+Package pdftex.def Info: cdt/theme/logoPar.png  used on input line 93.
+(pdftex.def)             Requested size: 32.73712pt x 35.0pt.
+
+Package fancyhdr Warning: \headheight is too small (32.0pt): 
+(fancyhdr)                Make it at least 38.75003pt, for example:
+(fancyhdr)                \setlength{\headheight}{38.75003pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-6.75003pt}.
+
+File: cdt/theme/pleca.jpg Graphic file (type jpg)
+<use cdt/theme/pleca.jpg>
+Package pdftex.def Info: cdt/theme/pleca.jpg  used on input line 93.
+(pdftex.def)             Requested size: 614.29454pt x 133.69939pt.
+File: cdt/uc/rules/UCRule.png Graphic file (type png)
+<use cdt/uc/rules/UCRule.png>
+Package pdftex.def Info: cdt/uc/rules/UCRule.png  used on input line 93.
+(pdftex.def)             Requested size: 522.16534pt x 545.79782pt.
+[20]
 File: cdt/uc/actor.png Graphic file (type png)
 <use cdt/uc/actor.png>
 Package pdftex.def Info: cdt/uc/actor.png  used on input line 95.
@@ -2273,23 +1660,31 @@ File: cdt/uc/usecase.png Graphic file (type png)
 <use cdt/uc/usecase.png>
 Package pdftex.def Info: cdt/uc/usecase.png  used on input line 100.
 (pdftex.def)             Requested size: 16.40865pt x 11.0pt.
+File: cdt/uc/usecase.png Graphic file (type png)
+<use cdt/uc/usecase.png>
+Package pdftex.def Info: cdt/uc/usecase.png  used on input line 108.
+(pdftex.def)             Requested size: 16.40865pt x 11.0pt.
 File: cdt/uc/actor.png Graphic file (type png)
 <use cdt/uc/actor.png>
-Package pdftex.def Info: cdt/uc/actor.png  used on input line 101.
+Package pdftex.def Info: cdt/uc/actor.png  used on input line 109.
 (pdftex.def)             Requested size: 14.26958pt x 11.0pt.
 File: cdt/uc/usecase.png Graphic file (type png)
 <use cdt/uc/usecase.png>
-Package pdftex.def Info: cdt/uc/usecase.png  used on input line 102.
+Package pdftex.def Info: cdt/uc/usecase.png  used on input line 110.
 (pdftex.def)             Requested size: 16.40865pt x 11.0pt.
 File: cdt/uc/usecase.png Graphic file (type png)
 <use cdt/uc/usecase.png>
-Package pdftex.def Info: cdt/uc/usecase.png  used on input line 113.
+Package pdftex.def Info: cdt/uc/usecase.png  used on input line 115.
 (pdftex.def)             Requested size: 16.40865pt x 11.0pt.
+File: cdt/uc/actor.png Graphic file (type png)
+<use cdt/uc/actor.png>
+Package pdftex.def Info: cdt/uc/actor.png  used on input line 116.
+(pdftex.def)             Requested size: 14.26958pt x 11.0pt.
 File: cdt/uc/usecase.png Graphic file (type png)
 <use cdt/uc/usecase.png>
-Package pdftex.def Info: cdt/uc/usecase.png  used on input line 114.
+Package pdftex.def Info: cdt/uc/usecase.png  used on input line 117.
 (pdftex.def)             Requested size: 16.40865pt x 11.0pt.
-) (casouso/cu1.1.5/uc.tex
+) (casouso/cu23/uc.tex
 File: cdt/theme/logoInp.png Graphic file (type png)
 <use cdt/theme/logoInp.png>
 Package pdftex.def Info: cdt/theme/logoInp.png  used on input line 4.
@@ -2311,14 +1706,14 @@ File: cdt/theme/pleca.jpg Graphic file (type jpg)
 <use cdt/theme/pleca.jpg>
 Package pdftex.def Info: cdt/theme/pleca.jpg  used on input line 4.
 (pdftex.def)             Requested size: 614.29454pt x 133.69939pt.
-[37]
+[21]
 File: cdt/theme/headerPar.png Graphic file (type png)
 <use cdt/theme/headerPar.png>
-Package pdftex.def Info: cdt/theme/headerPar.png  used on input line 87.
+Package pdftex.def Info: cdt/theme/headerPar.png  used on input line 93.
 (pdftex.def)             Requested size: 34.98143pt x 35.0pt.
 File: cdt/theme/logoPar.png Graphic file (type png)
 <use cdt/theme/logoPar.png>
-Package pdftex.def Info: cdt/theme/logoPar.png  used on input line 87.
+Package pdftex.def Info: cdt/theme/logoPar.png  used on input line 93.
 (pdftex.def)             Requested size: 32.73712pt x 35.0pt.
 
 
@@ -2331,41 +1726,17 @@ Package fancyhdr Warning: \headheight is too small (32.0pt):
 
 File: cdt/theme/pleca.jpg Graphic file (type jpg)
 <use cdt/theme/pleca.jpg>
-Package pdftex.def Info: cdt/theme/pleca.jpg  used on input line 87.
+Package pdftex.def Info: cdt/theme/pleca.jpg  used on input line 93.
 (pdftex.def)             Requested size: 614.29454pt x 133.69939pt.
 File: cdt/uc/rules/UCRule.png Graphic file (type png)
 <use cdt/uc/rules/UCRule.png>
-Package pdftex.def Info: cdt/uc/rules/UCRule.png  used on input line 87.
+Package pdftex.def Info: cdt/uc/rules/UCRule.png  used on input line 93.
 (pdftex.def)             Requested size: 522.16534pt x 545.79782pt.
-[38]
-Underfull \hbox (badness 10000) in paragraph at lines 91--91
+[22]
+Underfull \hbox (badness 10000) in paragraph at lines 97--97
 
  []
 
-File: cdt/uc/actor.png Graphic file (type png)
-<use cdt/uc/actor.png>
-Package pdftex.def Info: cdt/uc/actor.png  used on input line 93.
-(pdftex.def)             Requested size: 14.26958pt x 11.0pt.
-File: cdt/uc/usecase.png Graphic file (type png)
-<use cdt/uc/usecase.png>
-Package pdftex.def Info: cdt/uc/usecase.png  used on input line 94.
-(pdftex.def)             Requested size: 16.40865pt x 11.0pt.
-File: cdt/uc/actor.png Graphic file (type png)
-<use cdt/uc/actor.png>
-Package pdftex.def Info: cdt/uc/actor.png  used on input line 95.
-(pdftex.def)             Requested size: 14.26958pt x 11.0pt.
-File: cdt/uc/actor.png Graphic file (type png)
-<use cdt/uc/actor.png>
-Package pdftex.def Info: cdt/uc/actor.png  used on input line 96.
-(pdftex.def)             Requested size: 14.26958pt x 11.0pt.
-File: cdt/uc/usecase.png Graphic file (type png)
-<use cdt/uc/usecase.png>
-Package pdftex.def Info: cdt/uc/usecase.png  used on input line 97.
-(pdftex.def)             Requested size: 16.40865pt x 11.0pt.
-File: cdt/uc/usecase.png Graphic file (type png)
-<use cdt/uc/usecase.png>
-Package pdftex.def Info: cdt/uc/usecase.png  used on input line 98.
-(pdftex.def)             Requested size: 16.40865pt x 11.0pt.
 File: cdt/uc/actor.png Graphic file (type png)
 <use cdt/uc/actor.png>
 Package pdftex.def Info: cdt/uc/actor.png  used on input line 99.
@@ -2374,10 +1745,10 @@ File: cdt/uc/usecase.png Graphic file (type png)
 <use cdt/uc/usecase.png>
 Package pdftex.def Info: cdt/uc/usecase.png  used on input line 100.
 (pdftex.def)             Requested size: 16.40865pt x 11.0pt.
-File: cdt/uc/usecase.png Graphic file (type png)
-<use cdt/uc/usecase.png>
-Package pdftex.def Info: cdt/uc/usecase.png  used on input line 101.
-(pdftex.def)             Requested size: 16.40865pt x 11.0pt.
+File: cdt/uc/actor.png Graphic file (type png)
+<use cdt/uc/actor.png>
+Package pdftex.def Info: cdt/uc/actor.png  used on input line 101.
+(pdftex.def)             Requested size: 14.26958pt x 11.0pt.
 File: cdt/uc/usecase.png Graphic file (type png)
 <use cdt/uc/usecase.png>
 Package pdftex.def Info: cdt/uc/usecase.png  used on input line 102.
@@ -2388,236 +1759,44 @@ Package pdftex.def Info: cdt/uc/usecase.png  used on input line 103.
 (pdftex.def)             Requested size: 16.40865pt x 11.0pt.
 File: cdt/uc/actor.png Graphic file (type png)
 <use cdt/uc/actor.png>
-Package pdftex.def Info: cdt/uc/actor.png  used on input line 112.
+Package pdftex.def Info: cdt/uc/actor.png  used on input line 104.
 (pdftex.def)             Requested size: 14.26958pt x 11.0pt.
+File: cdt/uc/usecase.png Graphic file (type png)
+<use cdt/uc/usecase.png>
+Package pdftex.def Info: cdt/uc/usecase.png  used on input line 105.
+(pdftex.def)             Requested size: 16.40865pt x 11.0pt.
 File: cdt/uc/usecase.png Graphic file (type png)
 <use cdt/uc/usecase.png>
 Package pdftex.def Info: cdt/uc/usecase.png  used on input line 113.
 (pdftex.def)             Requested size: 16.40865pt x 11.0pt.
-
-LaTeX Warning: Reference `CU 1.1.4:P1' on page 39 undefined on input line 113.
-
-File: cdt/theme/logoInp.png Graphic file (type png)
-<use cdt/theme/logoInp.png>
-Package pdftex.def Info: cdt/theme/logoInp.png  used on input line 120.
-(pdftex.def)             Requested size: 32.73712pt x 35.0pt.
-File: cdt/theme/headerInp.png Graphic file (type png)
-<use cdt/theme/headerInp.png>
-Package pdftex.def Info: cdt/theme/headerInp.png  used on input line 120.
-(pdftex.def)             Requested size: 32.73712pt x 35.0pt.
-
-Package fancyhdr Warning: \headheight is too small (32.0pt): 
-(fancyhdr)                Make it at least 38.75003pt, for example:
-(fancyhdr)                \setlength{\headheight}{38.75003pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-
-(fancyhdr)                \addtolength{\topmargin}{-6.75003pt}.
-
-File: cdt/theme/pleca.jpg Graphic file (type jpg)
-<use cdt/theme/pleca.jpg>
-Package pdftex.def Info: cdt/theme/pleca.jpg  used on input line 120.
-(pdftex.def)             Requested size: 614.29454pt x 133.69939pt.
-[39]
-<casouso/cu1.1.5/images/clases.png, id=872, 1196.47pt x 759.83875pt>
-File: casouso/cu1.1.5/images/clases.png Graphic file (type png)
-<use casouso/cu1.1.5/images/clases.png>
-Package pdftex.def Info: casouso/cu1.1.5/images/clases.png  used on input line 
-124.
-(pdftex.def)             Requested size: 398.33858pt x 252.97363pt.
-File: cdt/theme/headerPar.png Graphic file (type png)
-<use cdt/theme/headerPar.png>
-Package pdftex.def Info: cdt/theme/headerPar.png  used on input line 127.
-(pdftex.def)             Requested size: 34.98143pt x 35.0pt.
-File: cdt/theme/logoPar.png Graphic file (type png)
-<use cdt/theme/logoPar.png>
-Package pdftex.def Info: cdt/theme/logoPar.png  used on input line 127.
-(pdftex.def)             Requested size: 32.73712pt x 35.0pt.
-
-
-Package fancyhdr Warning: \headheight is too small (32.0pt): 
-(fancyhdr)                Make it at least 38.75003pt, for example:
-(fancyhdr)                \setlength{\headheight}{38.75003pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-
-(fancyhdr)                \addtolength{\topmargin}{-6.75003pt}.
-
-File: cdt/theme/pleca.jpg Graphic file (type jpg)
-<use cdt/theme/pleca.jpg>
-Package pdftex.def Info: cdt/theme/pleca.jpg  used on input line 127.
-(pdftex.def)             Requested size: 614.29454pt x 133.69939pt.
-[40 <./casouso/cu1.1.5/images/clases.png>]
-<casouso/cu1.1.5/images/secuencias.png, id=878, 877.2775pt x 796.9775pt>
-File: casouso/cu1.1.5/images/secuencias.png Graphic file (type png)
-<use casouso/cu1.1.5/images/secuencias.png>
-Package pdftex.def Info: casouso/cu1.1.5/images/secuencias.png  used on input l
-ine 131.
-(pdftex.def)             Requested size: 398.33858pt x 361.88351pt.
-) (casouso/cu1.2.1/uc.tex
-File: cdt/theme/logoInp.png Graphic file (type png)
-<use cdt/theme/logoInp.png>
-Package pdftex.def Info: cdt/theme/logoInp.png  used on input line 5.
-(pdftex.def)             Requested size: 32.73712pt x 35.0pt.
-File: cdt/theme/headerInp.png Graphic file (type png)
-<use cdt/theme/headerInp.png>
-Package pdftex.def Info: cdt/theme/headerInp.png  used on input line 5.
-(pdftex.def)             Requested size: 32.73712pt x 35.0pt.
-
-
-Package fancyhdr Warning: \headheight is too small (32.0pt): 
-(fancyhdr)                Make it at least 38.75003pt, for example:
-(fancyhdr)                \setlength{\headheight}{38.75003pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-
-(fancyhdr)                \addtolength{\topmargin}{-6.75003pt}.
-
-File: cdt/theme/pleca.jpg Graphic file (type jpg)
-<use cdt/theme/pleca.jpg>
-Package pdftex.def Info: cdt/theme/pleca.jpg  used on input line 5.
-(pdftex.def)             Requested size: 614.29454pt x 133.69939pt.
-[41 <./casouso/cu1.1.5/images/secuencias.png>]
-File: cdt/theme/headerPar.png Graphic file (type png)
-<use cdt/theme/headerPar.png>
-Package pdftex.def Info: cdt/theme/headerPar.png  used on input line 97.
-(pdftex.def)             Requested size: 34.98143pt x 35.0pt.
-File: cdt/theme/logoPar.png Graphic file (type png)
-<use cdt/theme/logoPar.png>
-Package pdftex.def Info: cdt/theme/logoPar.png  used on input line 97.
-(pdftex.def)             Requested size: 32.73712pt x 35.0pt.
-
-
-Package fancyhdr Warning: \headheight is too small (32.0pt): 
-(fancyhdr)                Make it at least 38.75003pt, for example:
-(fancyhdr)                \setlength{\headheight}{38.75003pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-
-(fancyhdr)                \addtolength{\topmargin}{-6.75003pt}.
-
-File: cdt/theme/pleca.jpg Graphic file (type jpg)
-<use cdt/theme/pleca.jpg>
-Package pdftex.def Info: cdt/theme/pleca.jpg  used on input line 97.
-(pdftex.def)             Requested size: 614.29454pt x 133.69939pt.
-File: cdt/uc/rules/UCRule.png Graphic file (type png)
-<use cdt/uc/rules/UCRule.png>
-Package pdftex.def Info: cdt/uc/rules/UCRule.png  used on input line 97.
-(pdftex.def)             Requested size: 522.16534pt x 545.79782pt.
-[42]
-Underfull \hbox (badness 10000) in paragraph at lines 101--101
-
- []
-
 File: cdt/uc/actor.png Graphic file (type png)
 <use cdt/uc/actor.png>
-Package pdftex.def Info: cdt/uc/actor.png  used on input line 102.
+Package pdftex.def Info: cdt/uc/actor.png  used on input line 114.
 (pdftex.def)             Requested size: 14.26958pt x 11.0pt.
 File: cdt/uc/usecase.png Graphic file (type png)
 <use cdt/uc/usecase.png>
-Package pdftex.def Info: cdt/uc/usecase.png  used on input line 103.
+Package pdftex.def Info: cdt/uc/usecase.png  used on input line 115.
 (pdftex.def)             Requested size: 16.40865pt x 11.0pt.
 File: cdt/uc/usecase.png Graphic file (type png)
 <use cdt/uc/usecase.png>
-Package pdftex.def Info: cdt/uc/usecase.png  used on input line 104.
+Package pdftex.def Info: cdt/uc/usecase.png  used on input line 120.
 (pdftex.def)             Requested size: 16.40865pt x 11.0pt.
 File: cdt/uc/actor.png Graphic file (type png)
 <use cdt/uc/actor.png>
-Package pdftex.def Info: cdt/uc/actor.png  used on input line 105.
+Package pdftex.def Info: cdt/uc/actor.png  used on input line 121.
 (pdftex.def)             Requested size: 14.26958pt x 11.0pt.
-File: cdt/uc/actor.png Graphic file (type png)
-<use cdt/uc/actor.png>
-Package pdftex.def Info: cdt/uc/actor.png  used on input line 106.
-(pdftex.def)             Requested size: 14.26958pt x 11.0pt.
-File: cdt/uc/usecase.png Graphic file (type png)
-<use cdt/uc/usecase.png>
-Package pdftex.def Info: cdt/uc/usecase.png  used on input line 107.
-(pdftex.def)             Requested size: 16.40865pt x 11.0pt.
-File: cdt/uc/usecase.png Graphic file (type png)
-<use cdt/uc/usecase.png>
-Package pdftex.def Info: cdt/uc/usecase.png  used on input line 108.
-(pdftex.def)             Requested size: 16.40865pt x 11.0pt.
-File: cdt/uc/usecase.png Graphic file (type png)
-<use cdt/uc/usecase.png>
-Package pdftex.def Info: cdt/uc/usecase.png  used on input line 109.
-(pdftex.def)             Requested size: 16.40865pt x 11.0pt.
-File: cdt/uc/usecase.png Graphic file (type png)
-<use cdt/uc/usecase.png>
-Package pdftex.def Info: cdt/uc/usecase.png  used on input line 110.
-(pdftex.def)             Requested size: 16.40865pt x 11.0pt.
-File: cdt/uc/usecase.png Graphic file (type png)
-<use cdt/uc/usecase.png>
-Package pdftex.def Info: cdt/uc/usecase.png  used on input line 111.
-(pdftex.def)             Requested size: 16.40865pt x 11.0pt.
-File: cdt/uc/usecase.png Graphic file (type png)
-<use cdt/uc/usecase.png>
-Package pdftex.def Info: cdt/uc/usecase.png  used on input line 112.
-(pdftex.def)             Requested size: 16.40865pt x 11.0pt.
 File: cdt/uc/usecase.png Graphic file (type png)
 <use cdt/uc/usecase.png>
 Package pdftex.def Info: cdt/uc/usecase.png  used on input line 122.
 (pdftex.def)             Requested size: 16.40865pt x 11.0pt.
-File: cdt/uc/usecase.png Graphic file (type png)
-<use cdt/uc/usecase.png>
-Package pdftex.def Info: cdt/uc/usecase.png  used on input line 123.
-(pdftex.def)             Requested size: 16.40865pt x 11.0pt.
-File: cdt/uc/usecase.png Graphic file (type png)
-<use cdt/uc/usecase.png>
-Package pdftex.def Info: cdt/uc/usecase.png  used on input line 127.
-(pdftex.def)             Requested size: 16.40865pt x 11.0pt.
+) (casouso/cu24/uc.tex
 File: cdt/theme/logoInp.png Graphic file (type png)
 <use cdt/theme/logoInp.png>
-Package pdftex.def Info: cdt/theme/logoInp.png  used on input line 128.
+Package pdftex.def Info: cdt/theme/logoInp.png  used on input line 4.
 (pdftex.def)             Requested size: 32.73712pt x 35.0pt.
 File: cdt/theme/headerInp.png Graphic file (type png)
 <use cdt/theme/headerInp.png>
-Package pdftex.def Info: cdt/theme/headerInp.png  used on input line 128.
-(pdftex.def)             Requested size: 32.73712pt x 35.0pt.
-
-Package fancyhdr Warning: \headheight is too small (32.0pt): 
-(fancyhdr)                Make it at least 38.75003pt, for example:
-(fancyhdr)                \setlength{\headheight}{38.75003pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-
-(fancyhdr)                \addtolength{\topmargin}{-6.75003pt}.
-
-File: cdt/theme/pleca.jpg Graphic file (type jpg)
-<use cdt/theme/pleca.jpg>
-Package pdftex.def Info: cdt/theme/pleca.jpg  used on input line 128.
-(pdftex.def)             Requested size: 614.29454pt x 133.69939pt.
-[43]
-File: cdt/uc/usecase.png Graphic file (type png)
-<use cdt/uc/usecase.png>
-Package pdftex.def Info: cdt/uc/usecase.png  used on input line 128.
-(pdftex.def)             Requested size: 16.40865pt x 11.0pt.
-File: cdt/uc/usecase.png Graphic file (type png)
-<use cdt/uc/usecase.png>
-Package pdftex.def Info: cdt/uc/usecase.png  used on input line 133.
-(pdftex.def)             Requested size: 16.40865pt x 11.0pt.
-File: cdt/uc/usecase.png Graphic file (type png)
-<use cdt/uc/usecase.png>
-Package pdftex.def Info: cdt/uc/usecase.png  used on input line 134.
-(pdftex.def)             Requested size: 16.40865pt x 11.0pt.
-File: cdt/uc/usecase.png Graphic file (type png)
-<use cdt/uc/usecase.png>
-Package pdftex.def Info: cdt/uc/usecase.png  used on input line 138.
-(pdftex.def)             Requested size: 16.40865pt x 11.0pt.
-File: cdt/uc/usecase.png Graphic file (type png)
-<use cdt/uc/usecase.png>
-Package pdftex.def Info: cdt/uc/usecase.png  used on input line 139.
-(pdftex.def)             Requested size: 16.40865pt x 11.0pt.
-File: cdt/uc/usecase.png Graphic file (type png)
-<use cdt/uc/usecase.png>
-Package pdftex.def Info: cdt/uc/usecase.png  used on input line 144.
-(pdftex.def)             Requested size: 16.40865pt x 11.0pt.
-File: cdt/uc/usecase.png Graphic file (type png)
-<use cdt/uc/usecase.png>
-Package pdftex.def Info: cdt/uc/usecase.png  used on input line 145.
-(pdftex.def)             Requested size: 16.40865pt x 11.0pt.
-) (casouso/cu1.2.1.3/uc.tex
-File: cdt/theme/headerPar.png Graphic file (type png)
-<use cdt/theme/headerPar.png>
-Package pdftex.def Info: cdt/theme/headerPar.png  used on input line 4.
-(pdftex.def)             Requested size: 34.98143pt x 35.0pt.
-File: cdt/theme/logoPar.png Graphic file (type png)
-<use cdt/theme/logoPar.png>
-Package pdftex.def Info: cdt/theme/logoPar.png  used on input line 4.
+Package pdftex.def Info: cdt/theme/headerInp.png  used on input line 4.
 (pdftex.def)             Requested size: 32.73712pt x 35.0pt.
 
 
@@ -2632,72 +1811,22 @@ File: cdt/theme/pleca.jpg Graphic file (type jpg)
 <use cdt/theme/pleca.jpg>
 Package pdftex.def Info: cdt/theme/pleca.jpg  used on input line 4.
 (pdftex.def)             Requested size: 614.29454pt x 133.69939pt.
-[44]
-File: cdt/theme/logoInp.png Graphic file (type png)
-<use cdt/theme/logoInp.png>
-Package pdftex.def Info: cdt/theme/logoInp.png  used on input line 98.
-(pdftex.def)             Requested size: 32.73712pt x 35.0pt.
-File: cdt/theme/headerInp.png Graphic file (type png)
-<use cdt/theme/headerInp.png>
-Package pdftex.def Info: cdt/theme/headerInp.png  used on input line 98.
-(pdftex.def)             Requested size: 32.73712pt x 35.0pt.
-
-
-Package fancyhdr Warning: \headheight is too small (32.0pt): 
-(fancyhdr)                Make it at least 38.75003pt, for example:
-(fancyhdr)                \setlength{\headheight}{38.75003pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-
-(fancyhdr)                \addtolength{\topmargin}{-6.75003pt}.
-
-File: cdt/theme/pleca.jpg Graphic file (type jpg)
-<use cdt/theme/pleca.jpg>
-Package pdftex.def Info: cdt/theme/pleca.jpg  used on input line 98.
-(pdftex.def)             Requested size: 614.29454pt x 133.69939pt.
-File: cdt/uc/rules/UCRule.png Graphic file (type png)
-<use cdt/uc/rules/UCRule.png>
-Package pdftex.def Info: cdt/uc/rules/UCRule.png  used on input line 98.
-(pdftex.def)             Requested size: 522.16534pt x 545.79782pt.
-[45]
-Underfull \hbox (badness 10000) in paragraph at lines 102--102
+[23]
+Underfull \hbox (badness 10000) in paragraph at lines 86--86
 
  []
 
 File: cdt/uc/actor.png Graphic file (type png)
 <use cdt/uc/actor.png>
-Package pdftex.def Info: cdt/uc/actor.png  used on input line 104.
+Package pdftex.def Info: cdt/uc/actor.png  used on input line 88.
 (pdftex.def)             Requested size: 14.26958pt x 11.0pt.
-File: cdt/uc/actor.png Graphic file (type png)
-<use cdt/uc/actor.png>
-Package pdftex.def Info: cdt/uc/actor.png  used on input line 105.
-(pdftex.def)             Requested size: 14.26958pt x 11.0pt.
-File: cdt/uc/actor.png Graphic file (type png)
-<use cdt/uc/actor.png>
-Package pdftex.def Info: cdt/uc/actor.png  used on input line 106.
-(pdftex.def)             Requested size: 14.26958pt x 11.0pt.
-File: cdt/uc/actor.png Graphic file (type png)
-<use cdt/uc/actor.png>
-Package pdftex.def Info: cdt/uc/actor.png  used on input line 107.
-(pdftex.def)             Requested size: 14.26958pt x 11.0pt.
-File: cdt/uc/actor.png Graphic file (type png)
-<use cdt/uc/actor.png>
-Package pdftex.def Info: cdt/uc/actor.png  used on input line 110.
-(pdftex.def)             Requested size: 14.26958pt x 11.0pt.
-File: cdt/uc/actor.png Graphic file (type png)
-<use cdt/uc/actor.png>
-Package pdftex.def Info: cdt/uc/actor.png  used on input line 111.
-(pdftex.def)             Requested size: 14.26958pt x 11.0pt.
-File: cdt/uc/usecase.png Graphic file (type png)
-<use cdt/uc/usecase.png>
-Package pdftex.def Info: cdt/uc/usecase.png  used on input line 112.
-(pdftex.def)             Requested size: 16.40865pt x 11.0pt.
 File: cdt/theme/headerPar.png Graphic file (type png)
 <use cdt/theme/headerPar.png>
-Package pdftex.def Info: cdt/theme/headerPar.png  used on input line 113.
+Package pdftex.def Info: cdt/theme/headerPar.png  used on input line 89.
 (pdftex.def)             Requested size: 34.98143pt x 35.0pt.
 File: cdt/theme/logoPar.png Graphic file (type png)
 <use cdt/theme/logoPar.png>
-Package pdftex.def Info: cdt/theme/logoPar.png  used on input line 113.
+Package pdftex.def Info: cdt/theme/logoPar.png  used on input line 89.
 (pdftex.def)             Requested size: 32.73712pt x 35.0pt.
 
 Package fancyhdr Warning: \headheight is too small (32.0pt): 
@@ -2709,471 +1838,131 @@ Package fancyhdr Warning: \headheight is too small (32.0pt):
 
 File: cdt/theme/pleca.jpg Graphic file (type jpg)
 <use cdt/theme/pleca.jpg>
-Package pdftex.def Info: cdt/theme/pleca.jpg  used on input line 113.
-(pdftex.def)             Requested size: 614.29454pt x 133.69939pt.
-[46]
-File: cdt/uc/usecase.png Graphic file (type png)
-<use cdt/uc/usecase.png>
-Package pdftex.def Info: cdt/uc/usecase.png  used on input line 113.
-(pdftex.def)             Requested size: 16.40865pt x 11.0pt.
-
-Overfull \hbox (12.70973pt too wide) in paragraph at lines 113--114
-[][]  \OT1/cmbr/m/sc/10 Mues-tra los da-tos de los pro-duc-tos a de-vol-ver de 
-la ven-ta en la pan-ta-lla2 [][]De-vo-lu-ci^^Son|confirmaci^^Son[][] 
- []
-
-File: cdt/uc/usecase.png Graphic file (type png)
-<use cdt/uc/usecase.png>
-Package pdftex.def Info: cdt/uc/usecase.png  used on input line 114.
-(pdftex.def)             Requested size: 16.40865pt x 11.0pt.
-File: cdt/uc/actor.png Graphic file (type png)
-<use cdt/uc/actor.png>
-Package pdftex.def Info: cdt/uc/actor.png  used on input line 115.
-(pdftex.def)             Requested size: 14.26958pt x 11.0pt.
-File: cdt/uc/usecase.png Graphic file (type png)
-<use cdt/uc/usecase.png>
-Package pdftex.def Info: cdt/uc/usecase.png  used on input line 116.
-(pdftex.def)             Requested size: 16.40865pt x 11.0pt.
-File: cdt/uc/usecase.png Graphic file (type png)
-<use cdt/uc/usecase.png>
-Package pdftex.def Info: cdt/uc/usecase.png  used on input line 117.
-(pdftex.def)             Requested size: 16.40865pt x 11.0pt.
-File: cdt/uc/usecase.png Graphic file (type png)
-<use cdt/uc/usecase.png>
-Package pdftex.def Info: cdt/uc/usecase.png  used on input line 118.
-(pdftex.def)             Requested size: 16.40865pt x 11.0pt.
-File: cdt/uc/usecase.png Graphic file (type png)
-<use cdt/uc/usecase.png>
-Package pdftex.def Info: cdt/uc/usecase.png  used on input line 120.
-(pdftex.def)             Requested size: 16.40865pt x 11.0pt.
-File: cdt/uc/usecase.png Graphic file (type png)
-<use cdt/uc/usecase.png>
-Package pdftex.def Info: cdt/uc/usecase.png  used on input line 121.
-(pdftex.def)             Requested size: 16.40865pt x 11.0pt.
-File: cdt/uc/usecase.png Graphic file (type png)
-<use cdt/uc/usecase.png>
-Package pdftex.def Info: cdt/uc/usecase.png  used on input line 124.
-(pdftex.def)             Requested size: 16.40865pt x 11.0pt.
-File: cdt/uc/usecase.png Graphic file (type png)
-<use cdt/uc/usecase.png>
-Package pdftex.def Info: cdt/uc/usecase.png  used on input line 125.
-(pdftex.def)             Requested size: 16.40865pt x 11.0pt.
-File: cdt/uc/usecase.png Graphic file (type png)
-<use cdt/uc/usecase.png>
-Package pdftex.def Info: cdt/uc/usecase.png  used on input line 127.
-(pdftex.def)             Requested size: 16.40865pt x 11.0pt.
-File: cdt/uc/usecase.png Graphic file (type png)
-<use cdt/uc/usecase.png>
-Package pdftex.def Info: cdt/uc/usecase.png  used on input line 128.
-(pdftex.def)             Requested size: 16.40865pt x 11.0pt.
-File: cdt/uc/usecase.png Graphic file (type png)
-<use cdt/uc/usecase.png>
-Package pdftex.def Info: cdt/uc/usecase.png  used on input line 130.
-(pdftex.def)             Requested size: 16.40865pt x 11.0pt.
-File: cdt/uc/usecase.png Graphic file (type png)
-<use cdt/uc/usecase.png>
-Package pdftex.def Info: cdt/uc/usecase.png  used on input line 131.
-(pdftex.def)             Requested size: 16.40865pt x 11.0pt.
-File: cdt/uc/usecase.png Graphic file (type png)
-<use cdt/uc/usecase.png>
-Package pdftex.def Info: cdt/uc/usecase.png  used on input line 133.
-(pdftex.def)             Requested size: 16.40865pt x 11.0pt.
-File: cdt/uc/usecase.png Graphic file (type png)
-<use cdt/uc/usecase.png>
-Package pdftex.def Info: cdt/uc/usecase.png  used on input line 134.
-(pdftex.def)             Requested size: 16.40865pt x 11.0pt.
-File: cdt/uc/actor.png Graphic file (type png)
-<use cdt/uc/actor.png>
-Package pdftex.def Info: cdt/uc/actor.png  used on input line 135.
-(pdftex.def)             Requested size: 14.26958pt x 11.0pt.
-File: cdt/uc/actor.png Graphic file (type png)
-<use cdt/uc/actor.png>
-Package pdftex.def Info: cdt/uc/actor.png  used on input line 136.
-(pdftex.def)             Requested size: 14.26958pt x 11.0pt.
-File: cdt/uc/actor.png Graphic file (type png)
-<use cdt/uc/actor.png>
-Package pdftex.def Info: cdt/uc/actor.png  used on input line 137.
-(pdftex.def)             Requested size: 14.26958pt x 11.0pt.
-File: cdt/uc/usecase.png Graphic file (type png)
-<use cdt/uc/usecase.png>
-Package pdftex.def Info: cdt/uc/usecase.png  used on input line 138.
-(pdftex.def)             Requested size: 16.40865pt x 11.0pt.
-File: cdt/uc/actor.png Graphic file (type png)
-<use cdt/uc/actor.png>
-Package pdftex.def Info: cdt/uc/actor.png  used on input line 146.
-(pdftex.def)             Requested size: 14.26958pt x 11.0pt.
-File: cdt/uc/usecase.png Graphic file (type png)
-<use cdt/uc/usecase.png>
-Package pdftex.def Info: cdt/uc/usecase.png  used on input line 147.
-(pdftex.def)             Requested size: 16.40865pt x 11.0pt.
-File: cdt/uc/actor.png Graphic file (type png)
-<use cdt/uc/actor.png>
-Package pdftex.def Info: cdt/uc/actor.png  used on input line 148.
-(pdftex.def)             Requested size: 14.26958pt x 11.0pt.
-File: cdt/uc/usecase.png Graphic file (type png)
-<use cdt/uc/usecase.png>
-Package pdftex.def Info: cdt/uc/usecase.png  used on input line 149.
-(pdftex.def)             Requested size: 16.40865pt x 11.0pt.
-File: cdt/uc/actor.png Graphic file (type png)
-<use cdt/uc/actor.png>
-Package pdftex.def Info: cdt/uc/actor.png  used on input line 154.
-(pdftex.def)             Requested size: 14.26958pt x 11.0pt.
-File: cdt/uc/usecase.png Graphic file (type png)
-<use cdt/uc/usecase.png>
-Package pdftex.def Info: cdt/uc/usecase.png  used on input line 155.
-(pdftex.def)             Requested size: 16.40865pt x 11.0pt.
-File: cdt/uc/actor.png Graphic file (type png)
-<use cdt/uc/actor.png>
-Package pdftex.def Info: cdt/uc/actor.png  used on input line 156.
-(pdftex.def)             Requested size: 14.26958pt x 11.0pt.
-File: cdt/uc/usecase.png Graphic file (type png)
-<use cdt/uc/usecase.png>
-Package pdftex.def Info: cdt/uc/usecase.png  used on input line 157.
-(pdftex.def)             Requested size: 16.40865pt x 11.0pt.
-File: cdt/theme/logoInp.png Graphic file (type png)
-<use cdt/theme/logoInp.png>
-Package pdftex.def Info: cdt/theme/logoInp.png  used on input line 160.
-(pdftex.def)             Requested size: 32.73712pt x 35.0pt.
-File: cdt/theme/headerInp.png Graphic file (type png)
-<use cdt/theme/headerInp.png>
-Package pdftex.def Info: cdt/theme/headerInp.png  used on input line 160.
-(pdftex.def)             Requested size: 32.73712pt x 35.0pt.
-
-Package fancyhdr Warning: \headheight is too small (32.0pt): 
-(fancyhdr)                Make it at least 38.75003pt, for example:
-(fancyhdr)                \setlength{\headheight}{38.75003pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-
-(fancyhdr)                \addtolength{\topmargin}{-6.75003pt}.
-
-File: cdt/theme/pleca.jpg Graphic file (type jpg)
-<use cdt/theme/pleca.jpg>
-Package pdftex.def Info: cdt/theme/pleca.jpg  used on input line 160.
-(pdftex.def)             Requested size: 614.29454pt x 133.69939pt.
-[47]
-File: cdt/uc/actor.png Graphic file (type png)
-<use cdt/uc/actor.png>
-Package pdftex.def Info: cdt/uc/actor.png  used on input line 161.
-(pdftex.def)             Requested size: 14.26958pt x 11.0pt.
-File: cdt/uc/usecase.png Graphic file (type png)
-<use cdt/uc/usecase.png>
-Package pdftex.def Info: cdt/uc/usecase.png  used on input line 162.
-(pdftex.def)             Requested size: 16.40865pt x 11.0pt.
-File: cdt/uc/actor.png Graphic file (type png)
-<use cdt/uc/actor.png>
-Package pdftex.def Info: cdt/uc/actor.png  used on input line 163.
-(pdftex.def)             Requested size: 14.26958pt x 11.0pt.
-File: cdt/uc/usecase.png Graphic file (type png)
-<use cdt/uc/usecase.png>
-Package pdftex.def Info: cdt/uc/usecase.png  used on input line 164.
-(pdftex.def)             Requested size: 16.40865pt x 11.0pt.
-File: cdt/uc/usecase.png Graphic file (type png)
-<use cdt/uc/usecase.png>
-Package pdftex.def Info: cdt/uc/usecase.png  used on input line 168.
-(pdftex.def)             Requested size: 16.40865pt x 11.0pt.
-File: cdt/uc/actor.png Graphic file (type png)
-<use cdt/uc/actor.png>
-Package pdftex.def Info: cdt/uc/actor.png  used on input line 169.
-(pdftex.def)             Requested size: 14.26958pt x 11.0pt.
-File: cdt/uc/usecase.png Graphic file (type png)
-<use cdt/uc/usecase.png>
-Package pdftex.def Info: cdt/uc/usecase.png  used on input line 170.
-(pdftex.def)             Requested size: 16.40865pt x 11.0pt.
-File: cdt/uc/actor.png Graphic file (type png)
-<use cdt/uc/actor.png>
-Package pdftex.def Info: cdt/uc/actor.png  used on input line 174.
-(pdftex.def)             Requested size: 14.26958pt x 11.0pt.
-File: cdt/uc/usecase.png Graphic file (type png)
-<use cdt/uc/usecase.png>
-Package pdftex.def Info: cdt/uc/usecase.png  used on input line 175.
-(pdftex.def)             Requested size: 16.40865pt x 11.0pt.
-File: cdt/uc/usecase.png Graphic file (type png)
-<use cdt/uc/usecase.png>
-Package pdftex.def Info: cdt/uc/usecase.png  used on input line 176.
-(pdftex.def)             Requested size: 16.40865pt x 11.0pt.
-) (casouso/cu1.3/uc.tex
-File: cdt/theme/headerPar.png Graphic file (type png)
-<use cdt/theme/headerPar.png>
-Package pdftex.def Info: cdt/theme/headerPar.png  used on input line 5.
-(pdftex.def)             Requested size: 34.98143pt x 35.0pt.
-File: cdt/theme/logoPar.png Graphic file (type png)
-<use cdt/theme/logoPar.png>
-Package pdftex.def Info: cdt/theme/logoPar.png  used on input line 5.
-(pdftex.def)             Requested size: 32.73712pt x 35.0pt.
-
-
-Package fancyhdr Warning: \headheight is too small (32.0pt): 
-(fancyhdr)                Make it at least 38.75003pt, for example:
-(fancyhdr)                \setlength{\headheight}{38.75003pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-
-(fancyhdr)                \addtolength{\topmargin}{-6.75003pt}.
-
-File: cdt/theme/pleca.jpg Graphic file (type jpg)
-<use cdt/theme/pleca.jpg>
-Package pdftex.def Info: cdt/theme/pleca.jpg  used on input line 5.
-(pdftex.def)             Requested size: 614.29454pt x 133.69939pt.
-[48]
-File: cdt/theme/logoInp.png Graphic file (type png)
-<use cdt/theme/logoInp.png>
-Package pdftex.def Info: cdt/theme/logoInp.png  used on input line 71.
-(pdftex.def)             Requested size: 32.73712pt x 35.0pt.
-File: cdt/theme/headerInp.png Graphic file (type png)
-<use cdt/theme/headerInp.png>
-Package pdftex.def Info: cdt/theme/headerInp.png  used on input line 71.
-(pdftex.def)             Requested size: 32.73712pt x 35.0pt.
-
-
-Package fancyhdr Warning: \headheight is too small (32.0pt): 
-(fancyhdr)                Make it at least 38.75003pt, for example:
-(fancyhdr)                \setlength{\headheight}{38.75003pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-
-(fancyhdr)                \addtolength{\topmargin}{-6.75003pt}.
-
-File: cdt/theme/pleca.jpg Graphic file (type jpg)
-<use cdt/theme/pleca.jpg>
-Package pdftex.def Info: cdt/theme/pleca.jpg  used on input line 71.
+Package pdftex.def Info: cdt/theme/pleca.jpg  used on input line 89.
 (pdftex.def)             Requested size: 614.29454pt x 133.69939pt.
 File: cdt/uc/rules/UCRule.png Graphic file (type png)
 <use cdt/uc/rules/UCRule.png>
-Package pdftex.def Info: cdt/uc/rules/UCRule.png  used on input line 71.
+Package pdftex.def Info: cdt/uc/rules/UCRule.png  used on input line 89.
 (pdftex.def)             Requested size: 522.16534pt x 545.79782pt.
-[49]
-Underfull \hbox (badness 10000) in paragraph at lines 74--74
-
- []
-
-File: cdt/uc/actor.png Graphic file (type png)
-<use cdt/uc/actor.png>
-Package pdftex.def Info: cdt/uc/actor.png  used on input line 76.
-(pdftex.def)             Requested size: 14.26958pt x 11.0pt.
-File: cdt/uc/usecase.png Graphic file (type png)
-<use cdt/uc/usecase.png>
-Package pdftex.def Info: cdt/uc/usecase.png  used on input line 78.
-(pdftex.def)             Requested size: 16.40865pt x 11.0pt.
-File: cdt/uc/actor.png Graphic file (type png)
-<use cdt/uc/actor.png>
-Package pdftex.def Info: cdt/uc/actor.png  used on input line 80.
-(pdftex.def)             Requested size: 14.26958pt x 11.0pt.
-File: cdt/uc/actor.png Graphic file (type png)
-<use cdt/uc/actor.png>
-Package pdftex.def Info: cdt/uc/actor.png  used on input line 81.
-(pdftex.def)             Requested size: 14.26958pt x 11.0pt.
-File: cdt/uc/usecase.png Graphic file (type png)
-<use cdt/uc/usecase.png>
-Package pdftex.def Info: cdt/uc/usecase.png  used on input line 83.
-(pdftex.def)             Requested size: 16.40865pt x 11.0pt.
-File: cdt/uc/actor.png Graphic file (type png)
-<use cdt/uc/actor.png>
-Package pdftex.def Info: cdt/uc/actor.png  used on input line 83.
-(pdftex.def)             Requested size: 14.26958pt x 11.0pt.
-File: cdt/uc/actor.png Graphic file (type png)
-<use cdt/uc/actor.png>
-Package pdftex.def Info: cdt/uc/actor.png  used on input line 85.
-(pdftex.def)             Requested size: 14.26958pt x 11.0pt.
-File: cdt/uc/actor.png Graphic file (type png)
-<use cdt/uc/actor.png>
-Package pdftex.def Info: cdt/uc/actor.png  used on input line 87.
-(pdftex.def)             Requested size: 14.26958pt x 11.0pt.
+[24]
 File: cdt/uc/usecase.png Graphic file (type png)
 <use cdt/uc/usecase.png>
 Package pdftex.def Info: cdt/uc/usecase.png  used on input line 89.
 (pdftex.def)             Requested size: 16.40865pt x 11.0pt.
+File: cdt/uc/actor.png Graphic file (type png)
+<use cdt/uc/actor.png>
+Package pdftex.def Info: cdt/uc/actor.png  used on input line 90.
+(pdftex.def)             Requested size: 14.26958pt x 11.0pt.
 File: cdt/uc/usecase.png Graphic file (type png)
 <use cdt/uc/usecase.png>
 Package pdftex.def Info: cdt/uc/usecase.png  used on input line 91.
-(pdftex.def)             Requested size: 16.40865pt x 11.0pt.
-File: cdt/uc/actor.png Graphic file (type png)
-<use cdt/uc/actor.png>
-Package pdftex.def Info: cdt/uc/actor.png  used on input line 103.
-(pdftex.def)             Requested size: 14.26958pt x 11.0pt.
-File: cdt/uc/usecase.png Graphic file (type png)
-<use cdt/uc/usecase.png>
-Package pdftex.def Info: cdt/uc/usecase.png  used on input line 105.
-(pdftex.def)             Requested size: 16.40865pt x 11.0pt.
-File: cdt/uc/usecase.png Graphic file (type png)
-<use cdt/uc/usecase.png>
-Package pdftex.def Info: cdt/uc/usecase.png  used on input line 107.
-(pdftex.def)             Requested size: 16.40865pt x 11.0pt.
-File: cdt/uc/actor.png Graphic file (type png)
-<use cdt/uc/actor.png>
-Package pdftex.def Info: cdt/uc/actor.png  used on input line 113.
-(pdftex.def)             Requested size: 14.26958pt x 11.0pt.
-File: cdt/uc/usecase.png Graphic file (type png)
-<use cdt/uc/usecase.png>
-Package pdftex.def Info: cdt/uc/usecase.png  used on input line 115.
-(pdftex.def)             Requested size: 16.40865pt x 11.0pt.
-File: cdt/uc/usecase.png Graphic file (type png)
-<use cdt/uc/usecase.png>
-Package pdftex.def Info: cdt/uc/usecase.png  used on input line 117.
-(pdftex.def)             Requested size: 16.40865pt x 11.0pt.
-File: cdt/uc/actor.png Graphic file (type png)
-<use cdt/uc/actor.png>
-Package pdftex.def Info: cdt/uc/actor.png  used on input line 124.
-(pdftex.def)             Requested size: 14.26958pt x 11.0pt.
-File: cdt/uc/usecase.png Graphic file (type png)
-<use cdt/uc/usecase.png>
-Package pdftex.def Info: cdt/uc/usecase.png  used on input line 126.
-(pdftex.def)             Requested size: 16.40865pt x 11.0pt.
-File: cdt/uc/usecase.png Graphic file (type png)
-<use cdt/uc/usecase.png>
-Package pdftex.def Info: cdt/uc/usecase.png  used on input line 128.
-(pdftex.def)             Requested size: 16.40865pt x 11.0pt.
-File: cdt/theme/headerPar.png Graphic file (type png)
-<use cdt/theme/headerPar.png>
-Package pdftex.def Info: cdt/theme/headerPar.png  used on input line 132.
-(pdftex.def)             Requested size: 34.98143pt x 35.0pt.
-File: cdt/theme/logoPar.png Graphic file (type png)
-<use cdt/theme/logoPar.png>
-Package pdftex.def Info: cdt/theme/logoPar.png  used on input line 132.
-(pdftex.def)             Requested size: 32.73712pt x 35.0pt.
-
-Package fancyhdr Warning: \headheight is too small (32.0pt): 
-(fancyhdr)                Make it at least 38.75003pt, for example:
-(fancyhdr)                \setlength{\headheight}{38.75003pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-
-(fancyhdr)                \addtolength{\topmargin}{-6.75003pt}.
-
-File: cdt/theme/pleca.jpg Graphic file (type jpg)
-<use cdt/theme/pleca.jpg>
-Package pdftex.def Info: cdt/theme/pleca.jpg  used on input line 132.
-(pdftex.def)             Requested size: 614.29454pt x 133.69939pt.
-[50]
-File: cdt/uc/actor.png Graphic file (type png)
-<use cdt/uc/actor.png>
-Package pdftex.def Info: cdt/uc/actor.png  used on input line 134.
-(pdftex.def)             Requested size: 14.26958pt x 11.0pt.
-File: cdt/uc/usecase.png Graphic file (type png)
-<use cdt/uc/usecase.png>
-Package pdftex.def Info: cdt/uc/usecase.png  used on input line 136.
-(pdftex.def)             Requested size: 16.40865pt x 11.0pt.
-File: cdt/uc/usecase.png Graphic file (type png)
-<use cdt/uc/usecase.png>
-Package pdftex.def Info: cdt/uc/usecase.png  used on input line 138.
-(pdftex.def)             Requested size: 16.40865pt x 11.0pt.
-File: cdt/uc/usecase.png Graphic file (type png)
-<use cdt/uc/usecase.png>
-Package pdftex.def Info: cdt/uc/usecase.png  used on input line 144.
-(pdftex.def)             Requested size: 16.40865pt x 11.0pt.
-File: cdt/uc/usecase.png Graphic file (type png)
-<use cdt/uc/usecase.png>
-Package pdftex.def Info: cdt/uc/usecase.png  used on input line 147.
-(pdftex.def)             Requested size: 16.40865pt x 11.0pt.
-) (casouso/cu1.5.1/uc.tex
-File: cdt/theme/logoInp.png Graphic file (type png)
-<use cdt/theme/logoInp.png>
-Package pdftex.def Info: cdt/theme/logoInp.png  used on input line 11.
-(pdftex.def)             Requested size: 32.73712pt x 35.0pt.
-File: cdt/theme/headerInp.png Graphic file (type png)
-<use cdt/theme/headerInp.png>
-Package pdftex.def Info: cdt/theme/headerInp.png  used on input line 11.
-(pdftex.def)             Requested size: 32.73712pt x 35.0pt.
-
-
-Package fancyhdr Warning: \headheight is too small (32.0pt): 
-(fancyhdr)                Make it at least 38.75003pt, for example:
-(fancyhdr)                \setlength{\headheight}{38.75003pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-
-(fancyhdr)                \addtolength{\topmargin}{-6.75003pt}.
-
-File: cdt/theme/pleca.jpg Graphic file (type jpg)
-<use cdt/theme/pleca.jpg>
-Package pdftex.def Info: cdt/theme/pleca.jpg  used on input line 11.
-(pdftex.def)             Requested size: 614.29454pt x 133.69939pt.
-[51]
-File: cdt/theme/headerPar.png Graphic file (type png)
-<use cdt/theme/headerPar.png>
-Package pdftex.def Info: cdt/theme/headerPar.png  used on input line 91.
-(pdftex.def)             Requested size: 34.98143pt x 35.0pt.
-File: cdt/theme/logoPar.png Graphic file (type png)
-<use cdt/theme/logoPar.png>
-Package pdftex.def Info: cdt/theme/logoPar.png  used on input line 91.
-(pdftex.def)             Requested size: 32.73712pt x 35.0pt.
-
-
-Package fancyhdr Warning: \headheight is too small (32.0pt): 
-(fancyhdr)                Make it at least 38.75003pt, for example:
-(fancyhdr)                \setlength{\headheight}{38.75003pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-
-(fancyhdr)                \addtolength{\topmargin}{-6.75003pt}.
-
-File: cdt/theme/pleca.jpg Graphic file (type jpg)
-<use cdt/theme/pleca.jpg>
-Package pdftex.def Info: cdt/theme/pleca.jpg  used on input line 91.
-(pdftex.def)             Requested size: 614.29454pt x 133.69939pt.
-File: cdt/uc/rules/UCRule.png Graphic file (type png)
-<use cdt/uc/rules/UCRule.png>
-Package pdftex.def Info: cdt/uc/rules/UCRule.png  used on input line 91.
-(pdftex.def)             Requested size: 522.16534pt x 545.79782pt.
-[52]
-Underfull \hbox (badness 10000) in paragraph at lines 93--93
-
- []
-
-File: cdt/uc/actor.png Graphic file (type png)
-<use cdt/uc/actor.png>
-Package pdftex.def Info: cdt/uc/actor.png  used on input line 95.
-(pdftex.def)             Requested size: 14.26958pt x 11.0pt.
-File: cdt/uc/usecase.png Graphic file (type png)
-<use cdt/uc/usecase.png>
-Package pdftex.def Info: cdt/uc/usecase.png  used on input line 97.
 (pdftex.def)             Requested size: 16.40865pt x 11.0pt.
 File: cdt/uc/usecase.png Graphic file (type png)
 <use cdt/uc/usecase.png>
 Package pdftex.def Info: cdt/uc/usecase.png  used on input line 99.
 (pdftex.def)             Requested size: 16.40865pt x 11.0pt.
+) (casouso/cu25/uc.tex
+File: cdt/theme/logoInp.png Graphic file (type png)
+<use cdt/theme/logoInp.png>
+Package pdftex.def Info: cdt/theme/logoInp.png  used on input line 4.
+(pdftex.def)             Requested size: 32.73712pt x 35.0pt.
+File: cdt/theme/headerInp.png Graphic file (type png)
+<use cdt/theme/headerInp.png>
+Package pdftex.def Info: cdt/theme/headerInp.png  used on input line 4.
+(pdftex.def)             Requested size: 32.73712pt x 35.0pt.
+
+
+Package fancyhdr Warning: \headheight is too small (32.0pt): 
+(fancyhdr)                Make it at least 38.75003pt, for example:
+(fancyhdr)                \setlength{\headheight}{38.75003pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-6.75003pt}.
+
+File: cdt/theme/pleca.jpg Graphic file (type jpg)
+<use cdt/theme/pleca.jpg>
+Package pdftex.def Info: cdt/theme/pleca.jpg  used on input line 4.
+(pdftex.def)             Requested size: 614.29454pt x 133.69939pt.
+[25]
+Underfull \hbox (badness 10000) in paragraph at lines 92--92
+
+ []
+
+File: cdt/theme/headerPar.png Graphic file (type png)
+<use cdt/theme/headerPar.png>
+Package pdftex.def Info: cdt/theme/headerPar.png  used on input line 94.
+(pdftex.def)             Requested size: 34.98143pt x 35.0pt.
+File: cdt/theme/logoPar.png Graphic file (type png)
+<use cdt/theme/logoPar.png>
+Package pdftex.def Info: cdt/theme/logoPar.png  used on input line 94.
+(pdftex.def)             Requested size: 32.73712pt x 35.0pt.
+
+Package fancyhdr Warning: \headheight is too small (32.0pt): 
+(fancyhdr)                Make it at least 38.75003pt, for example:
+(fancyhdr)                \setlength{\headheight}{38.75003pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-6.75003pt}.
+
+File: cdt/theme/pleca.jpg Graphic file (type jpg)
+<use cdt/theme/pleca.jpg>
+Package pdftex.def Info: cdt/theme/pleca.jpg  used on input line 94.
+(pdftex.def)             Requested size: 614.29454pt x 133.69939pt.
+File: cdt/uc/rules/UCRule.png Graphic file (type png)
+<use cdt/uc/rules/UCRule.png>
+Package pdftex.def Info: cdt/uc/rules/UCRule.png  used on input line 94.
+(pdftex.def)             Requested size: 522.16534pt x 545.79782pt.
+[26]
 File: cdt/uc/actor.png Graphic file (type png)
 <use cdt/uc/actor.png>
-Package pdftex.def Info: cdt/uc/actor.png  used on input line 101.
-(pdftex.def)             Requested size: 14.26958pt x 11.0pt.
-File: cdt/uc/actor.png Graphic file (type png)
-<use cdt/uc/actor.png>
-Package pdftex.def Info: cdt/uc/actor.png  used on input line 103.
+Package pdftex.def Info: cdt/uc/actor.png  used on input line 94.
 (pdftex.def)             Requested size: 14.26958pt x 11.0pt.
 File: cdt/uc/usecase.png Graphic file (type png)
 <use cdt/uc/usecase.png>
-Package pdftex.def Info: cdt/uc/usecase.png  used on input line 105.
+Package pdftex.def Info: cdt/uc/usecase.png  used on input line 95.
+(pdftex.def)             Requested size: 16.40865pt x 11.0pt.
+File: cdt/uc/actor.png Graphic file (type png)
+<use cdt/uc/actor.png>
+Package pdftex.def Info: cdt/uc/actor.png  used on input line 96.
+(pdftex.def)             Requested size: 14.26958pt x 11.0pt.
+File: cdt/uc/usecase.png Graphic file (type png)
+<use cdt/uc/usecase.png>
+Package pdftex.def Info: cdt/uc/usecase.png  used on input line 97.
+(pdftex.def)             Requested size: 16.40865pt x 11.0pt.
+File: cdt/uc/actor.png Graphic file (type png)
+<use cdt/uc/actor.png>
+Package pdftex.def Info: cdt/uc/actor.png  used on input line 98.
+(pdftex.def)             Requested size: 14.26958pt x 11.0pt.
+File: cdt/uc/usecase.png Graphic file (type png)
+<use cdt/uc/usecase.png>
+Package pdftex.def Info: cdt/uc/usecase.png  used on input line 99.
 (pdftex.def)             Requested size: 16.40865pt x 11.0pt.
 File: cdt/uc/usecase.png Graphic file (type png)
 <use cdt/uc/usecase.png>
 Package pdftex.def Info: cdt/uc/usecase.png  used on input line 107.
 (pdftex.def)             Requested size: 16.40865pt x 11.0pt.
+File: cdt/uc/actor.png Graphic file (type png)
+<use cdt/uc/actor.png>
+Package pdftex.def Info: cdt/uc/actor.png  used on input line 108.
+(pdftex.def)             Requested size: 14.26958pt x 11.0pt.
 File: cdt/uc/usecase.png Graphic file (type png)
 <use cdt/uc/usecase.png>
 Package pdftex.def Info: cdt/uc/usecase.png  used on input line 109.
 (pdftex.def)             Requested size: 16.40865pt x 11.0pt.
 File: cdt/uc/usecase.png Graphic file (type png)
 <use cdt/uc/usecase.png>
-Package pdftex.def Info: cdt/uc/usecase.png  used on input line 111.
+Package pdftex.def Info: cdt/uc/usecase.png  used on input line 114.
 (pdftex.def)             Requested size: 16.40865pt x 11.0pt.
-File: cdt/uc/usecase.png Graphic file (type png)
-<use cdt/uc/usecase.png>
-Package pdftex.def Info: cdt/uc/usecase.png  used on input line 113.
-(pdftex.def)             Requested size: 16.40865pt x 11.0pt.
-File: cdt/uc/usecase.png Graphic file (type png)
-<use cdt/uc/usecase.png>
-Package pdftex.def Info: cdt/uc/usecase.png  used on input line 115.
-(pdftex.def)             Requested size: 16.40865pt x 11.0pt.
-File: cdt/uc/usecase.png Graphic file (type png)
-<use cdt/uc/usecase.png>
-Package pdftex.def Info: cdt/uc/usecase.png  used on input line 117.
-(pdftex.def)             Requested size: 16.40865pt x 11.0pt.
-File: cdt/uc/usecase.png Graphic file (type png)
-<use cdt/uc/usecase.png>
-Package pdftex.def Info: cdt/uc/usecase.png  used on input line 119.
-(pdftex.def)             Requested size: 16.40865pt x 11.0pt.
+) (casouso/cu26/uc.tex
 File: cdt/theme/logoInp.png Graphic file (type png)
 <use cdt/theme/logoInp.png>
-Package pdftex.def Info: cdt/theme/logoInp.png  used on input line 128.
+Package pdftex.def Info: cdt/theme/logoInp.png  used on input line 4.
 (pdftex.def)             Requested size: 32.73712pt x 35.0pt.
 File: cdt/theme/headerInp.png Graphic file (type png)
 <use cdt/theme/headerInp.png>
-Package pdftex.def Info: cdt/theme/headerInp.png  used on input line 128.
+Package pdftex.def Info: cdt/theme/headerInp.png  used on input line 4.
 (pdftex.def)             Requested size: 32.73712pt x 35.0pt.
+
 
 Package fancyhdr Warning: \headheight is too small (32.0pt): 
 (fancyhdr)                Make it at least 38.75003pt, for example:
@@ -3184,58 +1973,21 @@ Package fancyhdr Warning: \headheight is too small (32.0pt):
 
 File: cdt/theme/pleca.jpg Graphic file (type jpg)
 <use cdt/theme/pleca.jpg>
-Package pdftex.def Info: cdt/theme/pleca.jpg  used on input line 128.
+Package pdftex.def Info: cdt/theme/pleca.jpg  used on input line 4.
 (pdftex.def)             Requested size: 614.29454pt x 133.69939pt.
-[53]
-File: cdt/uc/usecase.png Graphic file (type png)
-<use cdt/uc/usecase.png>
-Package pdftex.def Info: cdt/uc/usecase.png  used on input line 130.
-(pdftex.def)             Requested size: 16.40865pt x 11.0pt.
-File: cdt/uc/actor.png Graphic file (type png)
-<use cdt/uc/actor.png>
-Package pdftex.def Info: cdt/uc/actor.png  used on input line 132.
-(pdftex.def)             Requested size: 14.26958pt x 11.0pt.
-File: cdt/uc/usecase.png Graphic file (type png)
-<use cdt/uc/usecase.png>
-Package pdftex.def Info: cdt/uc/usecase.png  used on input line 141.
-(pdftex.def)             Requested size: 16.40865pt x 11.0pt.
-File: cdt/uc/usecase.png Graphic file (type png)
-<use cdt/uc/usecase.png>
-Package pdftex.def Info: cdt/uc/usecase.png  used on input line 150.
-(pdftex.def)             Requested size: 16.40865pt x 11.0pt.
-File: cdt/uc/usecase.png Graphic file (type png)
-<use cdt/uc/usecase.png>
-Package pdftex.def Info: cdt/uc/usecase.png  used on input line 158.
-(pdftex.def)             Requested size: 16.40865pt x 11.0pt.
-File: cdt/uc/usecase.png Graphic file (type png)
-<use cdt/uc/usecase.png>
-Package pdftex.def Info: cdt/uc/usecase.png  used on input line 166.
-(pdftex.def)             Requested size: 16.40865pt x 11.0pt.
-File: cdt/uc/usecase.png Graphic file (type png)
-<use cdt/uc/usecase.png>
-Package pdftex.def Info: cdt/uc/usecase.png  used on input line 175.
-(pdftex.def)             Requested size: 16.40865pt x 11.0pt.
-File: cdt/uc/usecase.png Graphic file (type png)
-<use cdt/uc/usecase.png>
-Package pdftex.def Info: cdt/uc/usecase.png  used on input line 184.
-(pdftex.def)             Requested size: 16.40865pt x 11.0pt.
-File: cdt/uc/actor.png Graphic file (type png)
-<use cdt/uc/actor.png>
-Package pdftex.def Info: cdt/uc/actor.png  used on input line 186.
-(pdftex.def)             Requested size: 14.26958pt x 11.0pt.
-File: cdt/uc/usecase.png Graphic file (type png)
-<use cdt/uc/usecase.png>
-Package pdftex.def Info: cdt/uc/usecase.png  used on input line 188.
-(pdftex.def)             Requested size: 16.40865pt x 11.0pt.
+[27]
+Underfull \hbox (badness 10000) in paragraph at lines 92--92
+
+ []
+
 File: cdt/theme/headerPar.png Graphic file (type png)
 <use cdt/theme/headerPar.png>
-Package pdftex.def Info: cdt/theme/headerPar.png  used on input line 190.
+Package pdftex.def Info: cdt/theme/headerPar.png  used on input line 92.
 (pdftex.def)             Requested size: 34.98143pt x 35.0pt.
 File: cdt/theme/logoPar.png Graphic file (type png)
 <use cdt/theme/logoPar.png>
-Package pdftex.def Info: cdt/theme/logoPar.png  used on input line 190.
+Package pdftex.def Info: cdt/theme/logoPar.png  used on input line 92.
 (pdftex.def)             Requested size: 32.73712pt x 35.0pt.
-
 
 Package fancyhdr Warning: \headheight is too small (32.0pt): 
 (fancyhdr)                Make it at least 38.75003pt, for example:
@@ -3246,9 +1998,34 @@ Package fancyhdr Warning: \headheight is too small (32.0pt):
 
 File: cdt/theme/pleca.jpg Graphic file (type jpg)
 <use cdt/theme/pleca.jpg>
-Package pdftex.def Info: cdt/theme/pleca.jpg  used on input line 190.
+Package pdftex.def Info: cdt/theme/pleca.jpg  used on input line 92.
 (pdftex.def)             Requested size: 614.29454pt x 133.69939pt.
-[54])
+File: cdt/uc/rules/UCRule.png Graphic file (type png)
+<use cdt/uc/rules/UCRule.png>
+Package pdftex.def Info: cdt/uc/rules/UCRule.png  used on input line 92.
+(pdftex.def)             Requested size: 522.16534pt x 545.79782pt.
+[28]
+File: cdt/uc/actor.png Graphic file (type png)
+<use cdt/uc/actor.png>
+Package pdftex.def Info: cdt/uc/actor.png  used on input line 93.
+(pdftex.def)             Requested size: 14.26958pt x 11.0pt.
+File: cdt/uc/usecase.png Graphic file (type png)
+<use cdt/uc/usecase.png>
+Package pdftex.def Info: cdt/uc/usecase.png  used on input line 94.
+(pdftex.def)             Requested size: 16.40865pt x 11.0pt.
+File: cdt/uc/usecase.png Graphic file (type png)
+<use cdt/uc/usecase.png>
+Package pdftex.def Info: cdt/uc/usecase.png  used on input line 95.
+(pdftex.def)             Requested size: 16.40865pt x 11.0pt.
+File: cdt/uc/usecase.png Graphic file (type png)
+<use cdt/uc/usecase.png>
+Package pdftex.def Info: cdt/uc/usecase.png  used on input line 103.
+(pdftex.def)             Requested size: 16.40865pt x 11.0pt.
+File: cdt/uc/usecase.png Graphic file (type png)
+<use cdt/uc/usecase.png>
+Package pdftex.def Info: cdt/uc/usecase.png  used on input line 104.
+(pdftex.def)             Requested size: 16.40865pt x 11.0pt.
+)
 File: cdt/theme/logoInp.png Graphic file (type png)
 <use cdt/theme/logoInp.png>
 Package pdftex.def Info: cdt/theme/logoInp.png  used on input line 148.
@@ -3270,79 +2047,62 @@ File: cdt/theme/pleca.jpg Graphic file (type jpg)
 <use cdt/theme/pleca.jpg>
 Package pdftex.def Info: cdt/theme/pleca.jpg  used on input line 148.
 (pdftex.def)             Requested size: 614.29454pt x 133.69939pt.
-[55] (analisisTitulacion.aux
+[29] (analisisTitulacion.aux
 LaTeX Info: Redefining \. on input line 23.
 LaTeX Info: Redefining \% on input line 23.
 )
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
-
-LaTeX Warning: There were undefined references.
-
-
-LaTeX Warning: There were multiply-defined labels.
-
 Package rerunfilecheck Info: File `analisisTitulacion.out' has not changed.
-(rerunfilecheck)             Checksum: 2E4433D2427FBC14D40EAEA38505F9D3;13425.
+(rerunfilecheck)             Checksum: 40D612E6AE7582159C8ECE6CFB71A7BA;7425.
  ) 
 Here is how much of TeX's memory you used:
- 15328 strings out of 475385
- 257634 string characters out of 2776907
- 639008 words of memory out of 3000000
- 35940 multiletter control sequences out of 15000+600000
- 480298 words of font info for 65 fonts, out of 8000000 for 9000
+ 14831 strings out of 475385
+ 244035 string characters out of 2776907
+ 634677 words of memory out of 3000000
+ 35656 multiletter control sequences out of 15000+600000
+ 479877 words of font info for 64 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 132i,16n,133p,462b,779s stack positions out of 10000i,1000n,20000p,200000b,80000s
+ 132i,16n,133p,482b,773s stack positions out of 10000i,1000n,20000p,200000b,80000s
 
-pdfTeX warning (dest): name{Actor} has been referenced but does not exist, repl
-aced by a fixed one
+pdfTeX warning (dest): name{Actor:\040Administrador} has been referenced but do
+es not exist, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{tray:8B} has been referenced but does not exist, re
+placed by a fixed one
 
 
 pdfTeX warning (dest): name{MSG} has been referenced but does not exist, replac
 ed by a fixed one
 
 
-pdfTeX warning (dest): name{UI} has been referenced but does not exist, replace
-d by a fixed one
+pdfTeX warning (dest): name{Actor:\040Alumno} has been referenced but does not 
+exist, replaced by a fixed one
 
-
-pdfTeX warning (dest): name{CU\0401.5.3} has been referenced but does not exist
-, replaced by a fixed one
-
-
-pdfTeX warning (dest): name{RN-7} has been referenced but does not exist, repla
-ced by a fixed one
-
-
-pdfTeX warning (dest): name{Actor:RT} has been referenced but does not exist, r
-eplaced by a fixed one
-
- <C:\Users\reyes\AppData\Local\MiKTeX\fonts/pk/ljfour/public/cmbright/dpi375\cm
-br8.pk> <C:\Users\reyes\AppData\Local\MiKTeX\fonts/pk/ljfour/public/cmbright/dp
-i600\cmbrsl9.pk> <C:\Users\reyes\AppData\Local\MiKTeX\fonts/pk/ljfour/public/cm
-bright/dpi540\cmbrbx10.pk> <C:\Users\reyes\AppData\Local\MiKTeX\fonts/pk/ljfour
-/public/cmbright/dpi600\cmbrsl10.pk> <C:\Users\reyes\AppData\Local\MiKTeX\fonts
-/pk/ljfour/public/cmbright/dpi720\cmbrbx10.pk> <C:\Users\reyes\AppData\Local\Mi
-KTeX\fonts/pk/ljfour/public/cmbright/dpi600\tbmr10.pk> <C:\Users\reyes\AppData\
-Local\MiKTeX\fonts/pk/ljfour/public/cmbright/dpi864\cmbrbx10.pk> <C:\Users\reye
-s\AppData\Local\MiKTeX\fonts/pk/ljfour/public/cmbright/dpi450\cmbr8.pk> <C:\Use
-rs\reyes\AppData\Local\MiKTeX\fonts/pk/ljfour/public/cmbright/dpi525\cmbr8.pk> 
-<C:\Users\reyes\AppData\Local\MiKTeX\fonts/pk/ljfour/public/cmbright/dpi600\cmb
-r10.pk> <C:\Users\reyes\AppData\Local\MiKTeX\fonts/pk/ljfour/public/cmbright/dp
-i600\cmbrbx10.pk> <C:\Users\reyes\AppData\Local\MiKTeX\fonts/pk/ljfour/public/c
-mbright/dpi375\cmbrsl8.pk> <C:\Users\reyes\AppData\Local\MiKTeX\fonts/pk/ljfour
-/public/cmbright/dpi600\cmbr8.pk> <C:\Users\reyes\AppData\Local\MiKTeX\fonts/pk
-/ljfour/public/cmbright/dpi720\cmbr10.pk> <C:\Users\reyes\AppData\Local\MiKTeX\
-fonts/pk/ljfour/public/cmbright/dpi600\cmbr9.pk> <C:\Users\reyes\AppData\Local\
-MiKTeX\fonts/pk/ljfour/public/cmbright/dpi600\cmbr17.pk> <C:\Users\reyes\AppDat
-a\Local\MiKTeX\fonts/pk/ljfour/public/cmbright/dpi864\cmbr10.pk> <C:\Users\reye
-s\AppData\Local\MiKTeX\fonts/pk/ljfour/public/cmbright/dpi864\cmbr17.pk><C:/Use
-rs/reyes/AppData/Local/Programs/MiKTeX/fonts/type1/public/marvosym/marvosym.pfb
->
-Output written on analisisTitulacion.pdf (63 pages, 4300110 bytes).
+ <C:\Users\reyes\AppData\Local\MiKTeX\fonts/pk/ljfour/public/cmbright/dpi600\cm
+brsl9.pk> <C:\Users\reyes\AppData\Local\MiKTeX\fonts/pk/ljfour/public/cmbright/
+dpi540\cmbrbx10.pk> <C:\Users\reyes\AppData\Local\MiKTeX\fonts/pk/ljfour/public
+/cmbright/dpi600\cmbrsl10.pk> <C:\Users\reyes\AppData\Local\MiKTeX\fonts/pk/ljf
+our/public/cmbright/dpi720\cmbrbx10.pk> <C:\Users\reyes\AppData\Local\MiKTeX\fo
+nts/pk/ljfour/public/cmbright/dpi600\tbmr10.pk> <C:\Users\reyes\AppData\Local\M
+iKTeX\fonts/pk/ljfour/public/cmbright/dpi864\cmbrbx10.pk> <C:\Users\reyes\AppDa
+ta\Local\MiKTeX\fonts/pk/ljfour/public/cmbright/dpi450\cmbr8.pk> <C:\Users\reye
+s\AppData\Local\MiKTeX\fonts/pk/ljfour/public/cmbright/dpi525\cmbr8.pk> <C:\Use
+rs\reyes\AppData\Local\MiKTeX\fonts/pk/ljfour/public/cmbright/dpi600\cmbr10.pk>
+ <C:\Users\reyes\AppData\Local\MiKTeX\fonts/pk/ljfour/public/cmbright/dpi600\cm
+brbx10.pk> <C:\Users\reyes\AppData\Local\MiKTeX\fonts/pk/ljfour/public/cmbright
+/dpi375\cmbrsl8.pk> <C:\Users\reyes\AppData\Local\MiKTeX\fonts/pk/ljfour/public
+/cmbright/dpi600\cmbr8.pk> <C:\Users\reyes\AppData\Local\MiKTeX\fonts/pk/ljfour
+/public/cmbright/dpi720\cmbr10.pk> <C:\Users\reyes\AppData\Local\MiKTeX\fonts/p
+k/ljfour/public/cmbright/dpi600\cmbr9.pk> <C:\Users\reyes\AppData\Local\MiKTeX\
+fonts/pk/ljfour/public/cmbright/dpi600\cmbr17.pk> <C:\Users\reyes\AppData\Local
+\MiKTeX\fonts/pk/ljfour/public/cmbright/dpi864\cmbr10.pk> <C:\Users\reyes\AppDa
+ta\Local\MiKTeX\fonts/pk/ljfour/public/cmbright/dpi864\cmbr17.pk>
+Output written on analisisTitulacion.pdf (35 pages, 1893408 bytes).
 PDF statistics:
- 1841 PDF objects out of 2073 (max. 8388607)
- 395 named destinations out of 1000 (max. 500000)
- 971 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 1159 PDF objects out of 1200 (max. 8388607)
+ 219 named destinations out of 1000 (max. 500000)
+ 453 words of extra memory for PDF output out of 10000 (max. 10000000)
 

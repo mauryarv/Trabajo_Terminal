@@ -1,6 +1,6 @@
-% Caso de uso 1 -------------------------------------------------------------------------------
-\begin{UseCase} {CU 8}{Autentificar inscripción}{
-	Para poder crear una cuenta el alumno debera autentificar que esta inscrito en ESCOM.
+% Caso de uso 23 -------------------------------------------------------------------------------
+\begin{UseCase} {CU 24}{Eliminar Perfil}{
+	El alumno puede eliminar su cuenta si lo desea.
 }
 
 % Información del caso de uso ---------------------------------------------------------------------
@@ -9,9 +9,9 @@
 \UCccsection{Administración}
 \UCccitem{Autor}{Sevillano Mendoza Victor Manuel}
 \UCccitem{Evaluador}{Sevillano Mendoza Victor Manuel}
-\UCccitem{Operación}{Registrar}
-\UCccitem{Prioridad}{Alta}
-\UCccitem{Complejidad}{Alta}
+\UCccitem{Operación}{Eliminar}
+\UCccitem{Prioridad}{Media}
+\UCccitem{Complejidad}{Media}
 \UCccitem{Volatilidad}{Baja}
 \UCccitem{Madurez}{Baja}
 \UCccitem{Estatus}{Edición}
@@ -45,36 +45,25 @@
 	}
 
 	\UCitem{Propósito}{
-		Que el alumno autentifique que esta inscrito en ESCOM.
+		Que el alumno pueda eliminar su cuenta creada si lo desea.
 	}
 
 	\UCitem{Entradas}{
-		
-		\begin{UClist}			
-			\UCli Nombre completo.
-			\UCli Numero de boleta.
-			\UCli Contraseña del SAES.
-			\UCli Captcha
-		\end{UClist}
+		Ninguna.
 	}
 
 	\UCitem{Salidas}{
-		\begin{UClist}			
-			\UCli Captcha a completar.
-			\UCli Autentificación.
-		\end{UClist}
+		Ninguna
 	}
 
 	\UCitem{Precondiciones}{
 		\begin{UClist}
-			\UCli Que el alumno este inscrito en ESCOM.
+			\UCli Iniciar sesión.
 		\end{UClist}
 	}
 
 	\UCitem{Postcondiciones}{		
-		\begin{UClist}
-			\UCli Completar el registro.
-		\end{UClist}
+		Ninguna.
 	}
 
 	\UCitem{Reglas de negocio}{
@@ -84,7 +73,7 @@
 	}
 
 	\UCitem{Errores}{
-		Ninguno
+		Ninguno.
 	}
 
 	\UCitem{Tipo}{
@@ -96,22 +85,17 @@
 
 \begin{UCtrayectoria}
 	
-	\UCpaso [\UCactor]	Selecciona \cdtButton{Autentificar inscripción} en la pantalla de registro. 
-	\UCpaso [\UCsist]Muestra la pantalla de autentificación de inscripción.
-	\UCpaso [\UCactor]Llena los campos que se piden y seleccionar \cdtButton{Autentificar inscripción}.\refTray{A}
-	\UCpaso [\UCsist]Muestra mensaje: \cdtRef{MSG}{Autentificación correcta}.
-	\UCpaso [\UCactor]Selecciona \cdtButton{Ok}.
-	\UCpaso Va al paso 4 del CU 2.
+	\UCpaso [\UCactor]	Seleccionar \cdtButton{Eliminar Perfil} en la pantalla del Perfil del alumno. 
+	\UCpaso [\UCsist]Muestra mensaje: \cdtRef{MSG}{¿Desea eliminar este perfil?}.
+	\UCpaso [\UCactor]Selecciona \cdtButton{Si}.\refTray{B}
+	\UCpaso [\UCsist]Muestra la pantalla de inicio de sesión.
 \end{UCtrayectoria}
 
 
 % Trayectorias alternativas -----------------------------------------------------------------------
 
 % Trayectoria A
-\begin{UCtrayectoriaA}{A}{La autentificación no es valida}
-	\UCpaso [\UCsist]Muestra mensaje: \cdtRef{MSG}{No se pudo autentificar}.
-	\UCpaso [\UCactor]	Selecciona \cdtButton{OK}
-	\UCpaso Vuelve al paso 3 del CU 2.
+\begin{UCtrayectoriaA}{A}{Selecciona No}
+	\UCpaso Va al paso 1 de la trayectoria principal.
 \end{UCtrayectoriaA}
-
 
